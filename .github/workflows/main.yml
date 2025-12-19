@@ -24,7 +24,7 @@ jobs:
 
       - name: Run digest script
         run: |
-          python main.py
+          python AI_News.py
 
       - name: Commit and push if changed
         run: |
