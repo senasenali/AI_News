@@ -1,15 +1,15 @@
-# 🤖 AI Digest — 2025-12-19
+# 🤖 AI Digest — 2025-12-20
 
 ## OpenAI
 
 - **Evaluating chain-of-thought monitorability**
   - https://openai.com/index/evaluating-chain-of-thought-monitorability
-- **Updating our Model Spec with teen protections**
-  - https://openai.com/index/updating-model-spec-with-teen-protections
 - **AI literacy resources for teens and parents**
   - https://openai.com/index/ai-literacy-resources-for-teens-and-parents
 - **Deepening our collaboration with the U.S. Department of Energy**
   - https://openai.com/index/us-department-of-energy-collaboration
+- **Updating our Model Spec with teen protections**
+  - https://openai.com/index/updating-model-spec-with-teen-protections
 - **Introducing GPT-5.2-Codex**
   - https://openai.com/index/introducing-gpt-5-2-codex
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **Leveraging LLMs for Structured Data Extraction from Unstructured Patient Records**
-  - https://arxiv.org/abs/2512.13700
-- **Blind Radio Mapping via Spatially Regularized Bayesian Trajectory Inference**
-  - https://arxiv.org/abs/2512.13701
-- **Adjudicator: Correcting Noisy Labels with a KG-Informed Council of LLM Agents**
-  - https://arxiv.org/abs/2512.13704
-- **LoopBench: Discovering Emergent Symmetry Breaking Strategies with LLM Swarms**
-  - https://arxiv.org/abs/2512.13713
-- **AI-Powered Annotation Pipelines for Stabilizing Large Language Models: A Human-AI Synergy Approach**
-  - https://arxiv.org/abs/2512.13714
+- **Attention as Binding: A Vector-Symbolic Perspective on Transformer Reasoning**
+  - https://arxiv.org/abs/2512.14709
+- **GR-Agent: Adaptive Graph Reasoning Agent under Incomplete Knowledge**
+  - https://arxiv.org/abs/2512.14766
+- **IaC Generation with LLMs: An Error Taxonomy and A Study on Configuration Knowledge Injection**
+  - https://arxiv.org/abs/2512.14792
+- **AgroAskAI: A Multi-Agentic AI Framework for Supporting Smallholder Farmers' Enquiries Globally**
+  - https://arxiv.org/abs/2512.14910
+- **Beyond Accuracy: A Geometric Stability Analysis of Large Language Models in Chess Evaluation**
+  - https://arxiv.org/abs/2512.15033
 
 ## arXiv CL
 
-- **Incentives or Ontology? A Structural Rebuttal to OpenAI's Hallucination Thesis**
-  - https://arxiv.org/abs/2512.14801
-- **T5Gemma 2: Seeing, Reading, and Understanding Longer**
-  - https://arxiv.org/abs/2512.14856
-- **Integrating Large Language Models and Knowledge Graphs to Capture Political Viewpoints in News Media**
-  - https://arxiv.org/abs/2512.14887
-- **DrugRAG: Enhancing Pharmacy LLM Performance Through A Novel Retrieval-Augmented Generation Pipeline**
-  - https://arxiv.org/abs/2512.14896
-- **Multiscale Aggregated Hierarchical Attention (MAHA): A Game Theoretic and Optimization Driven Approach to Efficient Contextual Modeling in Large Language Models**
-  - https://arxiv.org/abs/2512.14925
+- **TabReX : Tabular Referenceless eXplainable Evaluation**
+  - https://arxiv.org/abs/2512.15907
+- **Social Story Frames: Contextual Reasoning about Narrative Intent and Reception**
+  - https://arxiv.org/abs/2512.15925
+- **BRAID: Bounded Reasoning for Autonomous Inference and Decisions**
+  - https://arxiv.org/abs/2512.15959
+- **Examining the Utility of Self-disclosure Types for Modeling Annotators of Social Norms**
+  - https://arxiv.org/abs/2512.16034
+- **Are We on the Right Way to Assessing LLM-as-a-Judge?**
+  - https://arxiv.org/abs/2512.16041
