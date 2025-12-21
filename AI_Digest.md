@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2025-12-20
+# 🤖 AI Digest — 2025-12-21
 
 ## OpenAI
 
@@ -28,26 +28,6 @@
 
 ## arXiv AI
 
-- **Attention as Binding: A Vector-Symbolic Perspective on Transformer Reasoning**
-  - https://arxiv.org/abs/2512.14709
-- **GR-Agent: Adaptive Graph Reasoning Agent under Incomplete Knowledge**
-  - https://arxiv.org/abs/2512.14766
-- **IaC Generation with LLMs: An Error Taxonomy and A Study on Configuration Knowledge Injection**
-  - https://arxiv.org/abs/2512.14792
-- **AgroAskAI: A Multi-Agentic AI Framework for Supporting Smallholder Farmers' Enquiries Globally**
-  - https://arxiv.org/abs/2512.14910
-- **Beyond Accuracy: A Geometric Stability Analysis of Large Language Models in Chess Evaluation**
-  - https://arxiv.org/abs/2512.15033
 
 ## arXiv CL
 
-- **TabReX : Tabular Referenceless eXplainable Evaluation**
-  - https://arxiv.org/abs/2512.15907
-- **Social Story Frames: Contextual Reasoning about Narrative Intent and Reception**
-  - https://arxiv.org/abs/2512.15925
-- **BRAID: Bounded Reasoning for Autonomous Inference and Decisions**
-  - https://arxiv.org/abs/2512.15959
-- **Examining the Utility of Self-disclosure Types for Modeling Annotators of Social Norms**
-  - https://arxiv.org/abs/2512.16034
-- **Are We on the Right Way to Assessing LLM-as-a-Judge?**
-  - https://arxiv.org/abs/2512.16041
