@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2025-12-23
+# 🤖 AI Digest — 2025-12-24
 
 ## OpenAI
 
@@ -8,13 +8,15 @@
   - https://openai.com/index/hardening-atlas-against-prompt-injection
 - **Evaluating chain-of-thought monitorability**
   - https://openai.com/index/evaluating-chain-of-thought-monitorability
+- **AI literacy resources for teens and parents**
+  - https://openai.com/index/ai-literacy-resources-for-teens-and-parents
 - **Deepening our collaboration with the U.S. Department of Energy**
   - https://openai.com/index/us-department-of-energy-collaboration
-- **Updating our Model Spec with teen protections**
-  - https://openai.com/index/updating-model-spec-with-teen-protections
 
 ## Hugging Face
 
+- **AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems**
+  - https://huggingface.co/blog/ServiceNow-AI/aprielguard
 - **Tokenization in Transformers v5: Simpler, Clearer, and More Modular**
   - https://huggingface.co/blog/tokenizers
 - **The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator**
@@ -23,31 +25,29 @@
   - https://huggingface.co/blog/ibm-research/cuga-on-hugging-face
 - **New in llama.cpp: Model Management**
   - https://huggingface.co/blog/ggml-org/model-management-in-llamacpp
-- **Codex is Open Sourcing AI models**
-  - https://huggingface.co/blog/hf-skills-training-codex
 
 ## arXiv AI
 
-- **Navigating Taxonomic Expansions of Entity Sets Driven by Knowledge Bases**
-  - https://arxiv.org/abs/2512.16953
-- **Probing Scientific General Intelligence of LLMs with Scientist-Aligned Workflows**
-  - https://arxiv.org/abs/2512.16969
-- **PAACE: A Plan-Aware Automated Agent Context Engineering Framework**
-  - https://arxiv.org/abs/2512.16970
-- **Security Risks of Agentic Vehicles: A Systematic Analysis of Cognitive and Cross-Layer Threats**
-  - https://arxiv.org/abs/2512.17041
-- **UniRel-R1: RL-tuned LLM Reasoning for Knowledge Graph Relational Question Answering**
-  - https://arxiv.org/abs/2512.17043
+- **Conflict-Driven Clause Learning with VSIDS Heuristics for Discrete Facility Layout**
+  - https://arxiv.org/abs/2512.18034
+- **Faithful and Stable Neuron Explanations for Trustworthy Mechanistic Interpretability**
+  - https://arxiv.org/abs/2512.18092
+- **Rethinking Multi-Agent Intelligence Through the Lens of Small-World Networks**
+  - https://arxiv.org/abs/2512.18094
+- **Efficient Mixture-of-Agents Serving via Tree-Structured Routing, Adaptive Pruning, and Dependency-Aware Prefill-Decode Overlap**
+  - https://arxiv.org/abs/2512.18126
+- **Unifying Causal Reinforcement Learning: Survey, Taxonomy, Algorithms and Applications**
+  - https://arxiv.org/abs/2512.18135
 
 ## arXiv CL
 
-- **A Women's Health Benchmark for Large Language Models**
-  - https://arxiv.org/abs/2512.17028
-- **Knowledge Distillation with Structured Chain-of-Thought for Text-to-SQL**
-  - https://arxiv.org/abs/2512.17053
-- **XLM: A Python package for non-autoregressive language models**
-  - https://arxiv.org/abs/2512.17065
-- **Perturb Your Data: Paraphrase-Guided Training Data Watermarking**
-  - https://arxiv.org/abs/2512.17075
-- **When F1 Fails: Granularity-Aware Evaluation for Dialogue Topic Segmentation**
-  - https://arxiv.org/abs/2512.17083
+- **Towards Reasoning-Preserving Unlearning in Multimodal Large Language Models**
+  - https://arxiv.org/abs/2512.17911
+- **Graph-O1 : Monte Carlo Tree Search with Reinforcement Learning for Text-Attributed Graph Reasoning**
+  - https://arxiv.org/abs/2512.17912
+- **Q-KVComm: Efficient Multi-Agent Communication Via Adaptive KV Cache Compression**
+  - https://arxiv.org/abs/2512.17914
+- **Supplementary Resources and Analysis for Automatic Speech Recognition Systems Trained on the Loquacious Dataset**
+  - https://arxiv.org/abs/2512.17915
+- **Learning to Prioritize IT Tickets: A Comparative Evaluation of Embedding-based Approaches and Fine-Tuned Transformer Models**
+  - https://arxiv.org/abs/2512.17916
