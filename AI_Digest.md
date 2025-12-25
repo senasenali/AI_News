@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2025-12-24
+# 🤖 AI Digest — 2025-12-25
 
 ## OpenAI
 
@@ -8,10 +8,10 @@
   - https://openai.com/index/hardening-atlas-against-prompt-injection
 - **Evaluating chain-of-thought monitorability**
   - https://openai.com/index/evaluating-chain-of-thought-monitorability
-- **AI literacy resources for teens and parents**
-  - https://openai.com/index/ai-literacy-resources-for-teens-and-parents
 - **Deepening our collaboration with the U.S. Department of Energy**
   - https://openai.com/index/us-department-of-energy-collaboration
+- **AI literacy resources for teens and parents**
+  - https://openai.com/index/ai-literacy-resources-for-teens-and-parents
 
 ## Hugging Face
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **Conflict-Driven Clause Learning with VSIDS Heuristics for Discrete Facility Layout**
-  - https://arxiv.org/abs/2512.18034
-- **Faithful and Stable Neuron Explanations for Trustworthy Mechanistic Interpretability**
-  - https://arxiv.org/abs/2512.18092
-- **Rethinking Multi-Agent Intelligence Through the Lens of Small-World Networks**
-  - https://arxiv.org/abs/2512.18094
-- **Efficient Mixture-of-Agents Serving via Tree-Structured Routing, Adaptive Pruning, and Dependency-Aware Prefill-Decode Overlap**
-  - https://arxiv.org/abs/2512.18126
-- **Unifying Causal Reinforcement Learning: Survey, Taxonomy, Algorithms and Applications**
-  - https://arxiv.org/abs/2512.18135
+- **PhysMaster: Building an Autonomous AI Physicist for Theoretical and Computational Physics Research**
+  - https://arxiv.org/abs/2512.19799
+- **A Branch-and-Price Algorithm for Fast and Equitable Last-Mile Relief Aid Distribution**
+  - https://arxiv.org/abs/2512.19882
+- **Interpolative Decoding: Exploring the Spectrum of Personality Traits in LLMs**
+  - https://arxiv.org/abs/2512.19937
+- **Zero-Shot Segmentation through Prototype-Guidance for Multi-Label Plant Species Identification**
+  - https://arxiv.org/abs/2512.19957
+- **FGDCC: Fine-Grained Deep Cluster Categorization -- A Framework for Intra-Class Variability Problems in Plant Classification**
+  - https://arxiv.org/abs/2512.19960
 
 ## arXiv CL
 
-- **Towards Reasoning-Preserving Unlearning in Multimodal Large Language Models**
-  - https://arxiv.org/abs/2512.17911
-- **Graph-O1 : Monte Carlo Tree Search with Reinforcement Learning for Text-Attributed Graph Reasoning**
-  - https://arxiv.org/abs/2512.17912
-- **Q-KVComm: Efficient Multi-Agent Communication Via Adaptive KV Cache Compression**
-  - https://arxiv.org/abs/2512.17914
-- **Supplementary Resources and Analysis for Automatic Speech Recognition Systems Trained on the Loquacious Dataset**
-  - https://arxiv.org/abs/2512.17915
-- **Learning to Prioritize IT Tickets: A Comparative Evaluation of Embedding-based Approaches and Fine-Tuned Transformer Models**
-  - https://arxiv.org/abs/2512.17916
+- **HARMON-E: Hierarchical Agentic Reasoning for Multimodal Oncology Notes to Extract Structured Data**
+  - https://arxiv.org/abs/2512.19864
+- **How well do Large Language Models Recognize Instructional Moves? Establishing Baselines for Foundation Models in Educational Discourse**
+  - https://arxiv.org/abs/2512.19903
+- **Counterfactual LLM-based Framework for Measuring Rhetorical Style**
+  - https://arxiv.org/abs/2512.19908
+- **PRISM: A Personality-Driven Multi-Agent Framework for Social Media Simulation**
+  - https://arxiv.org/abs/2512.19933
+- **Bias Beneath the Tone: Empirical Characterisation of Tone Bias in LLM-Driven UX Systems**
+  - https://arxiv.org/abs/2512.19950
