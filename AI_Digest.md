@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2025-12-25
+# 🤖 AI Digest — 2025-12-26
 
 ## OpenAI
 
@@ -41,13 +41,13 @@
 
 ## arXiv CL
 
-- **HARMON-E: Hierarchical Agentic Reasoning for Multimodal Oncology Notes to Extract Structured Data**
-  - https://arxiv.org/abs/2512.19864
-- **How well do Large Language Models Recognize Instructional Moves? Establishing Baselines for Foundation Models in Educational Discourse**
-  - https://arxiv.org/abs/2512.19903
-- **Counterfactual LLM-based Framework for Measuring Rhetorical Style**
-  - https://arxiv.org/abs/2512.19908
-- **PRISM: A Personality-Driven Multi-Agent Framework for Social Media Simulation**
-  - https://arxiv.org/abs/2512.19933
-- **Bias Beneath the Tone: Empirical Characterisation of Tone Bias in LLM-Driven UX Systems**
-  - https://arxiv.org/abs/2512.19950
+- **Uncovering Competency Gaps in Large Language Models and Their Benchmarks**
+  - https://arxiv.org/abs/2512.20638
+- **SA-DiffuSeq: Addressing Computational and Scalability Challenges in Long-Document Generation with Sparse Attention**
+  - https://arxiv.org/abs/2512.20724
+- **TokSuite: Measuring the Impact of Tokenizer Choice on Language Model Behavior**
+  - https://arxiv.org/abs/2512.20757
+- **Adversarial Training for Failure-Sensitive User Simulation in Mental Health Dialogue Optimization**
+  - https://arxiv.org/abs/2512.20773
+- **Large Language Models Approach Expert Pedagogical Quality in Math Tutoring but Differ in Instructional and Linguistic Profiles**
+  - https://arxiv.org/abs/2512.20780
