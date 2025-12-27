@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2025-12-26
+# 🤖 AI Digest — 2025-12-27
 
 ## OpenAI
 
@@ -28,26 +28,16 @@
 
 ## arXiv AI
 
-- **PhysMaster: Building an Autonomous AI Physicist for Theoretical and Computational Physics Research**
-  - https://arxiv.org/abs/2512.19799
-- **A Branch-and-Price Algorithm for Fast and Equitable Last-Mile Relief Aid Distribution**
-  - https://arxiv.org/abs/2512.19882
-- **Interpolative Decoding: Exploring the Spectrum of Personality Traits in LLMs**
-  - https://arxiv.org/abs/2512.19937
-- **Zero-Shot Segmentation through Prototype-Guidance for Multi-Label Plant Species Identification**
-  - https://arxiv.org/abs/2512.19957
-- **FGDCC: Fine-Grained Deep Cluster Categorization -- A Framework for Intra-Class Variability Problems in Plant Classification**
-  - https://arxiv.org/abs/2512.19960
+- **BitRL-Light: 1-bit LLM Agents with Deep Reinforcement Learning for Energy-Efficient Smart Home Lighting Optimization**
+  - https://arxiv.org/abs/2512.20623
+- **Quantum-Inspired Multi Agent Reinforcement Learning for Exploration Exploitation Optimization in UAV-Assisted 6G Network Deployment**
+  - https://arxiv.org/abs/2512.20624
+- **MegaRAG: Multimodal Knowledge Graph-Based Retrieval Augmented Generation**
+  - https://arxiv.org/abs/2512.20626
+- **Proceedings of the 20th International Conference on Knowledge, Information and Creativity Support Systems (KICSS 2025)**
+  - https://arxiv.org/abs/2512.20628
+- **MicroProbe: Efficient Reliability Assessment for Foundation Models with Minimal Data**
+  - https://arxiv.org/abs/2512.20630
 
 ## arXiv CL
 
-- **Uncovering Competency Gaps in Large Language Models and Their Benchmarks**
-  - https://arxiv.org/abs/2512.20638
-- **SA-DiffuSeq: Addressing Computational and Scalability Challenges in Long-Document Generation with Sparse Attention**
-  - https://arxiv.org/abs/2512.20724
-- **TokSuite: Measuring the Impact of Tokenizer Choice on Language Model Behavior**
-  - https://arxiv.org/abs/2512.20757
-- **Adversarial Training for Failure-Sensitive User Simulation in Mental Health Dialogue Optimization**
-  - https://arxiv.org/abs/2512.20773
-- **Large Language Models Approach Expert Pedagogical Quality in Math Tutoring but Differ in Instructional and Linguistic Profiles**
-  - https://arxiv.org/abs/2512.20780
