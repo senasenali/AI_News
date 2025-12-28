@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2025-12-27
+# 🤖 AI Digest — 2025-12-28
 
 ## OpenAI
 
@@ -28,16 +28,6 @@
 
 ## arXiv AI
 
-- **BitRL-Light: 1-bit LLM Agents with Deep Reinforcement Learning for Energy-Efficient Smart Home Lighting Optimization**
-  - https://arxiv.org/abs/2512.20623
-- **Quantum-Inspired Multi Agent Reinforcement Learning for Exploration Exploitation Optimization in UAV-Assisted 6G Network Deployment**
-  - https://arxiv.org/abs/2512.20624
-- **MegaRAG: Multimodal Knowledge Graph-Based Retrieval Augmented Generation**
-  - https://arxiv.org/abs/2512.20626
-- **Proceedings of the 20th International Conference on Knowledge, Information and Creativity Support Systems (KICSS 2025)**
-  - https://arxiv.org/abs/2512.20628
-- **MicroProbe: Efficient Reliability Assessment for Foundation Models with Minimal Data**
-  - https://arxiv.org/abs/2512.20630
 
 ## arXiv CL
 
