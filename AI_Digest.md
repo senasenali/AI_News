@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2025-12-29
+# 🤖 AI Digest — 2025-12-30
 
 ## OpenAI
 
@@ -28,6 +28,26 @@
 
 ## arXiv AI
 
+- **From Visual Perception to Deep Empathy: An Automated Assessment Framework for House-Tree-Person Drawings Using Multimodal LLMs and Multi-Agent Collaboration**
+  - https://arxiv.org/abs/2512.21360
+- **A Study of Solving Life-and-Death Problems in Go Using Relevance-Zone Based Solvers**
+  - https://arxiv.org/abs/2512.21365
+- **Three-way conflict analysis based on alliance and conflict functions**
+  - https://arxiv.org/abs/2512.21419
+- **Feasible strategies in three-way conflict analysis with three-valued ratings**
+  - https://arxiv.org/abs/2512.21420
+- **Three-way decision with incomplete information based on similarity and satisfiability**
+  - https://arxiv.org/abs/2512.21421
 
 ## arXiv CL
 
+- **Teaching People LLM's Errors and Getting it Right**
+  - https://arxiv.org/abs/2512.21422
+- **Morality is Contextual: Learning Interpretable Moral Contexts from Human Data with Probabilistic Clustering and Large Language Models**
+  - https://arxiv.org/abs/2512.21439
+- **Oogiri-Master: Benchmarking Humor Understanding via Oogiri**
+  - https://arxiv.org/abs/2512.21494
+- **Beyond Heuristics: A Decision-Theoretic Framework for Agent Memory Management**
+  - https://arxiv.org/abs/2512.21567
+- **A Unified Definition of Hallucination, Or: It's the World Model, Stupid**
+  - https://arxiv.org/abs/2512.21577
