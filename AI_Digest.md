@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2025-12-30
+# 🤖 AI Digest — 2025-12-31
 
 ## OpenAI
 
@@ -41,13 +41,13 @@
 
 ## arXiv CL
 
-- **Teaching People LLM's Errors and Getting it Right**
-  - https://arxiv.org/abs/2512.21422
-- **Morality is Contextual: Learning Interpretable Moral Contexts from Human Data with Probabilistic Clustering and Large Language Models**
-  - https://arxiv.org/abs/2512.21439
-- **Oogiri-Master: Benchmarking Humor Understanding via Oogiri**
-  - https://arxiv.org/abs/2512.21494
-- **Beyond Heuristics: A Decision-Theoretic Framework for Agent Memory Management**
-  - https://arxiv.org/abs/2512.21567
-- **A Unified Definition of Hallucination, Or: It's the World Model, Stupid**
-  - https://arxiv.org/abs/2512.21577
+- **Open-Source Multimodal Moxin Models with Moxin-VLM and Moxin-VLA**
+  - https://arxiv.org/abs/2512.22208
+- **Hierarchical Geometry of Cognitive States in Transformer Embedding Spaces**
+  - https://arxiv.org/abs/2512.22227
+- **SmartSnap: Proactive Evidence Seeking for Self-Verifying Agents**
+  - https://arxiv.org/abs/2512.22322
+- **The Syntax of qulk-clauses in Yemeni Ibbi Arabic: A Minimalist Approach**
+  - https://arxiv.org/abs/2512.22376
+- **Towards Efficient Post-Training via Fourier-Driven Adapter Architectures**
+  - https://arxiv.org/abs/2512.22378
