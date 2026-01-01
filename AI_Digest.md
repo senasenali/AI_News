@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2025-12-31
+# 🤖 AI Digest — 2026-01-01
 
 ## OpenAI
 
@@ -28,26 +28,16 @@
 
 ## arXiv AI
 
-- **From Visual Perception to Deep Empathy: An Automated Assessment Framework for House-Tree-Person Drawings Using Multimodal LLMs and Multi-Agent Collaboration**
-  - https://arxiv.org/abs/2512.21360
-- **A Study of Solving Life-and-Death Problems in Go Using Relevance-Zone Based Solvers**
-  - https://arxiv.org/abs/2512.21365
-- **Three-way conflict analysis based on alliance and conflict functions**
-  - https://arxiv.org/abs/2512.21419
-- **Feasible strategies in three-way conflict analysis with three-valued ratings**
-  - https://arxiv.org/abs/2512.21420
-- **Three-way decision with incomplete information based on similarity and satisfiability**
-  - https://arxiv.org/abs/2512.21421
+- **Bidirectional RAG: Safe Self-Improving Retrieval-Augmented Generation Through Multi-Stage Validation**
+  - https://arxiv.org/abs/2512.22199
+- **Emergent Persuasion: Will LLMs Persuade Without Being Prompted?**
+  - https://arxiv.org/abs/2512.22201
+- **GamiBench: Evaluating Spatial Reasoning and 2D-to-3D Planning Capabilities of MLLMs with Origami Folding Tasks**
+  - https://arxiv.org/abs/2512.22207
+- **Toward Equitable Recovery: A Fairness-Aware AI Framework for Prioritizing Post-Flood Aid in Bangladesh**
+  - https://arxiv.org/abs/2512.22210
+- **With Great Capabilities Come Great Responsibilities: Introducing the Agentic Risk & Capability Framework for Governing Agentic AI Systems**
+  - https://arxiv.org/abs/2512.22211
 
 ## arXiv CL
 
-- **Open-Source Multimodal Moxin Models with Moxin-VLM and Moxin-VLA**
-  - https://arxiv.org/abs/2512.22208
-- **Hierarchical Geometry of Cognitive States in Transformer Embedding Spaces**
-  - https://arxiv.org/abs/2512.22227
-- **SmartSnap: Proactive Evidence Seeking for Self-Verifying Agents**
-  - https://arxiv.org/abs/2512.22322
-- **The Syntax of qulk-clauses in Yemeni Ibbi Arabic: A Minimalist Approach**
-  - https://arxiv.org/abs/2512.22376
-- **Towards Efficient Post-Training via Fourier-Driven Adapter Architectures**
-  - https://arxiv.org/abs/2512.22378
