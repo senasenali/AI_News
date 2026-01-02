@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-01-01
+# 🤖 AI Digest — 2026-01-02
 
 ## OpenAI
 
@@ -10,8 +10,8 @@
   - https://openai.com/index/evaluating-chain-of-thought-monitorability
 - **Deepening our collaboration with the U.S. Department of Energy**
   - https://openai.com/index/us-department-of-energy-collaboration
-- **AI literacy resources for teens and parents**
-  - https://openai.com/index/ai-literacy-resources-for-teens-and-parents
+- **Updating our Model Spec with teen protections**
+  - https://openai.com/index/updating-model-spec-with-teen-protections
 
 ## Hugging Face
 
@@ -28,16 +28,26 @@
 
 ## arXiv AI
 
-- **Bidirectional RAG: Safe Self-Improving Retrieval-Augmented Generation Through Multi-Stage Validation**
-  - https://arxiv.org/abs/2512.22199
-- **Emergent Persuasion: Will LLMs Persuade Without Being Prompted?**
-  - https://arxiv.org/abs/2512.22201
-- **GamiBench: Evaluating Spatial Reasoning and 2D-to-3D Planning Capabilities of MLLMs with Origami Folding Tasks**
-  - https://arxiv.org/abs/2512.22207
-- **Toward Equitable Recovery: A Fairness-Aware AI Framework for Prioritizing Post-Flood Aid in Bangladesh**
-  - https://arxiv.org/abs/2512.22210
-- **With Great Capabilities Come Great Responsibilities: Introducing the Agentic Risk & Capability Framework for Governing Agentic AI Systems**
-  - https://arxiv.org/abs/2512.22211
+- **The Drill-Down and Fabricate Test (DDFT): A Protocol for Measuring Epistemic Robustness in Language Models**
+  - https://arxiv.org/abs/2512.23850
+- **CASCADE: Cumulative Agentic Skill Creation through Autonomous Development and Evolution**
+  - https://arxiv.org/abs/2512.23880
+- **A Proof-of-Concept for Explainable Disease Diagnosis Using Large Language Models and Answer Set Programming**
+  - https://arxiv.org/abs/2512.23932
+- **SPARK: Search Personalization via Agent-Driven Retrieval and Knowledge-sharing**
+  - https://arxiv.org/abs/2512.24008
+- **ROAD: Reflective Optimization via Automated Debugging for Zero-Shot Agent Alignment**
+  - https://arxiv.org/abs/2512.24040
 
 ## arXiv CL
 
+- **Enriching Historical Records: An OCR and AI-Driven Approach for Database Integration**
+  - https://arxiv.org/abs/2512.23710
+- **CAT: A Metric-Driven Framework for Analyzing the Consistency-Accuracy Relation of LLMs under Controlled Input Variations**
+  - https://arxiv.org/abs/2512.23711
+- **STED and Consistency Scoring: A Framework for Evaluating LLM Structured Output Reliability**
+  - https://arxiv.org/abs/2512.23712
+- **PyBangla at BLP-2025 Task 2: Enhancing Bangla-to-Python Code Generation with Iterative Self-Correction and Multilingual Agents**
+  - https://arxiv.org/abs/2512.23713
+- **PharmaShip: An Entity-Centric, Reading-Order-Supervised Benchmark for Chinese Pharmaceutical Shipping Documents**
+  - https://arxiv.org/abs/2512.23714
