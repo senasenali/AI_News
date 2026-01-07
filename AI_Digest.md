@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-01-06
+# 🤖 AI Digest — 2026-01-07
 
 ## OpenAI
 
@@ -15,8 +15,8 @@
 
 ## Hugging Face
 
-- **NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI**
-  - https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning
+- **Small Yet Mighty: Improve Accuracy In Multimodal Search and Visual Document Retrieval with Llama Nemotron RAG Models**
+  - https://huggingface.co/blog/nvidia/llama-nemotron-vl-1b
 - **Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture**
   - https://huggingface.co/blog/tiiuae/falcon-h1-arabic
 - **NVIDIA brings agents to life with DGX Spark and Reachy Mini**
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **Reasoning in Action: MCTS-Driven Knowledge Retrieval for Large Language Models**
-  - https://arxiv.org/abs/2601.00003
-- **Finetuning Large Language Models for Automated Depression Screening in Nigerian Pidgin English: GENSCORE Pilot Study**
-  - https://arxiv.org/abs/2601.00004
-- **Toward a Physical Theory of Intelligence**
-  - https://arxiv.org/abs/2601.00021
-- **A multi-algorithm approach for operational human resources workload balancing in a last mile urban delivery system**
-  - https://arxiv.org/abs/2601.00023
-- **Quantitative Rule-Based Strategy modeling in Classic Indian Rummy: A Metric Optimization Approach**
-  - https://arxiv.org/abs/2601.00024
+- **Semantic Alignment of Multilingual Knowledge Graphs via Contextualized Vector Projections**
+  - https://arxiv.org/abs/2601.00814
+- **MathLedger: A Verifiable Learning Substrate with Ledger-Attested Feedback**
+  - https://arxiv.org/abs/2601.00816
+- **Agentic AI for Autonomous, Explainable, and Real-Time Credit Risk Decision-Making**
+  - https://arxiv.org/abs/2601.00818
+- **CogCanvas: Compression-Resistant Cognitive Artifacts for Long LLM Conversations**
+  - https://arxiv.org/abs/2601.00821
+- **Energy-Aware Routing to Large Reasoning Models**
+  - https://arxiv.org/abs/2601.00823
 
 ## arXiv CL
 
-- **RIMRULE: Improving Tool-Using Language Agents via MDL-Guided Rule Learning**
-  - https://arxiv.org/abs/2601.00086
-- **Universal Adaptive Constraint Propagation: Scaling Structured Inference for Large Language Models via Meta-Reinforcement Learning**
-  - https://arxiv.org/abs/2601.00095
-- **Pat-DEVAL: Chain-of-Legal-Thought Evaluation for Patent Description**
-  - https://arxiv.org/abs/2601.00166
-- **Understanding Emotion in Discourse: Recognition Insights and Linguistic Patterns for Generation**
-  - https://arxiv.org/abs/2601.00181
-- **Knowledge Distillation for Temporal Knowledge Graph Reasoning with Large Language Models**
-  - https://arxiv.org/abs/2601.00202
+- **The Qualitative Laboratory: Theory Prototyping and Hypothesis Generation with Large Language Models**
+  - https://arxiv.org/abs/2601.00797
+- **Rate-Distortion Analysis of Compressed Query Delegation with Low-Rank Riemannian Updates**
+  - https://arxiv.org/abs/2601.00938
+- **Intention Collapse: Intention-Level Metrics for Reasoning in Language Models**
+  - https://arxiv.org/abs/2601.01011
+- **HyperJoin: LLM-augmented Hypergraph Link Prediction for Joinable Table Discovery**
+  - https://arxiv.org/abs/2601.01015
+- **Multi-Dimensional Prompt Chaining to Improve Open-Domain Dialogue Generation**
+  - https://arxiv.org/abs/2601.01037
