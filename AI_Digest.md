@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-01-07
+# 🤖 AI Digest — 2026-01-08
 
 ## OpenAI
 
+- **How Tolan builds voice-first AI with GPT-5.1**
+  - https://openai.com/index/tolan
+- **Introducing ChatGPT Health**
+  - https://openai.com/index/introducing-chatgpt-health
 - **Announcing OpenAI Grove Cohort 2**
   - https://openai.com/index/openai-grove
-- **Continuously hardening ChatGPT Atlas against prompt injection**
-  - https://openai.com/index/hardening-atlas-against-prompt-injection
 - **One in a million: celebrating the customers shaping AI’s future**
   - https://openai.com/index/one-in-a-million-customers
-- **Evaluating chain-of-thought monitorability**
-  - https://openai.com/index/evaluating-chain-of-thought-monitorability
-- **Updating our Model Spec with teen protections**
-  - https://openai.com/index/updating-model-spec-with-teen-protections
+- **Continuously hardening ChatGPT Atlas against prompt injection**
+  - https://openai.com/index/hardening-atlas-against-prompt-injection
 
 ## Hugging Face
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **Semantic Alignment of Multilingual Knowledge Graphs via Contextualized Vector Projections**
-  - https://arxiv.org/abs/2601.00814
-- **MathLedger: A Verifiable Learning Substrate with Ledger-Attested Feedback**
-  - https://arxiv.org/abs/2601.00816
-- **Agentic AI for Autonomous, Explainable, and Real-Time Credit Risk Decision-Making**
-  - https://arxiv.org/abs/2601.00818
-- **CogCanvas: Compression-Resistant Cognitive Artifacts for Long LLM Conversations**
-  - https://arxiv.org/abs/2601.00821
-- **Energy-Aware Routing to Large Reasoning Models**
-  - https://arxiv.org/abs/2601.00823
+- **Textual Explanations and Their Evaluations for Reinforcement Learning Policy**
+  - https://arxiv.org/abs/2601.02514
+- **SimpleMem: Efficient Lifelong Memory for LLM Agents**
+  - https://arxiv.org/abs/2601.02553
+- **Orchestral AI: A Framework for Agent Orchestration**
+  - https://arxiv.org/abs/2601.02577
+- **An Empirical Study of On-Device Translation for Real-Time Live-Stream Chat on Mobile Devices**
+  - https://arxiv.org/abs/2601.02641
+- **AWARE-US: Benchmark for Preference-Aware Resolution in Tool-Calling Agents**
+  - https://arxiv.org/abs/2601.02643
 
 ## arXiv CL
 
-- **The Qualitative Laboratory: Theory Prototyping and Hypothesis Generation with Large Language Models**
-  - https://arxiv.org/abs/2601.00797
-- **Rate-Distortion Analysis of Compressed Query Delegation with Low-Rank Riemannian Updates**
-  - https://arxiv.org/abs/2601.00938
-- **Intention Collapse: Intention-Level Metrics for Reasoning in Language Models**
-  - https://arxiv.org/abs/2601.01011
-- **HyperJoin: LLM-augmented Hypergraph Link Prediction for Joinable Table Discovery**
-  - https://arxiv.org/abs/2601.01015
-- **Multi-Dimensional Prompt Chaining to Improve Open-Domain Dialogue Generation**
-  - https://arxiv.org/abs/2601.01037
+- **WearVox: An Egocentric Multichannel Voice Assistant Benchmark for Wearables**
+  - https://arxiv.org/abs/2601.02391
+- **PCEval: A Benchmark for Evaluating Physical Computing Capabilities of Large Language Models**
+  - https://arxiv.org/abs/2601.02404
+- **Losses that Cook: Topological Optimal Transport for Structured Recipe Generation**
+  - https://arxiv.org/abs/2601.02531
+- **ModeX: Evaluator-Free Best-of-N Selection for Open-Ended Generation**
+  - https://arxiv.org/abs/2601.02535
+- **LoRA-Drop: Temporal LoRA Decoding for Efficient LLM Inference**
+  - https://arxiv.org/abs/2601.02569
