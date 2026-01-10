@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-01-09
+# 🤖 AI Digest — 2026-01-10
 
 ## OpenAI
 
+- **OpenAI and SoftBank Group partner with SB Energy**
+  - https://openai.com/index/stargate-sb-energy-partnership
+- **Datadog uses Codex for system-level code review**
+  - https://openai.com/index/datadog
 - **Netomi’s lessons for scaling agentic systems into the enterprise**
   - https://openai.com/index/netomi
 - **OpenAI for Healthcare**
   - https://openai.com/index/openai-for-healthcare
 - **How Tolan builds voice-first AI with GPT-5.1**
   - https://openai.com/index/tolan
-- **Introducing ChatGPT Health**
-  - https://openai.com/index/introducing-chatgpt-health
-- **Announcing OpenAI Grove Cohort 2**
-  - https://openai.com/index/openai-grove
 
 ## Hugging Face
 
@@ -41,13 +41,13 @@
 
 ## arXiv CL
 
-- **DeepResearch-Slice: Bridging the Retrieval-Utilization Gap via Explicit Text Slicing**
-  - https://arxiv.org/abs/2601.03261
-- **Internal Reasoning vs. External Control: A Thermodynamic Analysis of Sycophancy in Large Language Models**
-  - https://arxiv.org/abs/2601.03263
-- **Jailbreak-Zero: A Path to Pareto Optimal Red Teaming for Large Language Models**
-  - https://arxiv.org/abs/2601.03265
-- **Benchmarking and Adapting On-Device Large Language Models for Clinical Decision Support**
-  - https://arxiv.org/abs/2601.03266
-- **OpenAI GPT-5 System Card**
-  - https://arxiv.org/abs/2601.03267
+- **MedPI: Evaluating AI Systems in Medical Patient-facing Interactions**
+  - https://arxiv.org/abs/2601.04195
+- **RAGVUE: A Diagnostic View for Explainable and Automated Evaluation of Retrieval-Augmented Generation**
+  - https://arxiv.org/abs/2601.04196
+- **Automatic Construction of Chinese Verb Collostruction Database**
+  - https://arxiv.org/abs/2601.04197
+- **Attribute-Aware Controlled Product Generation with LLMs for E-commerce**
+  - https://arxiv.org/abs/2601.04200
+- **Collective Narrative Grounding: Community-Coordinated Data Contributions to Improve Local AI Systems**
+  - https://arxiv.org/abs/2601.04201
