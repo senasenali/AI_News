@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-01-10
+# 🤖 AI Digest — 2026-01-11
 
 ## OpenAI
 
@@ -28,26 +28,6 @@
 
 ## arXiv AI
 
-- **Mastering the Game of Go with Self-play Experience Replay**
-  - https://arxiv.org/abs/2601.03306
-- **Digital Red Queen: Adversarial Program Evolution in Core War with LLMs**
-  - https://arxiv.org/abs/2601.03335
-- **Enhancing LLM Instruction Following: An Evaluation-Driven Multi-Agentic Workflow for Prompt Instructions Optimization**
-  - https://arxiv.org/abs/2601.03359
-- **Exploration Through Introspection: A Self-Aware Reward Model**
-  - https://arxiv.org/abs/2601.03389
-- **Toward Maturity-Based Certification of Embodied AI: Quantifying Trustworthiness Through Measurement Mechanisms**
-  - https://arxiv.org/abs/2601.03470
 
 ## arXiv CL
 
-- **MedPI: Evaluating AI Systems in Medical Patient-facing Interactions**
-  - https://arxiv.org/abs/2601.04195
-- **RAGVUE: A Diagnostic View for Explainable and Automated Evaluation of Retrieval-Augmented Generation**
-  - https://arxiv.org/abs/2601.04196
-- **Automatic Construction of Chinese Verb Collostruction Database**
-  - https://arxiv.org/abs/2601.04197
-- **Attribute-Aware Controlled Product Generation with LLMs for E-commerce**
-  - https://arxiv.org/abs/2601.04200
-- **Collective Narrative Grounding: Community-Coordinated Data Contributions to Improve Local AI Systems**
-  - https://arxiv.org/abs/2601.04201
