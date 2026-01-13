@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-01-12
+# 🤖 AI Digest — 2026-01-13
 
 ## OpenAI
 
@@ -28,6 +28,26 @@
 
 ## arXiv AI
 
+- **Naiad: Novel Agentic Intelligent Autonomous System for Inland Water Monitoring**
+  - https://arxiv.org/abs/2601.05256
+- **Mathematical Knowledge Graph-Driven Framework for Equation-Based Predictive and Reliable Additive Manufacturing**
+  - https://arxiv.org/abs/2601.05298
+- **Effects of personality steering on cooperative behavior in Large Language Model agents**
+  - https://arxiv.org/abs/2601.05302
+- **Improving Enzyme Prediction with Chemical Reaction Equations by Hypergraph-Enhanced Knowledge Graph Embeddings**
+  - https://arxiv.org/abs/2601.05330
+- **The Persona Paradox: Medical Personas as Behavioral Priors in Clinical Language Models**
+  - https://arxiv.org/abs/2601.05376
 
 ## arXiv CL
 
+- **Enhancing Foundation Models in Transaction Understanding with LLM-based Sentence Embeddings**
+  - https://arxiv.org/abs/2601.05271
+- **The Table of Media Bias Elements: A sentence-level taxonomy of media bias types and propaganda techniques**
+  - https://arxiv.org/abs/2601.05358
+- **Lost in Execution: On the Multilingual Robustness of Tool Calling in Large Language Models**
+  - https://arxiv.org/abs/2601.05366
+- **Same Claim, Different Judgment: Benchmarking Scenario-Induced Bias in Multilingual Financial Misinformation Detection**
+  - https://arxiv.org/abs/2601.05403
+- **Glitter: Visualizing Lexical Surprisal for Readability in Administrative Texts**
+  - https://arxiv.org/abs/2601.05411
