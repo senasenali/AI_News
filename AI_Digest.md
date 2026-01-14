@@ -1,7 +1,9 @@
-# 🤖 AI Digest — 2026-01-13
+# 🤖 AI Digest — 2026-01-14
 
 ## OpenAI
 
+- **Zenken boosts a lean sales team with ChatGPT Enterprise**
+  - https://openai.com/index/zenken
 - **OpenAI and SoftBank Group partner with SB Energy**
   - https://openai.com/index/stargate-sb-energy-partnership
 - **Datadog uses Codex for system-level code review**
@@ -10,8 +12,6 @@
   - https://openai.com/index/netomi
 - **OpenAI for Healthcare**
   - https://openai.com/index/openai-for-healthcare
-- **How Tolan builds voice-first AI with GPT-5.1**
-  - https://openai.com/index/tolan
 
 ## Hugging Face
 
@@ -41,13 +41,13 @@
 
 ## arXiv CL
 
-- **Enhancing Foundation Models in Transaction Understanding with LLM-based Sentence Embeddings**
-  - https://arxiv.org/abs/2601.05271
-- **The Table of Media Bias Elements: A sentence-level taxonomy of media bias types and propaganda techniques**
-  - https://arxiv.org/abs/2601.05358
-- **Lost in Execution: On the Multilingual Robustness of Tool Calling in Large Language Models**
-  - https://arxiv.org/abs/2601.05366
-- **Same Claim, Different Judgment: Benchmarking Scenario-Induced Bias in Multilingual Financial Misinformation Detection**
-  - https://arxiv.org/abs/2601.05403
-- **Glitter: Visualizing Lexical Surprisal for Readability in Administrative Texts**
-  - https://arxiv.org/abs/2601.05411
+- **TeleMem: Building Long-Term and Multimodal Memory for Agentic AI**
+  - https://arxiv.org/abs/2601.06037
+- **Operation Veja: Fixing Fundamental Concepts Missing from Modern Roleplaying Training Paradigms**
+  - https://arxiv.org/abs/2601.06039
+- **Lexical and Statistical Analysis of Bangla Newspaper and Literature: A Corpus-Driven Study on Diversity, Readability, and NLP Adaptation**
+  - https://arxiv.org/abs/2601.06041
+- **Reinforcement Learning for Chain of Thought Compression with One-Domain-to-All Generalization**
+  - https://arxiv.org/abs/2601.06052
+- **A Multi-Stage Workflow for the Review of Marketing Content with Reasoning Large Language Models**
+  - https://arxiv.org/abs/2601.06054
