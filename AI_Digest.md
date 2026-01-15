@@ -1,7 +1,9 @@
-# 🤖 AI Digest — 2026-01-14
+# 🤖 AI Digest — 2026-01-15
 
 ## OpenAI
 
+- **OpenAI partners with Cerebras**
+  - https://openai.com/index/cerebras-partnership
 - **Zenken boosts a lean sales team with ChatGPT Enterprise**
   - https://openai.com/index/zenken
 - **OpenAI and SoftBank Group partner with SB Energy**
@@ -10,8 +12,6 @@
   - https://openai.com/index/datadog
 - **Netomi’s lessons for scaling agentic systems into the enterprise**
   - https://openai.com/index/netomi
-- **OpenAI for Healthcare**
-  - https://openai.com/index/openai-for-healthcare
 
 ## Hugging Face
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **Naiad: Novel Agentic Intelligent Autonomous System for Inland Water Monitoring**
-  - https://arxiv.org/abs/2601.05256
-- **Mathematical Knowledge Graph-Driven Framework for Equation-Based Predictive and Reliable Additive Manufacturing**
-  - https://arxiv.org/abs/2601.05298
-- **Effects of personality steering on cooperative behavior in Large Language Model agents**
-  - https://arxiv.org/abs/2601.05302
-- **Improving Enzyme Prediction with Chemical Reaction Equations by Hypergraph-Enhanced Knowledge Graph Embeddings**
-  - https://arxiv.org/abs/2601.05330
-- **The Persona Paradox: Medical Personas as Behavioral Priors in Clinical Language Models**
-  - https://arxiv.org/abs/2601.05376
+- **Bridging the Trust Gap: Clinician-Validated Hybrid Explainable AI for Maternal Health Risk Assessment in Bangladesh**
+  - https://arxiv.org/abs/2601.07866
+- **Executable Ontologies in Game Development: From Algorithmic Control to Semantic World Modeling**
+  - https://arxiv.org/abs/2601.07964
+- **When Models Know When They Do Not Know: Calibration, Cascading, and Cleaning**
+  - https://arxiv.org/abs/2601.07965
+- **Reasoning over Precedents Alongside Statutes: Case-Augmented Deliberative Alignment for LLM Safety**
+  - https://arxiv.org/abs/2601.08000
+- **Internal Deployment Gaps in AI Regulation**
+  - https://arxiv.org/abs/2601.08005
 
 ## arXiv CL
 
-- **TeleMem: Building Long-Term and Multimodal Memory for Agentic AI**
-  - https://arxiv.org/abs/2601.06037
-- **Operation Veja: Fixing Fundamental Concepts Missing from Modern Roleplaying Training Paradigms**
-  - https://arxiv.org/abs/2601.06039
-- **Lexical and Statistical Analysis of Bangla Newspaper and Literature: A Corpus-Driven Study on Diversity, Readability, and NLP Adaptation**
-  - https://arxiv.org/abs/2601.06041
-- **Reinforcement Learning for Chain of Thought Compression with One-Domain-to-All Generalization**
-  - https://arxiv.org/abs/2601.06052
-- **A Multi-Stage Workflow for the Review of Marketing Content with Reasoning Large Language Models**
-  - https://arxiv.org/abs/2601.06054
+- **EmbeddingRWKV: State-Centric Retrieval with Reusable States**
+  - https://arxiv.org/abs/2601.07861
+- **A Human-Centric Pipeline for Aligning Large Language Models with Chinese Medical Ethics**
+  - https://arxiv.org/abs/2601.07954
+- **Knowing But Not Doing: Convergent Morality and Divergent Action in LLMs**
+  - https://arxiv.org/abs/2601.07972
+- **Explaining Generalization of AI-Generated Text Detectors Through Linguistic Analysis**
+  - https://arxiv.org/abs/2601.07974
+- **Cross-Cultural Expert-Level Art Critique Evaluation with Vision-Language Models**
+  - https://arxiv.org/abs/2601.07984
