@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-01-16
+# 🤖 AI Digest — 2026-01-17
 
 ## OpenAI
 
+- **The truth left out from Elon Musk’s recent court filing**
+  - https://openai.com/index/the-truth-elon-left-out
+- **Introducing ChatGPT Go, now available worldwide**
+  - https://openai.com/index/introducing-chatgpt-go
+- **Our approach to advertising and expanding access to ChatGPT**
+  - https://openai.com/index/our-approach-to-advertising-and-expanding-access
 - **Investing in Merge Labs**
   - https://openai.com/index/investing-in-merge-labs
 - **Strengthening the U.S. AI supply chain through domestic manufacturing**
   - https://openai.com/index/strengthening-the-us-ai-supply-chain
-- **OpenAI partners with Cerebras**
-  - https://openai.com/index/cerebras-partnership
-- **Zenken boosts a lean sales team with ChatGPT Enterprise**
-  - https://openai.com/index/zenken
-- **OpenAI and SoftBank Group partner with SB Energy**
-  - https://openai.com/index/stargate-sb-energy-partnership
 
 ## Hugging Face
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **Bridging the Trust Gap: Clinician-Validated Hybrid Explainable AI for Maternal Health Risk Assessment in Bangladesh**
-  - https://arxiv.org/abs/2601.07866
-- **Executable Ontologies in Game Development: From Algorithmic Control to Semantic World Modeling**
-  - https://arxiv.org/abs/2601.07964
-- **When Models Know When They Do Not Know: Calibration, Cascading, and Cleaning**
-  - https://arxiv.org/abs/2601.07965
-- **Reasoning over Precedents Alongside Statutes: Case-Augmented Deliberative Alignment for LLM Safety**
-  - https://arxiv.org/abs/2601.08000
-- **Internal Deployment Gaps in AI Regulation**
-  - https://arxiv.org/abs/2601.08005
+- **AI Survival Stories: a Taxonomic Analysis of AI Existential Risk**
+  - https://arxiv.org/abs/2601.09765
+- **GUI-Eyes: Tool-Augmented Perception for Visual Grounding in GUI Agents**
+  - https://arxiv.org/abs/2601.09770
+- **PCN-Rec: Agentic Proof-Carrying Negotiation for Reliable Governance-Constrained Recommendation**
+  - https://arxiv.org/abs/2601.09771
+- **Antisocial behavior towards large language model users: experimental evidence**
+  - https://arxiv.org/abs/2601.09772
+- **Improving Chain-of-Thought for Logical Reasoning via Attention-Aware Intervention**
+  - https://arxiv.org/abs/2601.09805
 
 ## arXiv CL
 
-- **DeliberationBench: When Do More Voices Hurt? A Controlled Study of Multi-LLM Deliberation Protocols**
-  - https://arxiv.org/abs/2601.08835
-- **A Review: PTSD in Pre-Existing Medical Condition on Social Media**
-  - https://arxiv.org/abs/2601.08836
-- **From Adversarial Poetry to Adversarial Tales: An Interpretability Research Agenda**
-  - https://arxiv.org/abs/2601.08837
-- **Companion Agents: A Table-Information Mining Paradigm for Text-to-SQL**
-  - https://arxiv.org/abs/2601.08838
-- **Recursive Knowledge Synthesis for Multi-LLM Systems: Stability Analysis and Tri-Agent Audit Framework**
-  - https://arxiv.org/abs/2601.08839
+- **LLM-Driven Preference Data Synthesis for Proactive Prediction of the Next User Utterance in Human-Machine Dialogue**
+  - https://arxiv.org/abs/2601.09713
+- **Evaluating Novelty in AI-Generated Research Plans Using Multi-Workflow LLM Pipelines**
+  - https://arxiv.org/abs/2601.09714
+- **Introducing Axlerod: An LLM-based Chatbot for Assisting Independent Insurance Agents**
+  - https://arxiv.org/abs/2601.09715
+- **Opportunities and Challenges of Natural Language Processing for Low-Resource Senegalese Languages in Social Science Research**
+  - https://arxiv.org/abs/2601.09716
+- **SALP-CG: Standard-Aligned LLM Pipeline for Classifying and Grading Large Volumes of Online Conversational Health Data**
+  - https://arxiv.org/abs/2601.09717
