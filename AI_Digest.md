@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-01-17
+# 🤖 AI Digest — 2026-01-18
 
 ## OpenAI
 
@@ -28,26 +28,6 @@
 
 ## arXiv AI
 
-- **AI Survival Stories: a Taxonomic Analysis of AI Existential Risk**
-  - https://arxiv.org/abs/2601.09765
-- **GUI-Eyes: Tool-Augmented Perception for Visual Grounding in GUI Agents**
-  - https://arxiv.org/abs/2601.09770
-- **PCN-Rec: Agentic Proof-Carrying Negotiation for Reliable Governance-Constrained Recommendation**
-  - https://arxiv.org/abs/2601.09771
-- **Antisocial behavior towards large language model users: experimental evidence**
-  - https://arxiv.org/abs/2601.09772
-- **Improving Chain-of-Thought for Logical Reasoning via Attention-Aware Intervention**
-  - https://arxiv.org/abs/2601.09805
 
 ## arXiv CL
 
-- **LLM-Driven Preference Data Synthesis for Proactive Prediction of the Next User Utterance in Human-Machine Dialogue**
-  - https://arxiv.org/abs/2601.09713
-- **Evaluating Novelty in AI-Generated Research Plans Using Multi-Workflow LLM Pipelines**
-  - https://arxiv.org/abs/2601.09714
-- **Introducing Axlerod: An LLM-based Chatbot for Assisting Independent Insurance Agents**
-  - https://arxiv.org/abs/2601.09715
-- **Opportunities and Challenges of Natural Language Processing for Low-Resource Senegalese Languages in Social Science Research**
-  - https://arxiv.org/abs/2601.09716
-- **SALP-CG: Standard-Aligned LLM Pipeline for Classifying and Grading Large Volumes of Online Conversational Health Data**
-  - https://arxiv.org/abs/2601.09717
