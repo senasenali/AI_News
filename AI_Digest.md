@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-01-18
+# 🤖 AI Digest — 2026-01-19
 
 ## OpenAI
 
+- **AI for self empowerment**
+  - https://openai.com/index/ai-for-human-agency
+- **A business that scales with the value of intelligence**
+  - https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence
 - **The truth left out from Elon Musk’s recent court filing**
   - https://openai.com/index/the-truth-elon-left-out
-- **Introducing ChatGPT Go, now available worldwide**
-  - https://openai.com/index/introducing-chatgpt-go
 - **Our approach to advertising and expanding access to ChatGPT**
   - https://openai.com/index/our-approach-to-advertising-and-expanding-access
-- **Investing in Merge Labs**
-  - https://openai.com/index/investing-in-merge-labs
-- **Strengthening the U.S. AI supply chain through domestic manufacturing**
-  - https://openai.com/index/strengthening-the-us-ai-supply-chain
+- **Introducing ChatGPT Go, now available worldwide**
+  - https://openai.com/index/introducing-chatgpt-go
 
 ## Hugging Face
 
