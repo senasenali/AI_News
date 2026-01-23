@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-01-22
+# 🤖 AI Digest — 2026-01-23
 
 ## OpenAI
 
+- **Scaling PostgreSQL to power 800 million ChatGPT users**
+  - https://openai.com/index/scaling-postgresql
+- **Inside Praktika's conversational approach to language learning**
+  - https://openai.com/index/praktika
 - **How Higgsfield turns simple ideas into cinematic social videos**
   - https://openai.com/index/higgsfield
-- **Introducing Edu for Countries**
-  - https://openai.com/index/edu-for-countries
 - **How countries can end the capability overhang**
   - https://openai.com/index/how-countries-can-end-the-capability-overhang
-- **Horizon 1000: Advancing AI for primary healthcare**
-  - https://openai.com/index/horizon-1000
-- **Stargate Community**
-  - https://openai.com/index/stargate-community
+- **Introducing Edu for Countries**
+  - https://openai.com/index/edu-for-countries
 
 ## Hugging Face
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **MIMIC-RD: Can LLMs differentially diagnose rare diseases in real-world clinical settings?**
-  - https://arxiv.org/abs/2601.11559
-- **A Mind Cannot Be Smeared Across Time**
-  - https://arxiv.org/abs/2601.11620
-- **Dynamical Systems Analysis Reveals Functional Regimes in Large Language Models**
-  - https://arxiv.org/abs/2601.11622
-- **Reasoning Stabilization Point: A Training-Time Signal for Stable Evidence and Shortcut Reliance**
-  - https://arxiv.org/abs/2601.11625
-- **PRISM: Learning Design Knowledge from Data for Stylistic Design Improvement**
-  - https://arxiv.org/abs/2601.11747
+- **The Ontological Neutrality Theorem: Why Neutral Ontological Substrates Must Be Pre-Causal and Pre-Normative**
+  - https://arxiv.org/abs/2601.14271
+- **Epistemic Constitutionalism Or: how to avoid coherence bias**
+  - https://arxiv.org/abs/2601.14295
+- **VisTIRA: Closing the Image-Text Modality Gap in Visual Math Reasoning via Structured Tool Integration**
+  - https://arxiv.org/abs/2601.14440
+- **On the Generalization Gap in LLM Planning: Tests and Verifier-Reward RL**
+  - https://arxiv.org/abs/2601.14456
+- **Scalable Knee-Point Guided Activity Group Selection in Multi-Tree Genetic Programming for Dynamic Multi-Mode Project Scheduling**
+  - https://arxiv.org/abs/2601.14485
 
 ## arXiv CL
 
-- **Context Discipline and Performance Correlation: Analyzing LLM Performance and Quality Degradation Under Varying Context Lengths**
-  - https://arxiv.org/abs/2601.11564
-- **Compass-Embedding v4: Robust Contrastive Learning for Multilingual E-commerce Embeddings**
-  - https://arxiv.org/abs/2601.11565
-- **Measuring Stability Beyond Accuracy in Small Open-Source Medical Large Language Models for Pediatric Endocrinology**
-  - https://arxiv.org/abs/2601.11567
-- **An Empirical Analysis of Fine-Tuning Large Language Models on Bioinformatics Literature: PRSGPT and BioStarsGPT**
-  - https://arxiv.org/abs/2601.11573
-- **Concept Attractors in LLMs and their Applications**
-  - https://arxiv.org/abs/2601.11575
+- **From Chaos to Clarity: Schema-Constrained AI for Auditable Biomedical Evidence Extraction from Full-Text PDFs**
+  - https://arxiv.org/abs/2601.14267
+- **The Slow Drift of Support: Boundary Failures in Multi-Turn Mental Health LLM Dialogues**
+  - https://arxiv.org/abs/2601.14269
+- **Opening the Black Box: A Survey on the Mechanisms of Multi-Step Reasoning in Large Language Models**
+  - https://arxiv.org/abs/2601.14270
+- **Hallucination-Free Automatic Question & Answer Generation for Intuitive Learning**
+  - https://arxiv.org/abs/2601.14280
+- **RPC-Bench: A Fine-grained Benchmark for Research Paper Comprehension**
+  - https://arxiv.org/abs/2601.14289
