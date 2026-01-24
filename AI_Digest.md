@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-01-23
+# 🤖 AI Digest — 2026-01-24
 
 ## OpenAI
 
+- **Unrolling the Codex agent loop**
+  - https://openai.com/index/unrolling-the-codex-agent-loop
 - **Scaling PostgreSQL to power 800 million ChatGPT users**
   - https://openai.com/index/scaling-postgresql
 - **Inside Praktika's conversational approach to language learning**
   - https://openai.com/index/praktika
+- **Inside GPT-5 for Work: How Businesses Use GPT-5**
+  - https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work
 - **How Higgsfield turns simple ideas into cinematic social videos**
   - https://openai.com/index/higgsfield
-- **How countries can end the capability overhang**
-  - https://openai.com/index/how-countries-can-end-the-capability-overhang
-- **Introducing Edu for Countries**
-  - https://openai.com/index/edu-for-countries
 
 ## Hugging Face
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **The Ontological Neutrality Theorem: Why Neutral Ontological Substrates Must Be Pre-Causal and Pre-Normative**
-  - https://arxiv.org/abs/2601.14271
-- **Epistemic Constitutionalism Or: how to avoid coherence bias**
-  - https://arxiv.org/abs/2601.14295
-- **VisTIRA: Closing the Image-Text Modality Gap in Visual Math Reasoning via Structured Tool Integration**
-  - https://arxiv.org/abs/2601.14440
-- **On the Generalization Gap in LLM Planning: Tests and Verifier-Reward RL**
-  - https://arxiv.org/abs/2601.14456
-- **Scalable Knee-Point Guided Activity Group Selection in Multi-Tree Genetic Programming for Dynamic Multi-Mode Project Scheduling**
-  - https://arxiv.org/abs/2601.14485
+- **Gated Sparse Attention: Combining Computational Efficiency with Training Stability for Long-Context Language Models**
+  - https://arxiv.org/abs/2601.15305
+- **Uncovering Latent Bias in LLM-Based Emergency Department Triage Through Proxy Variables**
+  - https://arxiv.org/abs/2601.15306
+- **DeepSurvey-Bench: Evaluating Academic Value of Automatically Generated Scientific Survey**
+  - https://arxiv.org/abs/2601.15307
+- **Aeon: High-Performance Neuro-Symbolic Memory Management for Long-Horizon LLM Agents**
+  - https://arxiv.org/abs/2601.15311
+- **The Paradigm Shift: A Comprehensive Survey on Large Vision Language Models for Multimodal Fake News Detection**
+  - https://arxiv.org/abs/2601.15316
 
 ## arXiv CL
 
-- **From Chaos to Clarity: Schema-Constrained AI for Auditable Biomedical Evidence Extraction from Full-Text PDFs**
-  - https://arxiv.org/abs/2601.14267
-- **The Slow Drift of Support: Boundary Failures in Multi-Turn Mental Health LLM Dialogues**
-  - https://arxiv.org/abs/2601.14269
-- **Opening the Black Box: A Survey on the Mechanisms of Multi-Step Reasoning in Large Language Models**
-  - https://arxiv.org/abs/2601.14270
-- **Hallucination-Free Automatic Question & Answer Generation for Intuitive Learning**
-  - https://arxiv.org/abs/2601.14280
-- **RPC-Bench: A Fine-grained Benchmark for Research Paper Comprehension**
-  - https://arxiv.org/abs/2601.14289
+- **Entropy-Tree: Tree-Based Decoding with Entropy-Guided Exploration**
+  - https://arxiv.org/abs/2601.15296
+- **AfriEconQA: A Benchmark Dataset for African Economic Analysis based on World Bank Reports**
+  - https://arxiv.org/abs/2601.15297
+- **Embedding Retrofitting: Data Engineering for better RAG**
+  - https://arxiv.org/abs/2601.15298
+- **MALTopic: Multi-Agent LLM Topic Modeling Framework**
+  - https://arxiv.org/abs/2601.15299
+- **Intelligence Degradation in Long-Context LLMs: Critical Threshold Determination via Natural Length Distribution Analysis**
+  - https://arxiv.org/abs/2601.15300
