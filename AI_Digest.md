@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-01-24
+# 🤖 AI Digest — 2026-01-25
 
 ## OpenAI
 
@@ -28,26 +28,6 @@
 
 ## arXiv AI
 
-- **Gated Sparse Attention: Combining Computational Efficiency with Training Stability for Long-Context Language Models**
-  - https://arxiv.org/abs/2601.15305
-- **Uncovering Latent Bias in LLM-Based Emergency Department Triage Through Proxy Variables**
-  - https://arxiv.org/abs/2601.15306
-- **DeepSurvey-Bench: Evaluating Academic Value of Automatically Generated Scientific Survey**
-  - https://arxiv.org/abs/2601.15307
-- **Aeon: High-Performance Neuro-Symbolic Memory Management for Long-Horizon LLM Agents**
-  - https://arxiv.org/abs/2601.15311
-- **The Paradigm Shift: A Comprehensive Survey on Large Vision Language Models for Multimodal Fake News Detection**
-  - https://arxiv.org/abs/2601.15316
 
 ## arXiv CL
 
-- **Entropy-Tree: Tree-Based Decoding with Entropy-Guided Exploration**
-  - https://arxiv.org/abs/2601.15296
-- **AfriEconQA: A Benchmark Dataset for African Economic Analysis based on World Bank Reports**
-  - https://arxiv.org/abs/2601.15297
-- **Embedding Retrofitting: Data Engineering for better RAG**
-  - https://arxiv.org/abs/2601.15298
-- **MALTopic: Multi-Agent LLM Topic Modeling Framework**
-  - https://arxiv.org/abs/2601.15299
-- **Intelligence Degradation in Long-Context LLMs: Critical Threshold Determination via Natural Length Distribution Analysis**
-  - https://arxiv.org/abs/2601.15300
