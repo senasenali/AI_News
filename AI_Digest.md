@@ -1,30 +1,30 @@
-# 🤖 AI Digest — 2026-01-27
+# 🤖 AI Digest — 2026-01-28
 
 ## OpenAI
 
+- **PVH reimagines the future of fashion with OpenAI**
+  - https://openai.com/index/pvh-future-of-fashion
+- **Introducing Prism**
+  - https://openai.com/index/introducing-prism
 - **How Indeed uses AI to help evolve the job search**
   - https://openai.com/index/indeed-maggie-hulce
 - **Unrolling the Codex agent loop**
   - https://openai.com/index/unrolling-the-codex-agent-loop
 - **Scaling PostgreSQL to power 800 million ChatGPT users**
   - https://openai.com/index/scaling-postgresql
-- **Inside Praktika's conversational approach to language learning**
-  - https://openai.com/index/praktika
-- **Inside GPT-5 for Work: How Businesses Use GPT-5**
-  - https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work
 
 ## Hugging Face
 
+- **Nemotron-Personas-Brazil: Co-Designed Data for Sovereign AI**
+  - https://huggingface.co/blog/nvidia/nemotron-personas-brazil
+- **Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek**
+  - https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2
+- **Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs**
+  - https://huggingface.co/blog/tiiuae/emirati-benchmarks
 - **Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective**
   - https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl
-- ****NVIDIA Earth-2 Open Models Span the Whole Weather Stack****
-  - https://huggingface.co/blog/nvidia/earth-2-open-models
 - **AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality**
   - https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face
-- **Differential Transformer V2**
-  - https://huggingface.co/blog/microsoft/diff-attn-v2
-- **Introducing Waypoint-1: Real-time interactive video diffusion from Overworld**
-  - https://huggingface.co/blog/waypoint-1
 
 ## arXiv AI
 
@@ -41,13 +41,13 @@
 
 ## arXiv CL
 
-- **ChiEngMixBench: Evaluating Large Language Models on Spontaneous and Natural Chinese-English Code-Mixed Generation**
-  - https://arxiv.org/abs/2601.16217
-- **M3Kang: Evaluating Multilingual Multimodal Mathematical Reasoning in Vision-Language Models**
-  - https://arxiv.org/abs/2601.16218
-- **Domain Specific Specialization in Low-Resource Settings: The Efficacy of Offline Response-Based Knowledge Distillation in Large Language Models**
-  - https://arxiv.org/abs/2601.16219
-- **Towards Latent Diffusion Suitable For Text**
-  - https://arxiv.org/abs/2601.16220
-- **Limits of n-gram Style Control for LLMs via Logit-Space Injection**
-  - https://arxiv.org/abs/2601.16224
+- **Crystal-KV: Efficient KV Cache Management for Chain-of-Thought LLMs via Answer-First Principle**
+  - https://arxiv.org/abs/2601.16986
+- **Evaluating Reward Model Generalization via Pairwise Maximum Discrepancy Competitions**
+  - https://arxiv.org/abs/2601.16987
+- **Uncertainty Quantification for Named Entity Recognition via Full-Sequence and Subsequence Conformal Prediction**
+  - https://arxiv.org/abs/2601.16999
+- **RAM-SD: Retrieval-Augmented Multi-agent framework for Sarcasm Detection**
+  - https://arxiv.org/abs/2601.17002
+- **From Emotion to Expression: Theoretical Foundations and Resources for Fear Speech**
+  - https://arxiv.org/abs/2601.17132
