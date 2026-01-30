@@ -1,53 +1,53 @@
-# 🤖 AI Digest — 2026-01-29
+# 🤖 AI Digest — 2026-01-30
 
 ## OpenAI
 
-- **The next chapter for AI in the EU**
-  - https://openai.com/index/the-next-chapter-for-ai-in-the-eu
+- **Inside OpenAI’s in-house data agent**
+  - https://openai.com/index/inside-our-in-house-data-agent
+- **Taisei Corporation shapes the next generation of talent with ChatGPT**
+  - https://openai.com/index/taisei
+- **Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT**
+  - https://openai.com/index/retiring-gpt-4o-and-older-models
 - **EMEA Youth & Wellbeing Grant**
   - https://openai.com/index/emea-youth-and-wellbeing-grant
-- **Keeping your data safe when an AI agent clicks a link**
-  - https://openai.com/index/ai-agent-link-safety
-- **PVH reimagines the future of fashion with OpenAI**
-  - https://openai.com/index/pvh-future-of-fashion
-- **Introducing Prism**
-  - https://openai.com/index/introducing-prism
+- **The next chapter for AI in the EU**
+  - https://openai.com/index/the-next-chapter-for-ai-in-the-eu
 
 ## Hugging Face
 
-- **Nemotron-Personas-Brazil: Co-Designed Data for Sovereign AI**
-  - https://huggingface.co/blog/nvidia/nemotron-personas-brazil
+- **Introducing NVIDIA Cosmos Policy for Advanced Robot Control**
+  - https://huggingface.co/blog/nvidia/cosmos-policy-for-robot-control
+- **Introducing Daggr: Chain apps programmatically, inspect visually**
+  - https://huggingface.co/blog/daggr
 - **We Got Claude to Build CUDA Kernels and teach open models!**
   - https://huggingface.co/blog/upskill
 - **Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek**
   - https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2
 - **Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs**
   - https://huggingface.co/blog/tiiuae/emirati-benchmarks
-- **Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective**
-  - https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl
 
 ## arXiv AI
 
-- **Agentic Business Process Management Systems**
-  - https://arxiv.org/abs/2601.18833
-- **LLM Driven Design of Continuous Optimization Problems with Controllable High-level Properties**
-  - https://arxiv.org/abs/2601.18846
-- **Explainable Uncertainty Quantification for Wastewater Treatment Energy Prediction via Interval Type-2 Neuro-Fuzzy System**
-  - https://arxiv.org/abs/2601.18897
-- **RIFT: Reordered Instruction Following Testbed To Evaluate Instruction Following in Singular Multistep Prompt Structures**
-  - https://arxiv.org/abs/2601.18924
-- **Neural Theorem Proving for Verification Conditions: A Real-World Benchmark**
-  - https://arxiv.org/abs/2601.18944
+- **NeuroAI and Beyond**
+  - https://arxiv.org/abs/2601.19955
+- **Teaching LLMs to Ask: Self-Querying Category-Theoretic Planning for Under-Specified Reasoning**
+  - https://arxiv.org/abs/2601.20014
+- **Fuzzy Categorical Planning: Autonomous Goal Satisfaction with Graded Semantic Constraints**
+  - https://arxiv.org/abs/2601.20021
+- **Insight Agents: An LLM-Based Multi-Agent System for Data Insights**
+  - https://arxiv.org/abs/2601.20048
+- **Should I Have Expressed a Different Intent? Counterfactual Generation for LLM-Based Autonomous Control**
+  - https://arxiv.org/abs/2601.20090
 
 ## arXiv CL
 
-- **Language Family Matters: Evaluating LLM-Based ASR Across Linguistic Boundaries**
-  - https://arxiv.org/abs/2601.18899
-- **Self-Aware Knowledge Probing: Evaluating Language Models' Relational Knowledge through Confidence Calibration**
-  - https://arxiv.org/abs/2601.18901
-- **Flatter Tokens are More Valuable for Speculative Draft Model Training**
-  - https://arxiv.org/abs/2601.18902
-- **BabyReasoningBench: Generating Developmentally-Inspired Reasoning Tasks for Evaluating Baby Language Models**
-  - https://arxiv.org/abs/2601.18933
-- **LLMs versus the Halting Problem: Revisiting Program Termination Prediction**
-  - https://arxiv.org/abs/2601.18987
+- **From Intuition to Expertise: Rubric-Based Cognitive Calibration for Human Detection of LLM-Generated Korean Text**
+  - https://arxiv.org/abs/2601.19913
+- **Simulating Complex Multi-Turn Tool Calling Interactions in Stateless Execution Environments**
+  - https://arxiv.org/abs/2601.19914
+- **Modeling Next-Token Prediction as Left-Nested Intuitionistic Implication**
+  - https://arxiv.org/abs/2601.19915
+- **PaperAudit-Bench: Benchmarking Error Detection in Research Papers for Critical Automated Peer Review**
+  - https://arxiv.org/abs/2601.19916
+- **PILOT: Planning via Internalized Latent Optimization Trajectories for Large Language Models**
+  - https://arxiv.org/abs/2601.19917
