@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-01-30
+# 🤖 AI Digest — 2026-01-31
 
 ## OpenAI
 
@@ -41,13 +41,13 @@
 
 ## arXiv CL
 
-- **From Intuition to Expertise: Rubric-Based Cognitive Calibration for Human Detection of LLM-Generated Korean Text**
-  - https://arxiv.org/abs/2601.19913
-- **Simulating Complex Multi-Turn Tool Calling Interactions in Stateless Execution Environments**
-  - https://arxiv.org/abs/2601.19914
-- **Modeling Next-Token Prediction as Left-Nested Intuitionistic Implication**
-  - https://arxiv.org/abs/2601.19915
-- **PaperAudit-Bench: Benchmarking Error Detection in Research Papers for Critical Automated Peer Review**
-  - https://arxiv.org/abs/2601.19916
-- **PILOT: Planning via Internalized Latent Optimization Trajectories for Large Language Models**
-  - https://arxiv.org/abs/2601.19917
+- **DeepSearchQA: Bridging the Comprehensiveness Gap for Deep Research Agents**
+  - https://arxiv.org/abs/2601.20975
+- **asr_eval: Algorithms and tools for multi-reference and streaming speech recognition evaluation**
+  - https://arxiv.org/abs/2601.20992
+- **UrduBench: An Urdu Reasoning Benchmark using Contextually Ensembled Translations with Human-in-the-Loop**
+  - https://arxiv.org/abs/2601.21000
+- **Position-invariant Fine-tuning of Speech Enhancement Models with Self-supervised Speech Representations**
+  - https://arxiv.org/abs/2601.21084
+- **ChunkWise LoRA: Adaptive Sequence Partitioning for Memory-Efficient Low-Rank Adaptation and Accelerated LLM Inference**
+  - https://arxiv.org/abs/2601.21109
