@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-01-31
+# 🤖 AI Digest — 2026-02-01
 
 ## OpenAI
 
@@ -8,10 +8,10 @@
   - https://openai.com/index/taisei
 - **Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT**
   - https://openai.com/index/retiring-gpt-4o-and-older-models
-- **EMEA Youth & Wellbeing Grant**
-  - https://openai.com/index/emea-youth-and-wellbeing-grant
 - **The next chapter for AI in the EU**
   - https://openai.com/index/the-next-chapter-for-ai-in-the-eu
+- **EMEA Youth & Wellbeing Grant**
+  - https://openai.com/index/emea-youth-and-wellbeing-grant
 
 ## Hugging Face
 
@@ -28,16 +28,6 @@
 
 ## arXiv AI
 
-- **NeuroAI and Beyond**
-  - https://arxiv.org/abs/2601.19955
-- **Teaching LLMs to Ask: Self-Querying Category-Theoretic Planning for Under-Specified Reasoning**
-  - https://arxiv.org/abs/2601.20014
-- **Fuzzy Categorical Planning: Autonomous Goal Satisfaction with Graded Semantic Constraints**
-  - https://arxiv.org/abs/2601.20021
-- **Insight Agents: An LLM-Based Multi-Agent System for Data Insights**
-  - https://arxiv.org/abs/2601.20048
-- **Should I Have Expressed a Different Intent? Counterfactual Generation for LLM-Based Autonomous Control**
-  - https://arxiv.org/abs/2601.20090
 
 ## arXiv CL
 
