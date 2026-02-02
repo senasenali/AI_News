@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-02-01
+# 🤖 AI Digest — 2026-02-02
 
 ## OpenAI
 
@@ -31,13 +31,3 @@
 
 ## arXiv CL
 
-- **DeepSearchQA: Bridging the Comprehensiveness Gap for Deep Research Agents**
-  - https://arxiv.org/abs/2601.20975
-- **asr_eval: Algorithms and tools for multi-reference and streaming speech recognition evaluation**
-  - https://arxiv.org/abs/2601.20992
-- **UrduBench: An Urdu Reasoning Benchmark using Contextually Ensembled Translations with Human-in-the-Loop**
-  - https://arxiv.org/abs/2601.21000
-- **Position-invariant Fine-tuning of Speech Enhancement Models with Self-supervised Speech Representations**
-  - https://arxiv.org/abs/2601.21084
-- **ChunkWise LoRA: Adaptive Sequence Partitioning for Memory-Efficient Low-Rank Adaptation and Accelerated LLM Inference**
-  - https://arxiv.org/abs/2601.21109
