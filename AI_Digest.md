@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-02-06
+# 🤖 AI Digest — 2026-02-07
 
 ## OpenAI
 
+- **Korea privacy policy**
+  - https://openai.com/policies/kr-privacy-policy
+- **Making AI work for everyone, everywhere: our approach to localization**
+  - https://openai.com/index/our-approach-to-localization
 - **GPT-5 lowers the cost of cell-free protein synthesis**
   - https://openai.com/index/gpt-5-lowers-protein-synthesis-cost
 - **Introducing Trusted Access for Cyber**
   - https://openai.com/index/trusted-access-for-cyber
 - **Introducing OpenAI Frontier**
   - https://openai.com/index/introducing-openai-frontier
-- **Navigating health questions with ChatGPT**
-  - https://openai.com/index/navigating-health-questions
-- **GPT-5.3-Codex System Card**
-  - https://openai.com/index/gpt-5-3-codex-system-card
 
 ## Hugging Face
 
@@ -41,13 +41,13 @@
 
 ## arXiv CL
 
-- **Linguistic Blind Spots in Clinical Decision Extraction**
-  - https://arxiv.org/abs/2602.03942
-- **Automatic Classification of Pedagogical Materials against CS Curriculum Guidelines**
-  - https://arxiv.org/abs/2602.03962
-- **Likelihood-Based Reward Designs for General LLM Reasoning**
-  - https://arxiv.org/abs/2602.03979
-- **Transformers perform adaptive partial pooling**
-  - https://arxiv.org/abs/2602.03980
-- **On the Credibility of Evaluating LLMs using Survey Questions**
-  - https://arxiv.org/abs/2602.04033
+- **BioACE: An Automated Framework for Biomedical Answer and Citation Evaluations**
+  - https://arxiv.org/abs/2602.04982
+- **CoWork-X: Experience-Optimized Co-Evolution for Multi-Agent Collaboration System**
+  - https://arxiv.org/abs/2602.05004
+- **Capacity Constraints and the Multilingual Penalty for Lexical Disambiguation**
+  - https://arxiv.org/abs/2602.05035
+- **Locas: Your Models are Principled Initializers of Locally-Supported Parametric Memories**
+  - https://arxiv.org/abs/2602.05085
+- **Data Kernel Perspective Space Performance Guarantees for Synthetic Data from Transformer Models**
+  - https://arxiv.org/abs/2602.05106
