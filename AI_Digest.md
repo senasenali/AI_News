@@ -1,11 +1,11 @@
-# 🤖 AI Digest — 2026-02-07
+# 🤖 AI Digest — 2026-02-08
 
 ## OpenAI
 
-- **Korea privacy policy**
-  - https://openai.com/policies/kr-privacy-policy
 - **Making AI work for everyone, everywhere: our approach to localization**
   - https://openai.com/index/our-approach-to-localization
+- **Korea privacy policy**
+  - https://openai.com/policies/kr-privacy-policy
 - **GPT-5 lowers the cost of cell-free protein synthesis**
   - https://openai.com/index/gpt-5-lowers-protein-synthesis-cost
 - **Introducing Trusted Access for Cyber**
@@ -28,26 +28,16 @@
 
 ## arXiv AI
 
-- **Knowledge Model Prompting Increases LLM Performance on Planning Tasks**
-  - https://arxiv.org/abs/2602.03900
-- **Enhancing Mathematical Problem Solving in LLMs through Execution-Driven Reasoning Augmentation**
-  - https://arxiv.org/abs/2602.03950
-- **AgentArk: Distilling Multi-Agent Intelligence into a Single LLM Agent**
-  - https://arxiv.org/abs/2602.03955
-- **Active Epistemic Control for Query-Efficient Verified Planning**
-  - https://arxiv.org/abs/2602.03974
-- **Adaptive Test-Time Compute Allocation via Learned Heuristics over Categorical Structure**
-  - https://arxiv.org/abs/2602.03975
+- **Artificial Intelligence as Strange Intelligence: Against Linear Models of Intelligence**
+  - https://arxiv.org/abs/2602.04986
+- **DeepRead: Document Structure-Aware Reasoning to Enhance Agentic Search**
+  - https://arxiv.org/abs/2602.05014
+- **MINT: Minimal Information Neuro-Symbolic Tree for Objective-Driven Knowledge-Gap Reasoning and Active Elicitation**
+  - https://arxiv.org/abs/2602.05048
+- **Evaluating Large Language Models on Solved and Unsolved Problems in Graph Theory: Implications for Computing Education**
+  - https://arxiv.org/abs/2602.05059
+- **Towards Reducible Uncertainty Modeling for Reliable Large Language Model Agents**
+  - https://arxiv.org/abs/2602.05073
 
 ## arXiv CL
 
-- **BioACE: An Automated Framework for Biomedical Answer and Citation Evaluations**
-  - https://arxiv.org/abs/2602.04982
-- **CoWork-X: Experience-Optimized Co-Evolution for Multi-Agent Collaboration System**
-  - https://arxiv.org/abs/2602.05004
-- **Capacity Constraints and the Multilingual Penalty for Lexical Disambiguation**
-  - https://arxiv.org/abs/2602.05035
-- **Locas: Your Models are Principled Initializers of Locally-Supported Parametric Memories**
-  - https://arxiv.org/abs/2602.05085
-- **Data Kernel Perspective Space Performance Guarantees for Synthetic Data from Transformer Models**
-  - https://arxiv.org/abs/2602.05106
