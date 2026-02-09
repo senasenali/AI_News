@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-02-08
+# 🤖 AI Digest — 2026-02-09
 
 ## OpenAI
 
@@ -28,16 +28,6 @@
 
 ## arXiv AI
 
-- **Artificial Intelligence as Strange Intelligence: Against Linear Models of Intelligence**
-  - https://arxiv.org/abs/2602.04986
-- **DeepRead: Document Structure-Aware Reasoning to Enhance Agentic Search**
-  - https://arxiv.org/abs/2602.05014
-- **MINT: Minimal Information Neuro-Symbolic Tree for Objective-Driven Knowledge-Gap Reasoning and Active Elicitation**
-  - https://arxiv.org/abs/2602.05048
-- **Evaluating Large Language Models on Solved and Unsolved Problems in Graph Theory: Implications for Computing Education**
-  - https://arxiv.org/abs/2602.05059
-- **Towards Reducible Uncertainty Modeling for Reliable Large Language Model Agents**
-  - https://arxiv.org/abs/2602.05073
 
 ## arXiv CL
 
