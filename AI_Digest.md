@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-02-10
+# 🤖 AI Digest — 2026-02-11
 
 ## OpenAI
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **Jackpot: Optimal Budgeted Rejection Sampling for Extreme Actor-Policy Mismatch Reinforcement Learning**
-  - https://arxiv.org/abs/2602.06107
-- **Large Language Model Reasoning Failures**
-  - https://arxiv.org/abs/2602.06176
-- **Do It for HER: First-Order Temporal Logic Reward Specification in Reinforcement Learning (Extended Version)**
-  - https://arxiv.org/abs/2602.06227
-- **Do LLMs Act Like Rational Agents? Measuring Belief Coherence in Probabilistic Decision Making**
-  - https://arxiv.org/abs/2602.06286
-- **Exposing Weaknesses of Large Reasoning Models through Graph Algorithm Problems**
-  - https://arxiv.org/abs/2602.06319
+- **LLM-FSM: Scaling Large Language Models for Finite-State Reasoning in RTL Code Generation**
+  - https://arxiv.org/abs/2602.07032
+- **ST-Raptor: An Agentic System for Semi-Structured Table QA**
+  - https://arxiv.org/abs/2602.07034
+- **DLLM-Searcher: Adapting Diffusion Large Language Model for Search Agents**
+  - https://arxiv.org/abs/2602.07035
+- **Aster: Autonomous Scientific Discovery over 20x Faster Than Existing Methods**
+  - https://arxiv.org/abs/2602.07040
+- **Theory of Space: Can Foundation Models Construct Spatial Beliefs through Active Exploration?**
+  - https://arxiv.org/abs/2602.07055
 
 ## arXiv CL
 
-- **Recontextualizing Famous Quotes for Brand Slogan Generation**
-  - https://arxiv.org/abs/2602.06049
-- **Relevance-aware Multi-context Contrastive Decoding for Retrieval-augmented Visual Question Answering**
-  - https://arxiv.org/abs/2602.06050
-- **CAST: Character-and-Scene Episodic Memory for Agents**
-  - https://arxiv.org/abs/2602.06051
-- **Rethinking Memory Mechanisms of Foundation Agents in the Second Half**
-  - https://arxiv.org/abs/2602.06052
-- **PersonaPlex: Voice and Role Control for Full Duplex Conversational Speech Models**
-  - https://arxiv.org/abs/2602.06053
+- **Does Visual Rendering Bypass Tokenization? Investigating Script-Tokenizer Misalignment in Pixel-Based Language Models**
+  - https://arxiv.org/abs/2602.06973
+- **BiomechAgent: AI-Assisted Biomechanical Analysis Through Code-Generating Agents**
+  - https://arxiv.org/abs/2602.06975
+- **Bridging the Knowledge Void: Inference-time Acquisition of Unfamiliar Programming Languages for Coding Tasks**
+  - https://arxiv.org/abs/2602.06976
+- **Anchored Decoding: Provably Reducing Copyright Risk for Any Language Model**
+  - https://arxiv.org/abs/2602.07120
+- **Free Energy Mixer**
+  - https://arxiv.org/abs/2602.07160
