@@ -1,7 +1,9 @@
-# 🤖 AI Digest — 2026-02-11
+# 🤖 AI Digest — 2026-02-12
 
 ## OpenAI
 
+- **Harness engineering: leveraging Codex in an agent-first world**
+  - https://openai.com/index/harness-engineering
 - **Bringing ChatGPT to GenAI.mil**
   - https://openai.com/index/bringing-chatgpt-to-genaimil
 - **Testing ads in ChatGPT**
@@ -10,8 +12,6 @@
   - https://openai.com/index/our-approach-to-localization
 - **GPT-5 lowers the cost of cell-free protein synthesis**
   - https://openai.com/index/gpt-5-lowers-protein-synthesis-cost
-- **Introducing Trusted Access for Cyber**
-  - https://openai.com/index/trusted-access-for-cyber
 
 ## Hugging Face
 
@@ -41,13 +41,13 @@
 
 ## arXiv CL
 
-- **Does Visual Rendering Bypass Tokenization? Investigating Script-Tokenizer Misalignment in Pixel-Based Language Models**
-  - https://arxiv.org/abs/2602.06973
-- **BiomechAgent: AI-Assisted Biomechanical Analysis Through Code-Generating Agents**
-  - https://arxiv.org/abs/2602.06975
-- **Bridging the Knowledge Void: Inference-time Acquisition of Unfamiliar Programming Languages for Coding Tasks**
-  - https://arxiv.org/abs/2602.06976
-- **Anchored Decoding: Provably Reducing Copyright Risk for Any Language Model**
-  - https://arxiv.org/abs/2602.07120
-- **Free Energy Mixer**
-  - https://arxiv.org/abs/2602.07160
+- **Overview of PAN 2026: Voight-Kampff Generative AI Detection, Text Watermarking, Multi-Author Writing Style Analysis, Generative Plagiarism Detection, and Reasoning Trajectory Detection**
+  - https://arxiv.org/abs/2602.09147
+- **Measuring Inclusion in Interaction: Inclusion Analytics for Human-AI Collaborative Learning**
+  - https://arxiv.org/abs/2602.09269
+- **Effective Reasoning Chains Reduce Intrinsic Dimensionality**
+  - https://arxiv.org/abs/2602.09276
+- **Don't Shoot The Breeze: Topic Continuity Model Using Nonlinear Naive Bayes With Attention**
+  - https://arxiv.org/abs/2602.09312
+- **Beyond Uniform Credit: Causal Credit Assignment for Policy Optimization**
+  - https://arxiv.org/abs/2602.09331
