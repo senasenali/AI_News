@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-02-14
+# 🤖 AI Digest — 2026-02-15
 
 ## OpenAI
 
@@ -28,26 +28,6 @@
 
 ## arXiv AI
 
-- **Explaining AI Without Code: A User Study on Explainable AI**
-  - https://arxiv.org/abs/2602.11159
-- **Latent Generative Solvers for Generalizable Long-Term Physics Simulation**
-  - https://arxiv.org/abs/2602.11229
-- **On Decision-Valued Maps and Representational Dependence**
-  - https://arxiv.org/abs/2602.11295
-- **Voxtral Realtime**
-  - https://arxiv.org/abs/2602.11298
-- **The PBSAI Governance Ecosystem: A Multi-Agent AI Reference Architecture for Securing Enterprise AI Estates**
-  - https://arxiv.org/abs/2602.11301
 
 ## arXiv CL
 
-- **HybridRAG: A Practical LLM-based ChatBot Framework based on Pre-Generated Q&A over Raw Unstructured Documents**
-  - https://arxiv.org/abs/2602.11156
-- **Response-Based Knowledge Distillation for Multilingual Jailbreak Prevention Unwittingly Compromises Safety**
-  - https://arxiv.org/abs/2602.11157
-- **Retrieval Heads are Dynamic**
-  - https://arxiv.org/abs/2602.11162
-- **Nested Named Entity Recognition in Plasma Physics Research Articles**
-  - https://arxiv.org/abs/2602.11163
-- **Assessing LLM Reliability on Temporally Recent Open-Domain Questions**
-  - https://arxiv.org/abs/2602.11165
