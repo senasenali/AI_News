@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-02-16
+# 🤖 AI Digest — 2026-02-17
 
 ## OpenAI
 
@@ -28,6 +28,26 @@
 
 ## arXiv AI
 
+- **GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory**
+  - https://arxiv.org/abs/2602.12316
+- **A Theoretical Framework for Adaptive Utility-Weighted Benchmarking**
+  - https://arxiv.org/abs/2602.12356
+- **Evolving Beyond Snapshots: Harmonizing Structure and Sequence via Entity State Tuning for Temporal Knowledge Graph Forecasting**
+  - https://arxiv.org/abs/2602.12389
+- **Intent-Driven Smart Manufacturing Integrating Knowledge Graphs and Large Language Models**
+  - https://arxiv.org/abs/2602.12419
+- **Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation**
+  - https://arxiv.org/abs/2602.12544
 
 ## arXiv CL
 
+- **A Lightweight LLM Framework for Disaster Humanitarian Information Classification**
+  - https://arxiv.org/abs/2602.12284
+- **From Biased Chatbots to Biased Agents: Examining Role Assignment Effects on LLM Agent Robustness**
+  - https://arxiv.org/abs/2602.12285
+- **Retrieval-Augmented Self-Taught Reasoning Model with Adaptive Chain-of-Thought for ASR Named Entity Correction**
+  - https://arxiv.org/abs/2602.12287
+- **Grandes Modelos de Linguagem Multimodais (MLLMs): Da Teoria \`a Pr\'atica**
+  - https://arxiv.org/abs/2602.12302
+- **propella-1: Multi-Property Document Annotation for LLM Data Curation at Scale**
+  - https://arxiv.org/abs/2602.12414
