@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-02-17
+# 🤖 AI Digest — 2026-02-18
 
 ## OpenAI
 
@@ -15,6 +15,8 @@
 
 ## Hugging Face
 
+- **NVIDIA Nemotron 2 Nano 9B Japanese: 日本のソブリンAIを支える最先端小規模言語モデル**
+  - https://huggingface.co/blog/nvidia/nemotron-nano-9b-v2-japanese-ja
 - **Custom Kernels for All from Codex and Claude**
   - https://huggingface.co/blog/custom-cuda-kernels-agent-skills
 - **OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments**
@@ -23,31 +25,29 @@
   - https://huggingface.co/blog/transformersjs-v4
 - **Introducing SyGra Studio**
   - https://huggingface.co/blog/ServiceNow-AI/sygra-studio
-- **Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model**
-  - https://huggingface.co/blog/nvidia/nemotron-colembed-v2
 
 ## arXiv AI
 
-- **GT-HarmBench: Benchmarking AI Safety Risks Through the Lens of Game Theory**
-  - https://arxiv.org/abs/2602.12316
-- **A Theoretical Framework for Adaptive Utility-Weighted Benchmarking**
-  - https://arxiv.org/abs/2602.12356
-- **Evolving Beyond Snapshots: Harmonizing Structure and Sequence via Entity State Tuning for Temporal Knowledge Graph Forecasting**
-  - https://arxiv.org/abs/2602.12389
-- **Intent-Driven Smart Manufacturing Integrating Knowledge Graphs and Large Language Models**
-  - https://arxiv.org/abs/2602.12419
-- **Scaling Web Agent Training through Automatic Data Generation and Fine-grained Evaluation**
-  - https://arxiv.org/abs/2602.12544
+- **Agentic AI for Commercial Insurance Underwriting with Adversarial Self-Critique**
+  - https://arxiv.org/abs/2602.13213
+- **BotzoneBench: Scalable LLM Evaluation via Graded AI Anchors**
+  - https://arxiv.org/abs/2602.13214
+- **When to Think Fast and Slow? AMOR: Entropy-Based Metacognitive Gate for Dynamic SSM-Attention Switching**
+  - https://arxiv.org/abs/2602.13215
+- **VeRA: Verified Reasoning Data Augmentation at Scale**
+  - https://arxiv.org/abs/2602.13217
+- **Scaling the Scaling Logic: Agentic Meta-Synthesis of Logic Reasoning**
+  - https://arxiv.org/abs/2602.13218
 
 ## arXiv CL
 
-- **A Lightweight LLM Framework for Disaster Humanitarian Information Classification**
-  - https://arxiv.org/abs/2602.12284
-- **From Biased Chatbots to Biased Agents: Examining Role Assignment Effects on LLM Agent Robustness**
-  - https://arxiv.org/abs/2602.12285
-- **Retrieval-Augmented Self-Taught Reasoning Model with Adaptive Chain-of-Thought for ASR Named Entity Correction**
-  - https://arxiv.org/abs/2602.12287
-- **Grandes Modelos de Linguagem Multimodais (MLLMs): Da Teoria \`a Pr\'atica**
-  - https://arxiv.org/abs/2602.12302
-- **propella-1: Multi-Property Document Annotation for LLM Data Curation at Scale**
-  - https://arxiv.org/abs/2602.12414
+- **Multimodal Consistency-Guided Reference-Free Data Selection for ASR Accent Adaptation**
+  - https://arxiv.org/abs/2602.13263
+- **LLM-Powered Automatic Translation and Urgency in Crisis Scenarios**
+  - https://arxiv.org/abs/2602.13452
+- **Using Machine Learning to Enhance the Detection of Obfuscated Abusive Words in Swahili: A Focus on Child Safety**
+  - https://arxiv.org/abs/2602.13455
+- **Language Model Memory and Memory Models for Language**
+  - https://arxiv.org/abs/2602.13466
+- **From Perceptions To Evidence: Detecting AI-Generated Content In Turkish News Media With A Fine-Tuned Bert Classifier**
+  - https://arxiv.org/abs/2602.13504
