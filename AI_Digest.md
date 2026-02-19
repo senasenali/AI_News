@@ -1,53 +1,53 @@
-# 🤖 AI Digest — 2026-02-18
+# 🤖 AI Digest — 2026-02-19
 
 ## OpenAI
 
+- **Introducing OpenAI for India**
+  - https://openai.com/index/openai-for-india
 - **GPT-5.2 derives a new result in theoretical physics**
   - https://openai.com/index/new-result-theoretical-physics
 - **Introducing Lockdown Mode and Elevated Risk labels in ChatGPT**
   - https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt
-- **Beyond rate limits: scaling access to Codex and Sora**
-  - https://openai.com/index/beyond-rate-limits
 - **Scaling social science research**
   - https://openai.com/index/scaling-social-science-research
-- **Introducing GPT-5.3-Codex-Spark**
-  - https://openai.com/index/introducing-gpt-5-3-codex-spark
+- **Beyond rate limits: scaling access to Codex and Sora**
+  - https://openai.com/index/beyond-rate-limits
 
 ## Hugging Face
 
+- **IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST**
+  - https://huggingface.co/blog/ibm-research/itbenchandmast
+- **One-Shot Any Web App with Gradio's gr.HTML**
+  - https://huggingface.co/blog/gradio-html-one-shot-apps
 - **NVIDIA Nemotron 2 Nano 9B Japanese: 日本のソブリンAIを支える最先端小規模言語モデル**
   - https://huggingface.co/blog/nvidia/nemotron-nano-9b-v2-japanese-ja
 - **Custom Kernels for All from Codex and Claude**
   - https://huggingface.co/blog/custom-cuda-kernels-agent-skills
 - **OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments**
   - https://huggingface.co/blog/openenv-turing
-- **Transformers.js v4 Preview: Now Available on NPM!**
-  - https://huggingface.co/blog/transformersjs-v4
-- **Introducing SyGra Studio**
-  - https://huggingface.co/blog/ServiceNow-AI/sygra-studio
 
 ## arXiv AI
 
-- **Agentic AI for Commercial Insurance Underwriting with Adversarial Self-Critique**
-  - https://arxiv.org/abs/2602.13213
-- **BotzoneBench: Scalable LLM Evaluation via Graded AI Anchors**
-  - https://arxiv.org/abs/2602.13214
-- **When to Think Fast and Slow? AMOR: Entropy-Based Metacognitive Gate for Dynamic SSM-Attention Switching**
-  - https://arxiv.org/abs/2602.13215
-- **VeRA: Verified Reasoning Data Augmentation at Scale**
-  - https://arxiv.org/abs/2602.13217
-- **Scaling the Scaling Logic: Agentic Meta-Synthesis of Logic Reasoning**
-  - https://arxiv.org/abs/2602.13218
+- **Attention-gated U-Net model for semantic segmentation of brain tumors and feature extraction for survival prognosis**
+  - https://arxiv.org/abs/2602.15067
+- **ResearchGym: Evaluating Language Model Agents on Real-World AI Research**
+  - https://arxiv.org/abs/2602.15112
+- **Protecting Language Models Against Unauthorized Distillation through Trace Rewriting**
+  - https://arxiv.org/abs/2602.15143
+- **Panini: Continual Learning in Token Space via Structured Memory**
+  - https://arxiv.org/abs/2602.15156
+- **da Costa and Tarski meet Goguen and Carnap: a novel approach for ontological heterogeneity based on consequence systems**
+  - https://arxiv.org/abs/2602.15158
 
 ## arXiv CL
 
-- **Multimodal Consistency-Guided Reference-Free Data Selection for ASR Accent Adaptation**
-  - https://arxiv.org/abs/2602.13263
-- **LLM-Powered Automatic Translation and Urgency in Crisis Scenarios**
-  - https://arxiv.org/abs/2602.13452
-- **Using Machine Learning to Enhance the Detection of Obfuscated Abusive Words in Swahili: A Focus on Child Safety**
-  - https://arxiv.org/abs/2602.13455
-- **Language Model Memory and Memory Models for Language**
-  - https://arxiv.org/abs/2602.13466
-- **From Perceptions To Evidence: Detecting AI-Generated Content In Turkish News Media With A Fine-Tuned Bert Classifier**
-  - https://arxiv.org/abs/2602.13504
+- **EduResearchBench: A Hierarchical Atomic Task Decomposition Benchmark for Full-Lifecycle Educational Research**
+  - https://arxiv.org/abs/2602.15034
+- **Indic-TunedLens: Interpreting Multilingual Models in Indian Languages**
+  - https://arxiv.org/abs/2602.15038
+- **CGRA-DeBERTa Concept Guided Residual Augmentation Transformer for Theologically Islamic Understanding**
+  - https://arxiv.org/abs/2602.15139
+- **AIC CTU@AVerImaTeC: dual-retriever RAG for image-text fact checking**
+  - https://arxiv.org/abs/2602.15190
+- **OpaqueToolsBench: Learning Nuances of Tool Behavior Through Interaction**
+  - https://arxiv.org/abs/2602.15197
