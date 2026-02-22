@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-02-21
+# 🤖 AI Digest — 2026-02-22
 
 ## OpenAI
 
@@ -28,26 +28,6 @@
 
 ## arXiv AI
 
-- **AIdentifyAGE Ontology for Decision Support in Forensic Dental Age Assessment**
-  - https://arxiv.org/abs/2602.16714
-- **Retrieval Augmented (Knowledge Graph), and Large Language Model-Driven Design Structure Matrix (DSM) Generation of Cyber-Physical Systems**
-  - https://arxiv.org/abs/2602.16715
-- **Contextuality from Single-State Representations: An Information-Theoretic Principle for Adaptive Intelligence**
-  - https://arxiv.org/abs/2602.16716
-- **Mobility-Aware Cache Framework for Scalable LLM-Based Human Mobility Simulation**
-  - https://arxiv.org/abs/2602.16727
-- **When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation**
-  - https://arxiv.org/abs/2602.16763
 
 ## arXiv CL
 
-- **References Improve LLM Alignment in Non-Verifiable Domains**
-  - https://arxiv.org/abs/2602.16802
-- **Evaluating Monolingual and Multilingual Large Language Models for Greek Question Answering: The DemosQA Benchmark**
-  - https://arxiv.org/abs/2602.16811
-- **One-step Language Modeling via Continuous Denoising**
-  - https://arxiv.org/abs/2602.16813
-- **Claim Automation using Large Language Model**
-  - https://arxiv.org/abs/2602.16836
-- **BanglaSummEval: Reference-Free Factual Consistency Evaluation for Bangla Summarization**
-  - https://arxiv.org/abs/2602.16843
