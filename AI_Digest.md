@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-02-22
+# 🤖 AI Digest — 2026-02-23
 
 ## OpenAI
 
@@ -8,10 +8,10 @@
   - https://openai.com/index/advancing-independent-research-ai-alignment
 - **Introducing OpenAI for India**
   - https://openai.com/index/openai-for-india
+- **Introducing EVMbench**
+  - https://openai.com/index/introducing-evmbench
 - **GPT-5.2 derives a new result in theoretical physics**
   - https://openai.com/index/new-result-theoretical-physics
-- **Introducing Lockdown Mode and Elevated Risk labels in ChatGPT**
-  - https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt
 
 ## Hugging Face
 
