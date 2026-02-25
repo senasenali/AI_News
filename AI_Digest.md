@@ -1,7 +1,9 @@
-# 🤖 AI Digest — 2026-02-24
+# 🤖 AI Digest — 2026-02-25
 
 ## OpenAI
 
+- **Arvind KC appointed Chief People Officer**
+  - https://openai.com/index/arvind-kc-chief-people-officer
 - **Why we no longer evaluate SWE-bench Verified**
   - https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified
 - **OpenAI announces Frontier Alliance Partners**
@@ -10,8 +12,6 @@
   - https://openai.com/index/first-proof-submissions
 - **Advancing independent research on AI alignment**
   - https://openai.com/index/advancing-independent-research-ai-alignment
-- **Introducing OpenAI for India**
-  - https://openai.com/index/openai-for-india
 
 ## Hugging Face
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **Epistemic Traps: Rational Misalignment Driven by Model Misspecification**
-  - https://arxiv.org/abs/2602.17676
-- **Ontology-Guided Neuro-Symbolic Inference: Grounding Language Models with Mathematical Domain Knowledge**
-  - https://arxiv.org/abs/2602.17826
-- **The Token Games: Evaluating Language Model Reasoning with Puzzle Duels**
-  - https://arxiv.org/abs/2602.17831
-- **El Agente Gr\'afico: Structured Execution Graphs for Scientific Agents**
-  - https://arxiv.org/abs/2602.17902
-- **Alignment in Time: Peak-Aware Orchestration for Long-Horizon Agentic Systems**
-  - https://arxiv.org/abs/2602.17910
+- **On the Dynamics of Observation and Semantics**
+  - https://arxiv.org/abs/2602.18494
+- **Hierarchical Reward Design from Language: Enhancing Alignment of Agent Behavior with Human Specifications**
+  - https://arxiv.org/abs/2602.18582
+- **Feedback-based Automated Verification in Vibe Coding of CAS Adaptation Built on Constraint Logic**
+  - https://arxiv.org/abs/2602.18607
+- **Decoding ML Decision: An Agentic Reasoning Framework for Large-Scale Ranking System**
+  - https://arxiv.org/abs/2602.18640
+- **Spilled Energy in Large Language Models**
+  - https://arxiv.org/abs/2602.18671
 
 ## arXiv CL
 
-- **QueryPlot: Generating Geological Evidence Layers using Natural Language Queries for Mineral Exploration**
-  - https://arxiv.org/abs/2602.17784
-- **Neural Synchrony Between Socially Interacting Language Models**
-  - https://arxiv.org/abs/2602.17815
-- **On the scaling relationship between cloze probabilities and language model next-token prediction**
-  - https://arxiv.org/abs/2602.17848
-- **Understanding Unreliability of Steering Vectors in Language Models: Geometric Predictors and the Limits of Linear Approximations**
-  - https://arxiv.org/abs/2602.17881
-- **Improving Neural Topic Modeling with Semantically-Grounded Soft Label Distributions**
-  - https://arxiv.org/abs/2602.17907
+- **ReportLogic: Evaluating Logical Quality in Deep Research Reports**
+  - https://arxiv.org/abs/2602.18446
+- **ConfSpec: Efficient Step-Level Speculative Reasoning via Confidence-Gated Verification**
+  - https://arxiv.org/abs/2602.18447
+- **INSURE-Dial: A Phase-Aware Conversational Dataset \& Benchmark for Compliance Verification and Phase Detection**
+  - https://arxiv.org/abs/2602.18448
+- **Prompt Optimization Via Diffusion Language Models**
+  - https://arxiv.org/abs/2602.18449
+- **Asymptotic Semantic Collapse in Hierarchical Optimization**
+  - https://arxiv.org/abs/2602.18450
