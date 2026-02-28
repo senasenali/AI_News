@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-02-27
+# 🤖 AI Digest — 2026-02-28
 
 ## OpenAI
 
-- **Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting**
-  - https://openai.com/index/pacific-northwest-national-laboratory
-- **OpenAI Codex and Figma launch seamless code-to-design experience**
-  - https://openai.com/index/figma-partnership
-- **Disrupting malicious uses of AI | February 2026**
-  - https://openai.com/index/disrupting-malicious-ai-uses
-- **Arvind KC appointed Chief People Officer**
-  - https://openai.com/index/arvind-kc-chief-people-officer
-- **Why we no longer evaluate SWE-bench Verified**
-  - https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified
+- **Joint Statement from OpenAI and Microsoft**
+  - https://openai.com/index/continuing-microsoft-partnership
+- **Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock**
+  - https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock
+- **Scaling AI for everyone**
+  - https://openai.com/index/scaling-ai-for-everyone
+- **OpenAI and Amazon announce strategic partnership**
+  - https://openai.com/index/amazon-partnership
+- **An update on our mental health-related work**
+  - https://openai.com/index/update-on-mental-health-related-work
 
 ## Hugging Face
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **A Dynamic Survey of Soft Set Theory and Its Extensions**
-  - https://arxiv.org/abs/2602.21268
-- **A Hierarchical Multi-Agent System for Autonomous Discovery in Geoscientific Data Archives**
-  - https://arxiv.org/abs/2602.21351
-- **Beyond Refusal: Probing the Limits of Agentic Self-Correction for Semantic Sensitive Information**
-  - https://arxiv.org/abs/2602.21496
-- **ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning**
-  - https://arxiv.org/abs/2602.21534
-- **Power and Limitations of Aggregation in Compound AI Systems**
-  - https://arxiv.org/abs/2602.21556
+- **Graph Your Way to Inspiration: Integrating Co-Author Graphs with Retrieval-Augmented Generation for Large Language Model Based Scientific Idea Generation**
+  - https://arxiv.org/abs/2602.22215
+- **FIRE: A Comprehensive Benchmark for Financial Intelligence and Reasoning Evaluation**
+  - https://arxiv.org/abs/2602.22273
+- **Multi-Level Causal Embeddings**
+  - https://arxiv.org/abs/2602.22287
+- **Agent Behavioral Contracts: Formal Specification and Runtime Enforcement for Reliable Autonomous AI Agents**
+  - https://arxiv.org/abs/2602.22302
+- **Vibe Researching as Wolf Coming: Can AI Agents with Skills Replace or Augment Social Scientists?**
+  - https://arxiv.org/abs/2602.22401
 
 ## arXiv CL
 
-- **Disaster Question Answering with LoRA Efficiency and Accurate End Position**
-  - https://arxiv.org/abs/2602.21212
-- **Inference-time Alignment via Sparse Junction Steering**
-  - https://arxiv.org/abs/2602.21215
-- **EQ-5D Classification Using Biomedical Entity-Enriched Pre-trained Language Models and Multiple Instance Learning**
-  - https://arxiv.org/abs/2602.21216
-- **Applied Sociolinguistic AI for Community Development (ASA-CD): A New Scientific Paradigm for Linguistically-Grounded Social Intervention**
-  - https://arxiv.org/abs/2602.21217
-- **EPSVec: Efficient and Private Synthetic Data Generation via Dataset Vectors**
-  - https://arxiv.org/abs/2602.21218
+- **Decoder-based Sense Knowledge Distillation**
+  - https://arxiv.org/abs/2602.22351
+- **Scaling In, Not Up? Testing Thick Citation Context Analysis with GPT-5 and Fragile Prompts**
+  - https://arxiv.org/abs/2602.22359
+- **Detecting Hate and Inflammatory Content in Bengali Memes: A New Multimodal Dataset and Co-Attention Framework**
+  - https://arxiv.org/abs/2602.22391
+- **SAFARI: A Community-Engaged Approach and Dataset of Stereotype Resources in the Sub-Saharan African Context**
+  - https://arxiv.org/abs/2602.22404
+- **Causality $\neq$ Invariance: Function and Concept Vectors in LLMs**
+  - https://arxiv.org/abs/2602.22424
