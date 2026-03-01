@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-02-28
+# 🤖 AI Digest — 2026-03-01
 
 ## OpenAI
 
+- **Our agreement with the Department of War**
+  - https://openai.com/index/our-agreement-with-the-department-of-war
 - **Joint Statement from OpenAI and Microsoft**
   - https://openai.com/index/continuing-microsoft-partnership
-- **Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock**
-  - https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock
-- **Scaling AI for everyone**
-  - https://openai.com/index/scaling-ai-for-everyone
 - **OpenAI and Amazon announce strategic partnership**
   - https://openai.com/index/amazon-partnership
-- **An update on our mental health-related work**
-  - https://openai.com/index/update-on-mental-health-related-work
+- **Scaling AI for everyone**
+  - https://openai.com/index/scaling-ai-for-everyone
+- **Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock**
+  - https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock
 
 ## Hugging Face
 
