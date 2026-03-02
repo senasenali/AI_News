@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-03-01
+# 🤖 AI Digest — 2026-03-02
 
 ## OpenAI
 
@@ -28,26 +28,6 @@
 
 ## arXiv AI
 
-- **Graph Your Way to Inspiration: Integrating Co-Author Graphs with Retrieval-Augmented Generation for Large Language Model Based Scientific Idea Generation**
-  - https://arxiv.org/abs/2602.22215
-- **FIRE: A Comprehensive Benchmark for Financial Intelligence and Reasoning Evaluation**
-  - https://arxiv.org/abs/2602.22273
-- **Multi-Level Causal Embeddings**
-  - https://arxiv.org/abs/2602.22287
-- **Agent Behavioral Contracts: Formal Specification and Runtime Enforcement for Reliable Autonomous AI Agents**
-  - https://arxiv.org/abs/2602.22302
-- **Vibe Researching as Wolf Coming: Can AI Agents with Skills Replace or Augment Social Scientists?**
-  - https://arxiv.org/abs/2602.22401
 
 ## arXiv CL
 
-- **Decoder-based Sense Knowledge Distillation**
-  - https://arxiv.org/abs/2602.22351
-- **Scaling In, Not Up? Testing Thick Citation Context Analysis with GPT-5 and Fragile Prompts**
-  - https://arxiv.org/abs/2602.22359
-- **Detecting Hate and Inflammatory Content in Bengali Memes: A New Multimodal Dataset and Co-Attention Framework**
-  - https://arxiv.org/abs/2602.22391
-- **SAFARI: A Community-Engaged Approach and Dataset of Stereotype Resources in the Sub-Saharan African Context**
-  - https://arxiv.org/abs/2602.22404
-- **Causality $\neq$ Invariance: Function and Concept Vectors in LLMs**
-  - https://arxiv.org/abs/2602.22424
