@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-03-02
+# 🤖 AI Digest — 2026-03-03
 
 ## OpenAI
 
@@ -28,6 +28,26 @@
 
 ## arXiv AI
 
+- **HumanMCP: A Human-Like Query Dataset for Evaluating MCP Tool Retrieval Performance**
+  - https://arxiv.org/abs/2602.23367
+- **An Agentic LLM Framework for Adverse Media Screening in AML Compliance**
+  - https://arxiv.org/abs/2602.23373
+- **Causal Identification from Counterfactual Data: Completeness and Bounding Results**
+  - https://arxiv.org/abs/2602.23541
+- **Planning under Distribution Shifts with Causal POMDPs**
+  - https://arxiv.org/abs/2602.23545
+- **Construct, Merge, Solve & Adapt with Reinforcement Learning for the min-max Multiple Traveling Salesman Problem**
+  - https://arxiv.org/abs/2602.23579
 
 ## arXiv CL
 
+- **Toward General Semantic Chunking: A Discriminative Framework for Ultra-Long Documents**
+  - https://arxiv.org/abs/2602.23370
+- **Task-Lens: Cross-Task Utility Based Speech Dataset Profiling for Low-Resource Indian Languages**
+  - https://arxiv.org/abs/2602.23388
+- **Truncated Step-Level Sampling with Process Rewards for Retrieval-Augmented Reasoning**
+  - https://arxiv.org/abs/2602.23440
+- **CiteAudit: You Cited It, But Did You Read It? A Benchmark for Verifying Scientific References in the LLM Era**
+  - https://arxiv.org/abs/2602.23452
+- **FHIRPath-QA: Executable Question Answering over FHIR Electronic Health Records**
+  - https://arxiv.org/abs/2602.23479
