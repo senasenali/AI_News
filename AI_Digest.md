@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-03-04
+# 🤖 AI Digest — 2026-03-05
 
 ## OpenAI
 
+- **Extending single-minus amplitudes to gravitons**
+  - https://openai.com/index/extending-single-minus-amplitudes-to-gravitons
+- **Understanding AI and learning outcomes**
+  - https://openai.com/index/understanding-ai-and-learning-outcomes
+- **How Axios uses AI to help deliver high-impact local journalism**
+  - https://openai.com/index/axios-allison-murphy
 - **GPT-5.3 Instant System Card**
   - https://openai.com/index/gpt-5-3-instant-system-card
 - **GPT-5.3 Instant: Smoother, more useful everyday conversations**
   - https://openai.com/index/gpt-5-3-instant
-- **Our agreement with the Department of War**
-  - https://openai.com/index/our-agreement-with-the-department-of-war
-- **Joint Statement from OpenAI and Microsoft**
-  - https://openai.com/index/continuing-microsoft-partnership
-- **OpenAI and Amazon announce strategic partnership**
-  - https://openai.com/index/amazon-partnership
 
 ## Hugging Face
 
@@ -41,13 +41,13 @@
 
 ## arXiv CL
 
-- **From Global to Local: Learning Context-Aware Graph Representations for Document Classification and Summarization**
-  - https://arxiv.org/abs/2603.00021
-- **Noise reduction in BERT NER models for clinical entity extraction**
-  - https://arxiv.org/abs/2603.00022
-- **Personalization Increases Affective Alignment but Has Role-Dependent Effects on Epistemic Independence in LLMs**
-  - https://arxiv.org/abs/2603.00024
-- **TAB-PO: Preference Optimization with a Token-Level Adaptive Barrier for Token-Critical Structured Generation**
-  - https://arxiv.org/abs/2603.00025
-- **ActMem: Bridging the Gap Between Memory Retrieval and Reasoning in LLM Agents**
-  - https://arxiv.org/abs/2603.00026
+- **A Zipf-preserving, long-range correlated surrogate for written language and other symbolic sequences**
+  - https://arxiv.org/abs/2603.02213
+- **Universal Conceptual Structure in Neural Translation: Probing NLLB-200's Multilingual Geometry**
+  - https://arxiv.org/abs/2603.02258
+- **Characterizing Memorization in Diffusion Language Models: Generalized Extraction and Sampling Effects**
+  - https://arxiv.org/abs/2603.02333
+- **Detecting AI-Generated Essays in Writing Assessment: Responsible Use and Generalizability Across LLMs**
+  - https://arxiv.org/abs/2603.02353
+- **RO-N3WS: Enhancing Generalization in Low-Resource ASR with Diverse Romanian Speech Benchmarks**
+  - https://arxiv.org/abs/2603.02368
