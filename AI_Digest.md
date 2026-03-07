@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-03-06
+# 🤖 AI Digest — 2026-03-07
 
 ## OpenAI
 
-- **Introducing GPT-5.4**
-  - https://openai.com/index/introducing-gpt-5-4
+- **Codex Security: now in research preview**
+  - https://openai.com/index/codex-security-now-in-research-preview
+- **How Descript enables multilingual video dubbing at scale**
+  - https://openai.com/index/descript
+- **How Balyasny Asset Management built an AI research engine for investing**
+  - https://openai.com/index/balyasny-asset-management
 - **Reasoning models struggle to control their chains of thought, and that’s good**
   - https://openai.com/index/reasoning-models-chain-of-thought-controllability
 - **GPT-5.4 Thinking System Card**
   - https://openai.com/index/gpt-5-4-thinking-system-card
-- **Ensuring AI use in education leads to opportunity**
-  - https://openai.com/index/ai-education-opportunity
-- **Introducing ChatGPT for Excel and new financial data integrations**
-  - https://openai.com/index/chatgpt-for-excel
 
 ## Hugging Face
 
@@ -23,31 +23,31 @@
   - https://huggingface.co/blog/Photoroom/prx-part3
 - **Mixture of Experts (MoEs) in Transformers**
   - https://huggingface.co/blog/moe-transformers
-- **Deploying Open Source Vision Language Models (VLM) on Jetson**
-  - https://huggingface.co/blog/nvidia/cosmos-on-jetson
+- **GGML and llama.cpp join HF to ensure the long-term progress of Local AI**
+  - https://huggingface.co/blog/ggml-joins-hf
 
 ## arXiv AI
 
-- **Asymmetric Goal Drift in Coding Agents Under Value Conflict**
-  - https://arxiv.org/abs/2603.03456
-- **Build, Judge, Optimize: A Blueprint for Continuous Improvement of Multi-Agent Consumer Assistants**
-  - https://arxiv.org/abs/2603.03565
-- **Mozi: Governed Autonomy for Drug Discovery LLM Agents**
-  - https://arxiv.org/abs/2603.03655
-- **MAGE: Meta-Reinforcement Learning for Language Agents toward Strategic Exploration and Exploitation**
-  - https://arxiv.org/abs/2603.03680
-- **AI4S-SDS: A Neuro-Symbolic Solvent Design System via Sparse MCTS and Differentiable Physics Alignment**
-  - https://arxiv.org/abs/2603.03686
+- **SkillNet: Create, Evaluate, and Connect AI Skills**
+  - https://arxiv.org/abs/2603.04448
+- **Capability Thresholds and Manufacturing Topology: How Embodied Intelligence Triggers Phase Transitions in Economic Geography**
+  - https://arxiv.org/abs/2603.04457
+- **Progressive Refinement Regulation for Accelerating Diffusion Language Model Decoding**
+  - https://arxiv.org/abs/2603.04514
+- **Discovering mathematical concepts through a multi-agent system**
+  - https://arxiv.org/abs/2603.04528
+- **Adaptive Memory Admission Control for LLM Agents**
+  - https://arxiv.org/abs/2603.04549
 
 ## arXiv CL
 
-- **AriadneMem: Threading the Maze of Lifelong Memory for LLM Agents**
-  - https://arxiv.org/abs/2603.03290
-- **One Bias After Another: Mechanistic Reward Shaping and Persistent Biases in Language Reward Models**
-  - https://arxiv.org/abs/2603.03291
-- **From Conflict to Consensus: Boosting Medical Reasoning via Multi-Round Agentic RAG**
-  - https://arxiv.org/abs/2603.03292
-- **SE-Search: Self-Evolving Search Agent via Memory and Dense Reward**
-  - https://arxiv.org/abs/2603.03293
-- **Fine-Tuning and Evaluating Conversational AI for Agricultural Advisory**
-  - https://arxiv.org/abs/2603.03294
+- **CTRL-RAG: Contrastive Likelihood Reward Based Reinforcement Learning for Context-Faithful RAG Models**
+  - https://arxiv.org/abs/2603.04406
+- **Semantic Containment as a Fundamental Property of Emergent Misalignment**
+  - https://arxiv.org/abs/2603.04407
+- **Probing Memes in LLMs: A Paradigm for the Entangled Evaluation World**
+  - https://arxiv.org/abs/2603.04408
+- **Unpacking Human Preference for LLMs: Demographically Aware Evaluation with the HUMAINE Framework**
+  - https://arxiv.org/abs/2603.04409
+- **SalamahBench: Toward Standardized Safety Evaluation for Arabic Language Models**
+  - https://arxiv.org/abs/2603.04410
