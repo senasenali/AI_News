@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-03-08
+# 🤖 AI Digest — 2026-03-09
 
 ## OpenAI
 
@@ -8,10 +8,10 @@
   - https://openai.com/index/codex-security-now-in-research-preview
 - **How Balyasny Asset Management built an AI research engine for investing**
   - https://openai.com/index/balyasny-asset-management
+- **GPT-5.4 Thinking System Card**
+  - https://openai.com/index/gpt-5-4-thinking-system-card
 - **Reasoning models struggle to control their chains of thought, and that’s good**
   - https://openai.com/index/reasoning-models-chain-of-thought-controllability
-- **Introducing GPT-5.4**
-  - https://openai.com/index/introducing-gpt-5-4
 
 ## Hugging Face
 
