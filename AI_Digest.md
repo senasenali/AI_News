@@ -1,22 +1,22 @@
-# 🤖 AI Digest — 2026-03-11
+# 🤖 AI Digest — 2026-03-12
 
 ## OpenAI
 
+- **Rakuten fixes issues twice as fast with Codex**
+  - https://openai.com/index/rakuten
+- **Designing AI agents to resist prompt injection**
+  - https://openai.com/index/designing-agents-to-resist-prompt-injection
+- **From model to agent: Equipping the Responses API with a computer environment**
+  - https://openai.com/index/equip-responses-api-computer-environment
+- **Wayfair boosts catalog accuracy and support speed with OpenAI**
+  - https://openai.com/index/wayfair
 - **Improving instruction hierarchy in frontier LLMs**
   - https://openai.com/index/instruction-hierarchy-challenge
-- **New ways to learn math and science in ChatGPT**
-  - https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt
-- **OpenAI to acquire Promptfoo**
-  - https://openai.com/index/openai-to-acquire-promptfoo
-- **How Descript enables multilingual video dubbing at scale**
-  - https://openai.com/index/descript
-- **Codex Security: now in research preview**
-  - https://openai.com/index/codex-security-now-in-research-preview
 
 ## Hugging Face
 
-- **How NVIDIA Builds Open Data for AI**
-  - https://huggingface.co/blog/nvidia/open-data-for-ai
+- **Code Concepts: A Large-Scale Synthetic Dataset Generated from Programming Concept Seeds**
+  - https://huggingface.co/blog/nvidia/synthetic-code-concepts
 - **Introducing Storage Buckets on the Hugging Face Hub**
   - https://huggingface.co/blog/storage-buckets
 - **Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries**
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **Autonomous AI Agents for Option Hedging: Enhancing Financial Stability through Shortfall Aware Reinforcement Learning**
-  - https://arxiv.org/abs/2603.06587
-- **Scaling Strategy, Not Compute: A Stand-Alone, Open-Source StarCraft II Benchmark for Accessible Reinforcement Learning Research**
-  - https://arxiv.org/abs/2603.06608
-- **MultiGen: Level-Design for Editable Multiplayer Worlds in Diffusion Game Engines**
-  - https://arxiv.org/abs/2603.06679
-- **Best-of-Tails: Bridging Optimism and Pessimism in Inference-Time Alignment**
-  - https://arxiv.org/abs/2603.06797
-- **Breaking the Martingale Curse: Multi-Agent Debate via Asymmetric Cognitive Potential Energy**
-  - https://arxiv.org/abs/2603.06801
+- **MASEval: Extending Multi-Agent Evaluation from Models to Systems**
+  - https://arxiv.org/abs/2603.08835
+- **LDP: An Identity-Aware Protocol for Multi-Agent LLM Systems**
+  - https://arxiv.org/abs/2603.08852
+- **Quantifying the Accuracy and Cost Impact of Design Decisions in Budget-Constrained Agentic LLM Search**
+  - https://arxiv.org/abs/2603.08877
+- **Interpretable Markov-Based Spatiotemporal Risk Surfaces for Missing-Child Search Planning with Reinforcement Learning and LLM-Based Quality Assurance**
+  - https://arxiv.org/abs/2603.08933
+- **AgentOS: From Application Silos to a Natural Language-Driven Data Ecosystem**
+  - https://arxiv.org/abs/2603.08938
 
 ## arXiv CL
 
-- **ARC-AGI-2 Technical Report**
-  - https://arxiv.org/abs/2603.06590
-- **Hierarchical Latent Structures in Data Generation Process Unify Mechanistic Phenomena across Scale**
-  - https://arxiv.org/abs/2603.06592
-- **Hierarchical Embedding Fusion for Retrieval-Augmented Code Generation**
-  - https://arxiv.org/abs/2603.06593
-- **A Coin Flip for Safety: LLM Judges Fail to Reliably Measure Adversarial Robustness**
-  - https://arxiv.org/abs/2603.06594
-- **Rethinking Personalization in Large Language Models at the Token Level**
-  - https://arxiv.org/abs/2603.06595
+- **One Language, Two Scripts: Probing Script-Invariance in LLM Concept Representations**
+  - https://arxiv.org/abs/2603.08869
+- **MultiGraSCCo: A Multilingual Anonymization Benchmark with Annotations of Personal Identifiers**
+  - https://arxiv.org/abs/2603.08879
+- **ConFu: Contemplate the Future for Better Speculative Sampling**
+  - https://arxiv.org/abs/2603.08899
+- **SciTaRC: Benchmarking QA on Scientific Tabular Data that Requires Language Reasoning and Complex Computation**
+  - https://arxiv.org/abs/2603.08910
+- **Automated Thematic Analysis for Clinical Qualitative Data: Iterative Codebook Refinement with Full Provenance**
+  - https://arxiv.org/abs/2603.08989
