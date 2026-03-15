@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-03-14
+# 🤖 AI Digest — 2026-03-15
 
 ## OpenAI
 
@@ -28,26 +28,6 @@
 
 ## arXiv AI
 
-- **DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use**
-  - https://arxiv.org/abs/2603.11076
-- **A Survey of Reasoning in Autonomous Driving Systems: Open Challenges and Emerging Paradigms**
-  - https://arxiv.org/abs/2603.11093
-- **PACED: Distillation at the Frontier of Student Competence**
-  - https://arxiv.org/abs/2603.11178
-- **Measuring AI Agents' Progress on Multi-Step Cyber Attack Scenarios**
-  - https://arxiv.org/abs/2603.11214
-- **Reversible Lifelong Model Editing via Semantic Routing-Based LoRA**
-  - https://arxiv.org/abs/2603.11239
 
 ## arXiv CL
 
-- **Speculative Decoding Scaling Laws (SDSL): Throughput Optimization Made Simple**
-  - https://arxiv.org/abs/2603.11053
-- **Summarize Before You Speak with ARACH: A Training-Free Inference-Time Plug-In for Enhancing LLMs via Global Attention Reallocation**
-  - https://arxiv.org/abs/2603.11067
-- **DeReason: A Difficulty-Aware Curriculum Improves Decoupled SFT-then-RL Training for General Reasoning**
-  - https://arxiv.org/abs/2603.11193
-- **MDER-DR: Multi-Hop Question Answering with Entity-Centric Summaries**
-  - https://arxiv.org/abs/2603.11223
-- **Markovian Generation Chains in Large Language Models**
-  - https://arxiv.org/abs/2603.11228
