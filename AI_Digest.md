@@ -1,22 +1,22 @@
-# 🤖 AI Digest — 2026-03-16
+# 🤖 AI Digest — 2026-03-17
 
 ## OpenAI
 
+- **Why Codex Security Doesn’t Include a SAST Report**
+  - https://openai.com/index/why-codex-security-doesnt-include-sast
 - **Rakuten fixes issues twice as fast with Codex**
   - https://openai.com/index/rakuten
 - **Designing AI agents to resist prompt injection**
   - https://openai.com/index/designing-agents-to-resist-prompt-injection
-- **Wayfair boosts catalog accuracy and support speed with OpenAI**
-  - https://openai.com/index/wayfair
 - **From model to agent: Equipping the Responses API with a computer environment**
   - https://openai.com/index/equip-responses-api-computer-environment
-- **Improving instruction hierarchy in frontier LLMs**
-  - https://openai.com/index/instruction-hierarchy-challenge
+- **Wayfair boosts catalog accuracy and support speed with OpenAI**
+  - https://openai.com/index/wayfair
 
 ## Hugging Face
 
-- **Beyond Semantic Similarity: Introducing NVIDIA NeMo Retriever’s Generalizable Agentic Retrieval Pipeline**
-  - https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval
+- **The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics**
+  - https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics
 - **Introducing Storage Buckets on the Hugging Face Hub**
   - https://huggingface.co/blog/storage-buckets
 - **Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries**
@@ -28,6 +28,26 @@
 
 ## arXiv AI
 
+- **Context-Enriched Natural Language Descriptions of Vessel Trajectories**
+  - https://arxiv.org/abs/2603.12287
+- **Efficient Reasoning with Balanced Thinking**
+  - https://arxiv.org/abs/2603.12372
+- **Generating Expressive and Customizable Evals for Timeseries Data Analysis Agents with AgentFuel**
+  - https://arxiv.org/abs/2603.12483
+- **AI Planning Framework for LLM-Based Web Agents**
+  - https://arxiv.org/abs/2603.12710
+- **On Using Machine Learning to Early Detect Catastrophic Failures in Marine Diesel Engines**
+  - https://arxiv.org/abs/2603.12733
 
 ## arXiv CL
 
+- **Task-Specific Knowledge Distillation via Intermediate Probes**
+  - https://arxiv.org/abs/2603.12270
+- **Diagnosing Retrieval Bias Under Multiple In-Context Knowledge Updates in Large Language Models**
+  - https://arxiv.org/abs/2603.12271
+- **ActTail: Global Activation Sparsity in Large Language Models**
+  - https://arxiv.org/abs/2603.12272
+- **Aligning Language Models from User Interactions**
+  - https://arxiv.org/abs/2603.12273
+- **GONE: Structural Knowledge Unlearning via Neighborhood-Expanded Distribution Shaping**
+  - https://arxiv.org/abs/2603.12275
