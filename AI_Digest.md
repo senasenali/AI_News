@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-03-18
+# 🤖 AI Digest — 2026-03-19
 
 ## OpenAI
 
 - **Introducing GPT-5.4 mini and nano**
   - https://openai.com/index/introducing-gpt-5-4-mini-and-nano
+- **OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first**
+  - https://openai.com/index/japan-teen-safety-blueprint
 - **Equipping workers with insights about compensation**
   - https://openai.com/index/equipping-workers-with-insights-about-compensation
 - **Why Codex Security Doesn’t Include a SAST Report**
   - https://openai.com/index/why-codex-security-doesnt-include-sast
 - **Rakuten fixes issues twice as fast with Codex**
   - https://openai.com/index/rakuten
-- **Designing AI agents to resist prompt injection**
-  - https://openai.com/index/designing-agents-to-resist-prompt-injection
 
 ## Hugging Face
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **Human Attribution of Causality to AI Across Agency, Misuse, and Misalignment**
-  - https://arxiv.org/abs/2603.13236
-- **A Dual-Path Generative Framework for Zero-Day Fraud Detection in Banking Systems**
-  - https://arxiv.org/abs/2603.13237
-- **Benchmarking Zero-Shot Reasoning Approaches for Error Detection in Solidity Smart Contracts**
-  - https://arxiv.org/abs/2603.13239
-- **Think First, Diffuse Fast: Improving Diffusion Language Model Reasoning via Autoregressive Plan Conditioning**
-  - https://arxiv.org/abs/2603.13243
-- **Automating Document Intelligence in Statutory City Planning**
-  - https://arxiv.org/abs/2603.13245
+- **Neural-Symbolic Logic Query Answering in Non-Euclidean Space**
+  - https://arxiv.org/abs/2603.15633
+- **NextMem: Towards Latent Factual Memory for LLM-based Agents**
+  - https://arxiv.org/abs/2603.15634
+- **AIDABench: AI Data Analytics Benchmark**
+  - https://arxiv.org/abs/2603.15636
+- **The Comprehension-Gated Agent Economy: A Robustness-First Architecture for AI Economic Agency**
+  - https://arxiv.org/abs/2603.15639
+- **Form Follows Function: Recursive Stem Model**
+  - https://arxiv.org/abs/2603.15641
 
 ## arXiv CL
 
-- **Slang Context-based Inference Enhancement via Greedy Search-Guided Chain-of-Thought Prompting**
-  - https://arxiv.org/abs/2603.13230
-- **Steering at the Source: Style Modulation Heads for Robust Persona Control**
-  - https://arxiv.org/abs/2603.13249
-- **Training-Free Agentic AI: Probabilistic Control and Coordination in Multi-Agent LLM Systems**
-  - https://arxiv.org/abs/2603.13256
-- **How Transformers Reject Wrong Answers: Rotational Dynamics of Factual Constraint Processing**
-  - https://arxiv.org/abs/2603.13259
-- **Explain in Your Own Words: Improving Reasoning via Token-Selective Dual Knowledge Distillation**
-  - https://arxiv.org/abs/2603.13260
+- **Recursive Language Models Meet Uncertainty: The Surprising Effectiveness of Self-Reflective Program Search for Long Context**
+  - https://arxiv.org/abs/2603.15653
+- **MedArena: Comparing LLMs for Medicine-in-the-Wild Clinician Preferences**
+  - https://arxiv.org/abs/2603.15677
+- **MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification**
+  - https://arxiv.org/abs/2603.15726
+- **Morphemes Without Borders: Evaluating Root-Pattern Morphology in Arabic Tokenizers and LLMs**
+  - https://arxiv.org/abs/2603.15773
+- **COGNAC at SemEval-2026 Task 5: LLM Ensembles for Human-Level Word Sense Plausibility Rating in Challenging Narratives**
+  - https://arxiv.org/abs/2603.15897
