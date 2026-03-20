@@ -1,22 +1,22 @@
-# 🤖 AI Digest — 2026-03-19
+# 🤖 AI Digest — 2026-03-20
 
 ## OpenAI
 
-- **Introducing GPT-5.4 mini and nano**
-  - https://openai.com/index/introducing-gpt-5-4-mini-and-nano
+- **How we monitor internal coding agents for misalignment**
+  - https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment
+- **OpenAI to acquire Astral**
+  - https://openai.com/index/openai-to-acquire-astral
 - **OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first**
   - https://openai.com/index/japan-teen-safety-blueprint
+- **Introducing GPT-5.4 mini and nano**
+  - https://openai.com/index/introducing-gpt-5-4-mini-and-nano
 - **Equipping workers with insights about compensation**
   - https://openai.com/index/equipping-workers-with-insights-about-compensation
-- **Why Codex Security Doesn’t Include a SAST Report**
-  - https://openai.com/index/why-codex-security-doesnt-include-sast
-- **Rakuten fixes issues twice as fast with Codex**
-  - https://openai.com/index/rakuten
 
 ## Hugging Face
 
-- **Nemotron 3 Nano 4B: A Compact Hybrid Model for Efficient Local AI**
-  - https://huggingface.co/blog/nvidia/nemotron-3-nano-4b
+- ****Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding****
+  - https://huggingface.co/blog/nvidia/speed-bench
 - **State of Open Source on Hugging Face: Spring 2026**
   - https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026
 - **Holotron-12B - High Throughput Computer Use Agent**
@@ -28,16 +28,16 @@
 
 ## arXiv AI
 
-- **Neural-Symbolic Logic Query Answering in Non-Euclidean Space**
-  - https://arxiv.org/abs/2603.15633
-- **NextMem: Towards Latent Factual Memory for LLM-based Agents**
-  - https://arxiv.org/abs/2603.15634
-- **AIDABench: AI Data Analytics Benchmark**
-  - https://arxiv.org/abs/2603.15636
-- **The Comprehension-Gated Agent Economy: A Robustness-First Architecture for AI Economic Agency**
-  - https://arxiv.org/abs/2603.15639
-- **Form Follows Function: Recursive Stem Model**
-  - https://arxiv.org/abs/2603.15641
+- **Generative AI-assisted Participatory Modeling in Socio-Environmental Planning under Deep Uncertainty**
+  - https://arxiv.org/abs/2603.17021
+- **Transformers are Bayesian Networks**
+  - https://arxiv.org/abs/2603.17063
+- **Cascade-Aware Multi-Agent Routing: Spatio-Temporal Sidecars and Geometry-Switching**
+  - https://arxiv.org/abs/2603.17112
+- **How Clued up are LLMs? Evaluating Multi-Step Deductive Reasoning in a Text-Based Game Environment**
+  - https://arxiv.org/abs/2603.17169
+- **AI Scientist via Synthetic Task Scaling**
+  - https://arxiv.org/abs/2603.17216
 
 ## arXiv CL
 
