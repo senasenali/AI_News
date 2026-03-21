@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-03-20
+# 🤖 AI Digest — 2026-03-21
 
 ## OpenAI
 
@@ -15,39 +15,39 @@
 
 ## Hugging Face
 
-- ****Introducing SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding****
-  - https://huggingface.co/blog/nvidia/speed-bench
+- **Build a Domain-Specific Embedding Model in Under a Day**
+  - https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune
+- **What's New in Mellea 0.4.0 + Granite Libraries Release**
+  - https://huggingface.co/blog/ibm-granite/granite-libraries
 - **State of Open Source on Hugging Face: Spring 2026**
   - https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026
 - **Holotron-12B - High Throughput Computer Use Agent**
   - https://huggingface.co/blog/Hcompany/holotron-12b
 - **Introducing Storage Buckets on the Hugging Face Hub**
   - https://huggingface.co/blog/storage-buckets
-- **Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries**
-  - https://huggingface.co/blog/async-rl-training-landscape
 
 ## arXiv AI
 
-- **Generative AI-assisted Participatory Modeling in Socio-Environmental Planning under Deep Uncertainty**
-  - https://arxiv.org/abs/2603.17021
-- **Transformers are Bayesian Networks**
-  - https://arxiv.org/abs/2603.17063
-- **Cascade-Aware Multi-Agent Routing: Spatio-Temporal Sidecars and Geometry-Switching**
-  - https://arxiv.org/abs/2603.17112
-- **How Clued up are LLMs? Evaluating Multi-Step Deductive Reasoning in a Text-Based Game Environment**
-  - https://arxiv.org/abs/2603.17169
-- **AI Scientist via Synthetic Task Scaling**
-  - https://arxiv.org/abs/2603.17216
+- **DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models**
+  - https://arxiv.org/abs/2603.18048
+- **Continually self-improving AI**
+  - https://arxiv.org/abs/2603.18073
+- **Multi-Trait Subspace Steering to Reveal the Dark Side of Human-AI Interaction**
+  - https://arxiv.org/abs/2603.18085
+- **Adaptive Domain Models: Bayesian Evolution, Warm Rotation, and Principled Training for Geometric and Neuromorphic AI**
+  - https://arxiv.org/abs/2603.18104
+- **Don't Vibe Code, Do Skele-Code: Interactive No-Code Notebooks for Subject Matter Experts to Build Lower-Cost Agentic Workflows**
+  - https://arxiv.org/abs/2603.18122
 
 ## arXiv CL
 
-- **Recursive Language Models Meet Uncertainty: The Surprising Effectiveness of Self-Reflective Program Search for Long Context**
-  - https://arxiv.org/abs/2603.15653
-- **MedArena: Comparing LLMs for Medicine-in-the-Wild Clinician Preferences**
-  - https://arxiv.org/abs/2603.15677
-- **MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification**
-  - https://arxiv.org/abs/2603.15726
-- **Morphemes Without Borders: Evaluating Root-Pattern Morphology in Arabic Tokenizers and LLMs**
-  - https://arxiv.org/abs/2603.15773
-- **COGNAC at SemEval-2026 Task 5: LLM Ensembles for Human-Level Word Sense Plausibility Rating in Challenging Narratives**
-  - https://arxiv.org/abs/2603.15897
+- **Do Large Language Models Possess a Theory of Mind? A Comparative Evaluation Using the Strange Stories Paradigm**
+  - https://arxiv.org/abs/2603.18007
+- **TherapyGym: Evaluating and Aligning Clinical Fidelity and Safety in Therapy Chatbots**
+  - https://arxiv.org/abs/2603.18008
+- **How Confident Is the First Token? An Uncertainty-Calibrated Prompt Optimization Framework for Large Language Model Classification and Understanding**
+  - https://arxiv.org/abs/2603.18009
+- **Agentic Framework for Political Biography Extraction**
+  - https://arxiv.org/abs/2603.18010
+- **Controllable Evidence Selection in Retrieval-Augmented Question Answering via Deterministic Utility Gating**
+  - https://arxiv.org/abs/2603.18011
