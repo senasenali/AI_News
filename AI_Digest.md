@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-03-22
+# 🤖 AI Digest — 2026-03-23
 
 ## OpenAI
 
@@ -28,16 +28,6 @@
 
 ## arXiv AI
 
-- **DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models**
-  - https://arxiv.org/abs/2603.18048
-- **Continually self-improving AI**
-  - https://arxiv.org/abs/2603.18073
-- **Multi-Trait Subspace Steering to Reveal the Dark Side of Human-AI Interaction**
-  - https://arxiv.org/abs/2603.18085
-- **Adaptive Domain Models: Bayesian Evolution, Warm Rotation, and Principled Training for Geometric and Neuromorphic AI**
-  - https://arxiv.org/abs/2603.18104
-- **Don't Vibe Code, Do Skele-Code: Interactive No-Code Notebooks for Subject Matter Experts to Build Lower-Cost Agentic Workflows**
-  - https://arxiv.org/abs/2603.18122
 
 ## arXiv CL
 
