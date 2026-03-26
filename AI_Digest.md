@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-03-25
+# 🤖 AI Digest — 2026-03-26
 
 ## OpenAI
 
+- **Inside our approach to the Model Spec**
+  - https://openai.com/index/our-approach-to-the-model-spec
+- **Introducing the OpenAI Safety Bug Bounty program**
+  - https://openai.com/index/safety-bug-bounty
 - **Helping developers build safer AI experiences for teens**
   - https://openai.com/index/teen-safety-policies-gpt-oss-safeguard
 - **Update on the OpenAI Foundation**
   - https://openai.com/index/update-on-the-openai-foundation
 - **Powering product discovery in ChatGPT**
   - https://openai.com/index/powering-product-discovery-in-chatgpt
-- **Creating with Sora Safely**
-  - https://openai.com/index/creating-with-sora-safely
-- **How we monitor internal coding agents for misalignment**
-  - https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment
 
 ## Hugging Face
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization**
-  - https://arxiv.org/abs/2603.20213
-- **ProMAS: Proactive Error Forecasting for Multi-Agent Systems Using Markov Transition Dynamics**
-  - https://arxiv.org/abs/2603.20260
-- **Domain-Specialized Tree of Thought through Plug-and-Play Predictors**
-  - https://arxiv.org/abs/2603.20267
-- **FactorSmith: Agentic Simulation Generation via Markov Decision Process Decomposition with Planner-Designer-Critic Refinement**
-  - https://arxiv.org/abs/2603.20270
-- **Me, Myself, and $\pi$ : Evaluating and Explaining LLM Introspection**
-  - https://arxiv.org/abs/2603.20276
+- **Memory Bear AI Memory Science Engine for Multimodal Affective Intelligence: A Technical Report**
+  - https://arxiv.org/abs/2603.22306
+- **The Efficiency Attenuation Phenomenon: A Computational Challenge to the Language of Thought Hypothesis**
+  - https://arxiv.org/abs/2603.22312
+- **Dynamic Fusion-Aware Graph Convolutional Neural Network for Multimodal Emotion Recognition in Conversations**
+  - https://arxiv.org/abs/2603.22345
+- **Intelligence Inertia: Physical Principles and Applications**
+  - https://arxiv.org/abs/2603.22347
+- **Session Risk Memory (SRM): Temporal Authorization for Deterministic Pre-Execution Safety Gates**
+  - https://arxiv.org/abs/2603.22350
 
 ## arXiv CL
 
-- **Enhancing Safety of Large Language Models via Embedding Space Separation**
-  - https://arxiv.org/abs/2603.20206
-- **RedacBench: Can AI Erase Your Secrets?**
-  - https://arxiv.org/abs/2603.20208
-- **Children's Intelligence Tests Pose Challenges for MLLMs? KidGym: A 2D Grid-Based Reasoning Benchmark for MLLMs**
-  - https://arxiv.org/abs/2603.20209
-- **CRoCoDiL: Continuous and Robust Conditioned Diffusion for Language**
-  - https://arxiv.org/abs/2603.20210
-- **Fast-Slow Thinking RM: Efficient Integration of Scalar and Generative Reward Models**
-  - https://arxiv.org/abs/2603.20212
+- **Evaluating Prompting Strategies for Chart Question Answering with Large Language Models**
+  - https://arxiv.org/abs/2603.22288
+- **MERIT: Memory-Enhanced Retrieval for Interpretable Knowledge Tracing**
+  - https://arxiv.org/abs/2603.22289
+- **Less is More: Adapting Text Embeddings for Low-Resource Languages with Small Scale Noisy Synthetic Data**
+  - https://arxiv.org/abs/2603.22290
+- **Evaluating Large Language Models' Responses to Sexual and Reproductive Health Queries in Nepali**
+  - https://arxiv.org/abs/2603.22291
+- **TIPS: Turn-Level Information-Potential Reward Shaping for Search-Augmented LLMs**
+  - https://arxiv.org/abs/2603.22293
