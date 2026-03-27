@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-03-26
+# 🤖 AI Digest — 2026-03-27
 
 ## OpenAI
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **Memory Bear AI Memory Science Engine for Multimodal Affective Intelligence: A Technical Report**
-  - https://arxiv.org/abs/2603.22306
-- **The Efficiency Attenuation Phenomenon: A Computational Challenge to the Language of Thought Hypothesis**
-  - https://arxiv.org/abs/2603.22312
-- **Dynamic Fusion-Aware Graph Convolutional Neural Network for Multimodal Emotion Recognition in Conversations**
-  - https://arxiv.org/abs/2603.22345
-- **Intelligence Inertia: Physical Principles and Applications**
-  - https://arxiv.org/abs/2603.22347
-- **Session Risk Memory (SRM): Temporal Authorization for Deterministic Pre-Execution Safety Gates**
-  - https://arxiv.org/abs/2603.22350
+- **PLDR-LLMs Reason At Self-Organized Criticality**
+  - https://arxiv.org/abs/2603.23539
+- **Environment Maps: Structured Environmental Representations for Long-Horizon Agents**
+  - https://arxiv.org/abs/2603.23610
+- **Evaluating a Multi-Agent Voice-Enabled Smart Speaker for Care Homes: A Safety-Focused Framework**
+  - https://arxiv.org/abs/2603.23625
+- **Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments**
+  - https://arxiv.org/abs/2603.23638
+- **GTO Wizard Benchmark**
+  - https://arxiv.org/abs/2603.23660
 
 ## arXiv CL
 
-- **Evaluating Prompting Strategies for Chart Question Answering with Large Language Models**
-  - https://arxiv.org/abs/2603.22288
-- **MERIT: Memory-Enhanced Retrieval for Interpretable Knowledge Tracing**
-  - https://arxiv.org/abs/2603.22289
-- **Less is More: Adapting Text Embeddings for Low-Resource Languages with Small Scale Noisy Synthetic Data**
-  - https://arxiv.org/abs/2603.22290
-- **Evaluating Large Language Models' Responses to Sexual and Reproductive Health Queries in Nepali**
-  - https://arxiv.org/abs/2603.22291
-- **TIPS: Turn-Level Information-Potential Reward Shaping for Search-Augmented LLMs**
-  - https://arxiv.org/abs/2603.22293
+- **Leveraging Computerized Adaptive Testing for Cost-effective Evaluation of Large Language Models in Medical Benchmarking**
+  - https://arxiv.org/abs/2603.23506
+- **Beyond Masks: Efficient, Flexible Diffusion Language Models via Deletion-Insertion Processes**
+  - https://arxiv.org/abs/2603.23507
+- **Fast and Faithful: Real-Time Verification for Long-Document Retrieval-Augmented Generation Systems**
+  - https://arxiv.org/abs/2603.23508
+- **Internal Safety Collapse in Frontier Large Language Models**
+  - https://arxiv.org/abs/2603.23509
+- **Visuospatial Perspective Taking in Multimodal Language Models**
+  - https://arxiv.org/abs/2603.23510
