@@ -1,15 +1,15 @@
-# 🤖 AI Digest — 2026-03-27
+# 🤖 AI Digest — 2026-03-28
 
 ## OpenAI
 
+- **STADLER reshapes knowledge work at a 230-year-old company**
+  - https://openai.com/index/stadler
 - **Inside our approach to the Model Spec**
   - https://openai.com/index/our-approach-to-the-model-spec
 - **Introducing the OpenAI Safety Bug Bounty program**
   - https://openai.com/index/safety-bug-bounty
 - **Helping developers build safer AI experiences for teens**
   - https://openai.com/index/teen-safety-policies-gpt-oss-safeguard
-- **Update on the OpenAI Foundation**
-  - https://openai.com/index/update-on-the-openai-foundation
 - **Powering product discovery in ChatGPT**
   - https://openai.com/index/powering-product-discovery-in-chatgpt
 
@@ -41,13 +41,13 @@
 
 ## arXiv CL
 
-- **Leveraging Computerized Adaptive Testing for Cost-effective Evaluation of Large Language Models in Medical Benchmarking**
-  - https://arxiv.org/abs/2603.23506
-- **Beyond Masks: Efficient, Flexible Diffusion Language Models via Deletion-Insertion Processes**
-  - https://arxiv.org/abs/2603.23507
-- **Fast and Faithful: Real-Time Verification for Long-Document Retrieval-Augmented Generation Systems**
-  - https://arxiv.org/abs/2603.23508
-- **Internal Safety Collapse in Frontier Large Language Models**
-  - https://arxiv.org/abs/2603.23509
-- **Visuospatial Perspective Taking in Multimodal Language Models**
-  - https://arxiv.org/abs/2603.23510
+- **When Consistency Becomes Bias: Interviewer Effects in Semi-Structured Clinical Interviews**
+  - https://arxiv.org/abs/2603.24651
+- **Demystifying When Pruning Works via Representation Hierarchies**
+  - https://arxiv.org/abs/2603.24652
+- **Fine-Tuning A Large Language Model for Systematic Review Screening**
+  - https://arxiv.org/abs/2603.24767
+- **Evaluating Fine-Tuned LLM Model For Medical Transcription With Small Low-Resource Languages Validated Dataset**
+  - https://arxiv.org/abs/2603.24772
+- **Enhancing Structured Meaning Representations with Aspect Classification**
+  - https://arxiv.org/abs/2603.24797
