@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-03-29
+# 🤖 AI Digest — 2026-03-30
 
 ## OpenAI
 
@@ -10,8 +10,8 @@
   - https://openai.com/index/safety-bug-bounty
 - **Helping developers build safer AI experiences for teens**
   - https://openai.com/index/teen-safety-policies-gpt-oss-safeguard
-- **Powering product discovery in ChatGPT**
-  - https://openai.com/index/powering-product-discovery-in-chatgpt
+- **Update on the OpenAI Foundation**
+  - https://openai.com/index/update-on-the-openai-foundation
 
 ## Hugging Face
 
