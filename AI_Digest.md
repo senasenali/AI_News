@@ -1,7 +1,9 @@
-# 🤖 AI Digest — 2026-04-01
+# 🤖 AI Digest — 2026-04-02
 
 ## OpenAI
 
+- **Gradient Labs gives every bank customer an AI account manager**
+  - https://openai.com/index/gradient-labs
 - **Accelerating the next phase of AI**
   - https://openai.com/index/accelerating-the-next-phase-ai
 - **Helping disaster response teams turn AI into action across Asia**
@@ -10,44 +12,42 @@
   - https://openai.com/index/stadler
 - **Inside our approach to the Model Spec**
   - https://openai.com/index/our-approach-to-the-model-spec
-- **Introducing the OpenAI Safety Bug Bounty program**
-  - https://openai.com/index/safety-bug-bounty
 
 ## Hugging Face
 
+- **Holo3: Breaking the Computer Use Frontier**
+  - https://huggingface.co/blog/Hcompany/holo3
+- **Falcon Perception**
+  - https://huggingface.co/blog/tiiuae/falcon-perception
 - **Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents**
   - https://huggingface.co/blog/ibm-granite/granite-4-vision
 - **TRL v1.0: Post-Training Library Built to Move with the Field**
   - https://huggingface.co/blog/trl-v1
 - **Liberate your OpenClaw**
   - https://huggingface.co/blog/liberate-your-openclaw
-- **A New Framework for Evaluating Voice Agents (EVA)**
-  - https://huggingface.co/blog/ServiceNow-AI/eva
-- **Build a Domain-Specific Embedding Model in Under a Day**
-  - https://huggingface.co/blog/nvidia/domain-specific-embedding-finetune
 
 ## arXiv AI
 
-- **Bitboard version of Tetris AI**
-  - https://arxiv.org/abs/2603.26765
-- **Multiverse: Language-Conditioned Multi-Game Level Blending via Shared Representation**
-  - https://arxiv.org/abs/2603.26782
-- **Concerning Uncertainty -- A Systematic Survey of Uncertainty-Aware XAI**
-  - https://arxiv.org/abs/2603.26838
-- **Neuro-Symbolic Learning for Predictive Process Monitoring via Two-Stage Logic Tensor Networks with Rule Pruning**
-  - https://arxiv.org/abs/2603.26944
-- **Compliance-Aware Predictive Process Monitoring: A Neuro-Symbolic Approach**
-  - https://arxiv.org/abs/2603.26948
+- **ChartDiff: A Large-Scale Benchmark for Comprehending Pairs of Charts**
+  - https://arxiv.org/abs/2603.28902
+- **Working Paper: Towards a Category-theoretic Comparative Framework for Artificial General Intelligence**
+  - https://arxiv.org/abs/2603.28906
+- **Towards Computational Social Dynamics of Semi-Autonomous AI Agents**
+  - https://arxiv.org/abs/2603.28928
+- **Enhancing Policy Learning with World-Action Model**
+  - https://arxiv.org/abs/2603.28955
+- **Mimosa Framework: Toward Evolving Multi-Agent Systems for Scientific Research**
+  - https://arxiv.org/abs/2603.28986
 
 ## arXiv CL
 
-- **GeoBlock: Inferring Block Granularity from Dependency Geometry in Diffusion Language Models**
-  - https://arxiv.org/abs/2603.26675
-- **AlpsBench: An LLM Personalization Benchmark for Real-Dialogue Memorization and Preference Alignment**
-  - https://arxiv.org/abs/2603.26680
-- **The Cognitive Divergence: AI Context Windows, Human Attention Decline, and the Delegation Feedback Loop**
-  - https://arxiv.org/abs/2603.26707
-- **Do Multilingual VLMs Reason Equally? A Cross-Lingual Visual Reasoning Audit for Indian Languages**
-  - https://arxiv.org/abs/2603.26742
-- **LogicDiff: Logic-Guided Denoising Improves Reasoning in Masked Diffusion Language Models**
-  - https://arxiv.org/abs/2603.26771
+- **OptiMer: Optimal Distribution Vector Merging Is Better than Data Mixing for Continual Pre-Training**
+  - https://arxiv.org/abs/2603.28858
+- **From Consensus to Split Decisions: ABC-Stratified Sentiment in Holocaust Oral Histories**
+  - https://arxiv.org/abs/2603.28913
+- **CrossTrace: A Cross-Domain Dataset of Grounded Scientific Reasoning Traces for Hypothesis Generation**
+  - https://arxiv.org/abs/2603.28924
+- **Theory of Mind and Self-Attributions of Mentality are Dissociable in LLMs**
+  - https://arxiv.org/abs/2603.28925
+- **Known Intents, New Combinations: Clause-Factorized Decoding for Compositional Multi-Intent Detection**
+  - https://arxiv.org/abs/2603.28929
