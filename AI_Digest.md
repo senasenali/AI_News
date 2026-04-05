@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-04-04
+# 🤖 AI Digest — 2026-04-05
 
 ## OpenAI
 
@@ -28,26 +28,16 @@
 
 ## arXiv AI
 
-- **How Emotion Shapes the Behavior of LLMs and Agents: A Mechanistic Study**
-  - https://arxiv.org/abs/2604.00005
-- **One Panel Does Not Fit All: Case-Adaptive Multi-Agent Deliberation for Clinical Prediction**
-  - https://arxiv.org/abs/2604.00085
-- **Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents**
-  - https://arxiv.org/abs/2604.00137
-- **A Safety-Aware Role-Orchestrated Multi-Agent LLM Framework for Behavioral Health Communication Simulation**
-  - https://arxiv.org/abs/2604.00249
-- **Human-in-the-Loop Control of Objective Drift in LLM-Assisted Computer Science Education**
-  - https://arxiv.org/abs/2604.00281
 
 ## arXiv CL
 
-- **Benchmark for Assessing Olfactory Perception of Large Language Models**
-  - https://arxiv.org/abs/2604.00002
-- **A Reliability Evaluation of Hybrid Deterministic-LLM Based Approaches for Academic Course Registration PDF Information Extraction**
-  - https://arxiv.org/abs/2604.00003
-- **LinearARD: Linear-Memory Attention Distillation for RoPE Restoration**
-  - https://arxiv.org/abs/2604.00004
-- **Scalable Identification and Prioritization of Requisition-Specific Personal Competencies Using Large Language Models**
-  - https://arxiv.org/abs/2604.00006
-- **Dynin-Omni: Omnimodal Unified Large Diffusion Language Model**
-  - https://arxiv.org/abs/2604.00007
+- **The Overlooked Repetitive Lengthening Form in Sentiment Analysis**
+  - https://arxiv.org/abs/2604.01268
+- **Scaling Reasoning Tokens via RL and Parallel Thinking: Evidence From Competitive Programming**
+  - https://arxiv.org/abs/2604.01302
+- **M2-Verify: A Large-Scale Multidomain Benchmark for Checking Multimodal Claim Consistency**
+  - https://arxiv.org/abs/2604.01306
+- **Preference learning in shades of gray: Interpretable and bias-aware reward modeling for human preferences**
+  - https://arxiv.org/abs/2604.01312
+- **Procedural Knowledge at Scale Improves Reasoning**
+  - https://arxiv.org/abs/2604.01348
