@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-04-05
+# 🤖 AI Digest — 2026-04-06
 
 ## OpenAI
 
@@ -31,13 +31,3 @@
 
 ## arXiv CL
 
-- **The Overlooked Repetitive Lengthening Form in Sentiment Analysis**
-  - https://arxiv.org/abs/2604.01268
-- **Scaling Reasoning Tokens via RL and Parallel Thinking: Evidence From Competitive Programming**
-  - https://arxiv.org/abs/2604.01302
-- **M2-Verify: A Large-Scale Multidomain Benchmark for Checking Multimodal Claim Consistency**
-  - https://arxiv.org/abs/2604.01306
-- **Preference learning in shades of gray: Interpretable and bias-aware reward modeling for human preferences**
-  - https://arxiv.org/abs/2604.01312
-- **Procedural Knowledge at Scale Improves Reasoning**
-  - https://arxiv.org/abs/2604.01348
