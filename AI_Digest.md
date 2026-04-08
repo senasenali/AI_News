@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-04-07
+# 🤖 AI Digest — 2026-04-08
 
 ## OpenAI
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web**
-  - https://arxiv.org/abs/2604.02334
-- **Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation**
-  - https://arxiv.org/abs/2604.02368
-- **Compositional Neuro-Symbolic Reasoning**
-  - https://arxiv.org/abs/2604.02434
-- **Understanding the Nature of Generative AI as Threshold Logic in High-Dimensional Space**
-  - https://arxiv.org/abs/2604.02476
-- **AIVV: Neuro-Symbolic LLM Agent-Integrated Verification and Validation for Trustworthy Autonomous Systems**
-  - https://arxiv.org/abs/2604.02478
+- **IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking**
+  - https://arxiv.org/abs/2604.03232
+- **Structural Segmentation of the Minimum Set Cover Problem: Exploiting Universe Decomposability for Metaheuristic Optimization**
+  - https://arxiv.org/abs/2604.03234
+- **To Throw a Stone with Six Birds: On Agents and Agenthood**
+  - https://arxiv.org/abs/2604.03239
+- **Position: Science of AI Evaluation Requires Item-level Benchmark Data**
+  - https://arxiv.org/abs/2604.03244
+- **Toward Full Autonomous Laboratory Instrumentation Control with Large Language Models**
+  - https://arxiv.org/abs/2604.03286
 
 ## arXiv CL
 
-- **Using LLM-as-a-Judge/Jury to Advance Scalable, Clinically-Validated Safety Evaluations of Model Responses to Users Demonstrating Psychosis**
-  - https://arxiv.org/abs/2604.02359
-- **CIPHER: Conformer-based Inference of Phonemes from High-density EEG**
-  - https://arxiv.org/abs/2604.02362
-- **SWAY: A Counterfactual Computational Linguistic Approach to Measuring and Mitigating Sycophancy**
-  - https://arxiv.org/abs/2604.02423
-- **Skeleton-based Coherence Modeling in Narratives**
-  - https://arxiv.org/abs/2604.02451
-- **Single-Agent LLMs Outperform Multi-Agent Systems on Multi-Hop Reasoning Under Equal Thinking Token Budgets**
-  - https://arxiv.org/abs/2604.02460
+- **Self-Execution Simulation Improves Coding Models**
+  - https://arxiv.org/abs/2604.03253
+- **Robust LLM Performance Certification via Constrained Maximum Likelihood Estimation**
+  - https://arxiv.org/abs/2604.03257
+- **SoLA: Leveraging Soft Activation Sparsity and Low-Rank Decomposition for Large Language Model Compression**
+  - https://arxiv.org/abs/2604.03258
+- **Why Attend to Everything? Focus is the Key**
+  - https://arxiv.org/abs/2604.03260
+- **VIGIL: An Extensible System for Real-Time Detection and Mitigation of Cognitive Bias Triggers**
+  - https://arxiv.org/abs/2604.03261
