@@ -1,53 +1,53 @@
-# 🤖 AI Digest — 2026-04-08
+# 🤖 AI Digest — 2026-04-09
 
 ## OpenAI
 
+- **The next phase of enterprise AI**
+  - https://openai.com/index/next-phase-of-enterprise-ai
+- **Introducing the Child Safety Blueprint**
+  - https://openai.com/index/introducing-child-safety-blueprint
 - **Announcing the OpenAI Safety Fellowship**
   - https://openai.com/index/introducing-openai-safety-fellowship
 - **Industrial policy for the Intelligence Age**
   - https://openai.com/index/industrial-policy-for-the-intelligence-age
 - **OpenAI acquires TBPN**
   - https://openai.com/index/openai-acquires-tbpn
-- **Codex now offers more flexible pricing for teams**
-  - https://openai.com/index/codex-flexible-pricing-for-teams
-- **Gradient Labs gives every bank customer an AI account manager**
-  - https://openai.com/index/gradient-labs
 
 ## Hugging Face
 
+- **ALTK‑Evolve: On‑the‑Job Learning for AI Agents**
+  - https://huggingface.co/blog/ibm-research/altk-evolve
+- **Safetensors is Joining the PyTorch Foundation**
+  - https://huggingface.co/blog/safetensors-joins-pytorch-foundation
 - **Welcome Gemma 4: Frontier multimodal intelligence on device**
   - https://huggingface.co/blog/gemma4
 - **Holo3: Breaking the Computer Use Frontier**
   - https://huggingface.co/blog/Hcompany/holo3
 - **Falcon Perception**
   - https://huggingface.co/blog/tiiuae/falcon-perception
-- **Any Custom Frontend with Gradio's Backend**
-  - https://huggingface.co/blog/introducing-gradio-server
-- **Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents**
-  - https://huggingface.co/blog/ibm-granite/granite-4-vision
 
 ## arXiv AI
 
-- **IC3-Evolve: Proof-/Witness-Gated Offline LLM-Driven Heuristic Evolution for IC3 Hardware Model Checking**
-  - https://arxiv.org/abs/2604.03232
-- **Structural Segmentation of the Minimum Set Cover Problem: Exploiting Universe Decomposability for Metaheuristic Optimization**
-  - https://arxiv.org/abs/2604.03234
-- **To Throw a Stone with Six Birds: On Agents and Agenthood**
-  - https://arxiv.org/abs/2604.03239
-- **Position: Science of AI Evaluation Requires Item-level Benchmark Data**
-  - https://arxiv.org/abs/2604.03244
-- **Toward Full Autonomous Laboratory Instrumentation Control with Large Language Models**
-  - https://arxiv.org/abs/2604.03286
+- **Pramana: Fine-Tuning Large Language Models for Epistemic Reasoning through Navya-Nyaya**
+  - https://arxiv.org/abs/2604.04937
+- **Operational Noncommutativity in Sequential Metacognitive Judgments**
+  - https://arxiv.org/abs/2604.04938
+- **Proximity Measure of Information Object Features for Solving the Problem of Their Identification in Information Systems**
+  - https://arxiv.org/abs/2604.04939
+- **ReVEL: Multi-Turn Reflective LLM-Guided Heuristic Evolution via Structured Performance Feedback**
+  - https://arxiv.org/abs/2604.04940
+- **Algebraic Structure Discovery for Real World Combinatorial Optimisation Problems: A General Framework from Abstract Algebra to Quotient Space Learning**
+  - https://arxiv.org/abs/2604.04941
 
 ## arXiv CL
 
-- **Self-Execution Simulation Improves Coding Models**
-  - https://arxiv.org/abs/2604.03253
-- **Robust LLM Performance Certification via Constrained Maximum Likelihood Estimation**
-  - https://arxiv.org/abs/2604.03257
-- **SoLA: Leveraging Soft Activation Sparsity and Low-Rank Decomposition for Large Language Model Compression**
-  - https://arxiv.org/abs/2604.03258
-- **Why Attend to Everything? Focus is the Key**
-  - https://arxiv.org/abs/2604.03260
-- **VIGIL: An Extensible System for Real-Time Detection and Mitigation of Cognitive Bias Triggers**
-  - https://arxiv.org/abs/2604.03261
+- **TDA-RC: Task-Driven Alignment for Knowledge-Based Reasoning Chains in Large Language Models**
+  - https://arxiv.org/abs/2604.04942
+- **The Illusion of Latent Generalization: Bi-directionality and the Reversal Curse**
+  - https://arxiv.org/abs/2604.04943
+- **Inclusion-of-Thoughts: Mitigating Preference Instability via Purifying the Decision Space**
+  - https://arxiv.org/abs/2604.04944
+- **Phase-Associative Memory: Sequence Modeling in Complex Hilbert Space**
+  - https://arxiv.org/abs/2604.05030
+- **This Treatment Works, Right? Evaluating LLM Sensitivity to Patient Question Framing in Medical QA**
+  - https://arxiv.org/abs/2604.05051
