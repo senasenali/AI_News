@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-04-10
+# 🤖 AI Digest — 2026-04-11
 
 ## OpenAI
 
-- **CyberAgent moves faster with ChatGPT Enterprise and Codex**
-  - https://openai.com/index/cyberagent
-- **OpenAI Full Fan Mode Contest: Terms & Conditions**
-  - https://openai.com/index/full-fan-mode-contest-terms-conditions
-- **The next phase of enterprise AI**
-  - https://openai.com/index/next-phase-of-enterprise-ai
-- **Introducing the Child Safety Blueprint**
-  - https://openai.com/index/introducing-child-safety-blueprint
-- **Announcing the OpenAI Safety Fellowship**
-  - https://openai.com/index/introducing-openai-safety-fellowship
+- **Using custom GPTs**
+  - https://openai.com/academy/custom-gpts
+- **ChatGPT for customer success teams**
+  - https://openai.com/academy/customer-success
+- **Applications of AI at OpenAI**
+  - https://openai.com/academy/applications-of-ai
+- **Research with ChatGPT**
+  - https://openai.com/academy/search-and-deep-research
+- **Analyzing data with ChatGPT**
+  - https://openai.com/academy/data-analysis
 
 ## Hugging Face
 
@@ -41,13 +41,13 @@
 
 ## arXiv CL
 
-- **LLM-Augmented Knowledge Base Construction For Root Cause Analysis**
-  - https://arxiv.org/abs/2604.06171
-- **The Stepwise Informativeness Assumption: Why are Entropy Dynamics and Reasoning Correlated in LLMs?**
-  - https://arxiv.org/abs/2604.06192
-- **Depression Detection at the Point of Care: Automated Analysis of Linguistic Signals from Routine Primary Care Encounters**
-  - https://arxiv.org/abs/2604.06193
-- **Hallucination as output-boundary misclassification: a composite abstention architecture for language models**
-  - https://arxiv.org/abs/2604.06195
-- **Consistency-Guided Decoding with Proof-Driven Disambiguation for Three-Way Logical Question Answering**
-  - https://arxiv.org/abs/2604.06196
+- **Contextual Earnings-22: A Speech Recognition Benchmark with Custom Vocabulary in the Wild**
+  - https://arxiv.org/abs/2604.07354
+- **Hybrid CNN-Transformer Architecture for Arabic Speech Emotion Recognition**
+  - https://arxiv.org/abs/2604.07357
+- **Cross-Tokenizer LLM Distillation through a Byte-Level Interface**
+  - https://arxiv.org/abs/2604.07466
+- **Lexical Tone is Hard to Quantize: Probing Discrete Speech Units in Mandarin and Yor\`ub\'a**
+  - https://arxiv.org/abs/2604.07467
+- **Enabling Intrinsic Reasoning over Dense Geospatial Embeddings with DFR-Gemma**
+  - https://arxiv.org/abs/2604.07490
