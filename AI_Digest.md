@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-04-11
+# 🤖 AI Digest — 2026-04-12
 
 ## OpenAI
 
-- **Using custom GPTs**
-  - https://openai.com/academy/custom-gpts
-- **ChatGPT for customer success teams**
-  - https://openai.com/academy/customer-success
-- **Applications of AI at OpenAI**
-  - https://openai.com/academy/applications-of-ai
-- **Research with ChatGPT**
-  - https://openai.com/academy/search-and-deep-research
-- **Analyzing data with ChatGPT**
-  - https://openai.com/academy/data-analysis
+- **Getting started with ChatGPT**
+  - https://openai.com/academy/getting-started
+- **Brainstorming with ChatGPT**
+  - https://openai.com/academy/brainstorming
+- **Writing with ChatGPT**
+  - https://openai.com/academy/writing
+- **ChatGPT for research**
+  - https://openai.com/academy/research
+- **Responsible and safe use of AI**
+  - https://openai.com/academy/responsible-and-safe-use
 
 ## Hugging Face
 
@@ -28,16 +28,6 @@
 
 ## arXiv AI
 
-- **High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method**
-  - https://arxiv.org/abs/2604.06189
-- **Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules**
-  - https://arxiv.org/abs/2604.06233
-- **Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times**
-  - https://arxiv.org/abs/2604.06251
-- **Weakly Supervised Distillation of Hallucination Signals into Transformer Representations**
-  - https://arxiv.org/abs/2604.06277
-- **SymptomWise: A Deterministic Reasoning Layer for Reliable and Efficient AI Systems**
-  - https://arxiv.org/abs/2604.06375
 
 ## arXiv CL
 
