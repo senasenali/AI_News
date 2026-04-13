@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-04-12
+# 🤖 AI Digest — 2026-04-13
 
 ## OpenAI
 
-- **Getting started with ChatGPT**
-  - https://openai.com/academy/getting-started
-- **Brainstorming with ChatGPT**
-  - https://openai.com/academy/brainstorming
-- **Writing with ChatGPT**
-  - https://openai.com/academy/writing
-- **ChatGPT for research**
-  - https://openai.com/academy/research
-- **Responsible and safe use of AI**
-  - https://openai.com/academy/responsible-and-safe-use
+- **Using projects in ChatGPT**
+  - https://openai.com/academy/projects
+- **ChatGPT for marketing teams**
+  - https://openai.com/academy/marketing
+- **Our response to the Axios developer tool compromise**
+  - https://openai.com/index/axios-developer-tool-compromise
+- **Using custom GPTs**
+  - https://openai.com/academy/custom-gpts
+- **Analyzing data with ChatGPT**
+  - https://openai.com/academy/data-analysis
 
 ## Hugging Face
 
@@ -28,16 +28,26 @@
 
 ## arXiv AI
 
+- **OpenKedge: Governing Agentic Mutation with Execution-Bound Safety and Evidence Chains**
+  - https://arxiv.org/abs/2604.08601
+- **From Business Events to Auditable Decisions: Ontology-Governed Graph Simulation for Enterprise AI**
+  - https://arxiv.org/abs/2604.08603
+- **Sustained Impact of Agentic Personalisation in Marketing: A Longitudinal Case Study**
+  - https://arxiv.org/abs/2604.08621
+- **RAMP: Hybrid DRL for Online Learning of Numeric Action Models**
+  - https://arxiv.org/abs/2604.08685
+- **Parameterized Complexity Of Representing Models Of MSO Formulas**
+  - https://arxiv.org/abs/2604.08707
 
 ## arXiv CL
 
-- **Contextual Earnings-22: A Speech Recognition Benchmark with Custom Vocabulary in the Wild**
-  - https://arxiv.org/abs/2604.07354
-- **Hybrid CNN-Transformer Architecture for Arabic Speech Emotion Recognition**
-  - https://arxiv.org/abs/2604.07357
-- **Cross-Tokenizer LLM Distillation through a Byte-Level Interface**
-  - https://arxiv.org/abs/2604.07466
-- **Lexical Tone is Hard to Quantize: Probing Discrete Speech Units in Mandarin and Yor\`ub\'a**
-  - https://arxiv.org/abs/2604.07467
-- **Enabling Intrinsic Reasoning over Dense Geospatial Embeddings with DFR-Gemma**
-  - https://arxiv.org/abs/2604.07490
+- **Drift and selection in LLM text ecosystems**
+  - https://arxiv.org/abs/2604.08554
+- **SynDocDis: A Metadata-Driven Framework for Generating Synthetic Physician Discussions Using Large Language Models**
+  - https://arxiv.org/abs/2604.08555
+- **EMA Is Not All You Need: Mapping the Boundary Between Structure and Content in Recurrent Context**
+  - https://arxiv.org/abs/2604.08556
+- **Re-Mask and Redirect: Exploiting Denoising Irreversibility in Diffusion Language Models**
+  - https://arxiv.org/abs/2604.08557
+- **WAND: Windowed Attention and Knowledge Distillation for Efficient Autoregressive Text-to-Speech Models**
+  - https://arxiv.org/abs/2604.08558
