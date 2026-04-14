@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-04-13
+# 🤖 AI Digest — 2026-04-14
 
 ## OpenAI
 
-- **Using projects in ChatGPT**
-  - https://openai.com/academy/projects
-- **ChatGPT for marketing teams**
-  - https://openai.com/academy/marketing
-- **Our response to the Axios developer tool compromise**
-  - https://openai.com/index/axios-developer-tool-compromise
-- **Using custom GPTs**
-  - https://openai.com/academy/custom-gpts
-- **Analyzing data with ChatGPT**
-  - https://openai.com/academy/data-analysis
+- **Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI**
+  - https://openai.com/index/cloudflare-openai-agent-cloud
+- **ChatGPT for operations teams**
+  - https://openai.com/academy/operations
+- **Applications of AI at OpenAI**
+  - https://openai.com/academy/applications-of-ai
+- **ChatGPT for finance teams**
+  - https://openai.com/academy/finance
+- **Brainstorming with ChatGPT**
+  - https://openai.com/academy/brainstorming
 
 ## Hugging Face
 
