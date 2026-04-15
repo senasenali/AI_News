@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-04-14
+# 🤖 AI Digest — 2026-04-15
 
 ## OpenAI
 
+- **Trusted access for the next era of cyber defense**
+  - https://openai.com/index/scaling-trusted-access-for-cyber-defense
 - **Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI**
   - https://openai.com/index/cloudflare-openai-agent-cloud
-- **ChatGPT for operations teams**
-  - https://openai.com/academy/operations
-- **Applications of AI at OpenAI**
-  - https://openai.com/academy/applications-of-ai
 - **ChatGPT for finance teams**
   - https://openai.com/academy/finance
-- **Brainstorming with ChatGPT**
-  - https://openai.com/academy/brainstorming
+- **ChatGPT for marketing teams**
+  - https://openai.com/academy/marketing
+- **Getting started with ChatGPT**
+  - https://openai.com/academy/getting-started
 
 ## Hugging Face
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **OpenKedge: Governing Agentic Mutation with Execution-Bound Safety and Evidence Chains**
-  - https://arxiv.org/abs/2604.08601
-- **From Business Events to Auditable Decisions: Ontology-Governed Graph Simulation for Enterprise AI**
-  - https://arxiv.org/abs/2604.08603
-- **Sustained Impact of Agentic Personalisation in Marketing: A Longitudinal Case Study**
-  - https://arxiv.org/abs/2604.08621
-- **RAMP: Hybrid DRL for Online Learning of Numeric Action Models**
-  - https://arxiv.org/abs/2604.08685
-- **Parameterized Complexity Of Representing Models Of MSO Formulas**
-  - https://arxiv.org/abs/2604.08707
+- **LABBench2: An Improved Benchmark for AI Systems Performing Biology Research**
+  - https://arxiv.org/abs/2604.09554
+- **Linear Programming for Multi-Criteria Assessment with Cardinal and Ordinal Data: A Pessimistic Virtual Gap Analysis**
+  - https://arxiv.org/abs/2604.09555
+- **Seven simple steps for log analysis in AI systems**
+  - https://arxiv.org/abs/2604.09563
+- **Turing Test on Screen: A Benchmark for Mobile GUI Agent Humanization**
+  - https://arxiv.org/abs/2604.09574
+- **AHC: Meta-Learned Adaptive Compression for Continual Object Detection on Memory-Constrained Microcontrollers**
+  - https://arxiv.org/abs/2604.09576
 
 ## arXiv CL
 
-- **Drift and selection in LLM text ecosystems**
-  - https://arxiv.org/abs/2604.08554
-- **SynDocDis: A Metadata-Driven Framework for Generating Synthetic Physician Discussions Using Large Language Models**
-  - https://arxiv.org/abs/2604.08555
-- **EMA Is Not All You Need: Mapping the Boundary Between Structure and Content in Recurrent Context**
-  - https://arxiv.org/abs/2604.08556
-- **Re-Mask and Redirect: Exploiting Denoising Irreversibility in Diffusion Language Models**
-  - https://arxiv.org/abs/2604.08557
-- **WAND: Windowed Attention and Knowledge Distillation for Efficient Autoregressive Text-to-Speech Models**
-  - https://arxiv.org/abs/2604.08558
+- **Self-Calibrating Language Models via Test-Time Discriminative Distillation**
+  - https://arxiv.org/abs/2604.09624
+- **Toward Generalized Cross-Lingual Hateful Language Detection with Web-Scale Data and Ensemble LLM Annotations**
+  - https://arxiv.org/abs/2604.09625
+- **HumorGen: Cognitive Synergy for Humor Generation in Large Language Models via Persona-Based Distillation**
+  - https://arxiv.org/abs/2604.09629
+- **Generating High Quality Synthetic Data for Dutch Medical Conversations**
+  - https://arxiv.org/abs/2604.09645
+- **GIANTS: Generative Insight Anticipation from Scientific Literature**
+  - https://arxiv.org/abs/2604.09793
