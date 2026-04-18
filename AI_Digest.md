@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-04-17
+# 🤖 AI Digest — 2026-04-18
 
 ## OpenAI
 
@@ -15,16 +15,16 @@
 
 ## Hugging Face
 
+- **Building a Fast Multilingual OCR Model with Synthetic Data**
+  - https://huggingface.co/blog/nvidia/nemotron-ocr-v2
+- **Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents**
+  - https://huggingface.co/blog/ecom-rlve
 - **The PR you would have opened yourself**
   - https://huggingface.co/blog/transformers-to-mlx
 - **Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers**
   - https://huggingface.co/blog/train-multimodal-sentence-transformers
 - **Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents**
   - https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis
-- **Meet HoloTab by HCompany. Your AI browser companion.**
-  - https://huggingface.co/blog/Hcompany/holotab
-- **Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs**
-  - https://huggingface.co/blog/waypoint-1-5
 
 ## arXiv AI
 
