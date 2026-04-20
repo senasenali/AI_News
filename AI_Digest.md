@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-04-19
+# 🤖 AI Digest — 2026-04-20
 
 ## OpenAI
 
@@ -28,6 +28,26 @@
 
 ## arXiv AI
 
+- **DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI**
+  - https://arxiv.org/abs/2604.15456
+- **GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology**
+  - https://arxiv.org/abs/2604.15495
+- **Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures**
+  - https://arxiv.org/abs/2604.15514
+- **LACE: Lattice Attention for Cross-thread Exploration**
+  - https://arxiv.org/abs/2604.15529
+- **Preregistered Belief Revision Contracts**
+  - https://arxiv.org/abs/2604.15558
 
 ## arXiv CL
 
+- **Applied Explainability for Large Language Models: A Comparative Study**
+  - https://arxiv.org/abs/2604.15371
+- **Think Multilingual, Not Harder: A Data-Efficient Framework for Teaching Reasoning Models to Code-Switch**
+  - https://arxiv.org/abs/2604.15490
+- **Brain Score Tracks Shared Properties of Languages: Evidence from Many Natural Languages and Structured Sequences**
+  - https://arxiv.org/abs/2604.15503
+- **PolicyBank: Evolving Policy Understanding for LLM Agents**
+  - https://arxiv.org/abs/2604.15505
+- **Consistency Analysis of Sentiment Predictions using Syntactic & Semantic Context Assessment Summarization (SSAS)**
+  - https://arxiv.org/abs/2604.15547
