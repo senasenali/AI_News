@@ -1,7 +1,9 @@
-# 🤖 AI Digest — 2026-04-20
+# 🤖 AI Digest — 2026-04-21
 
 ## OpenAI
 
+- **OpenAI helps Hyatt advance AI among colleagues**
+  - https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise
 - **Codex for (almost) everything**
   - https://openai.com/index/codex-for-almost-everything
 - **Introducing GPT-Rosalind for life sciences research**
@@ -10,13 +12,11 @@
   - https://openai.com/index/accelerating-cyber-defense-ecosystem
 - **The next evolution of the Agents SDK**
   - https://openai.com/index/the-next-evolution-of-the-agents-sdk
-- **Trusted access for the next era of cyber defense**
-  - https://openai.com/index/scaling-trusted-access-for-cyber-defense
 
 ## Hugging Face
 
-- **Building a Fast Multilingual OCR Model with Synthetic Data**
-  - https://huggingface.co/blog/nvidia/nemotron-ocr-v2
+- **How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas**
+  - https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas
 - **Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents**
   - https://huggingface.co/blog/ecom-rlve
 - **The PR you would have opened yourself**
@@ -41,13 +41,13 @@
 
 ## arXiv CL
 
-- **Applied Explainability for Large Language Models: A Comparative Study**
-  - https://arxiv.org/abs/2604.15371
-- **Think Multilingual, Not Harder: A Data-Efficient Framework for Teaching Reasoning Models to Code-Switch**
-  - https://arxiv.org/abs/2604.15490
-- **Brain Score Tracks Shared Properties of Languages: Evidence from Many Natural Languages and Structured Sequences**
-  - https://arxiv.org/abs/2604.15503
-- **PolicyBank: Evolving Policy Understanding for LLM Agents**
-  - https://arxiv.org/abs/2604.15505
-- **Consistency Analysis of Sentiment Predictions using Syntactic & Semantic Context Assessment Summarization (SSAS)**
-  - https://arxiv.org/abs/2604.15547
+- **Multimodal Claim Extraction for Fact-Checking**
+  - https://arxiv.org/abs/2604.16311
+- **Cross-Family Speculative Decoding for Polish Language Models on Apple~Silicon: An Empirical Evaluation of Bielik~11B with UAG-Extended MLX-LM**
+  - https://arxiv.org/abs/2604.16368
+- **Brain-CLIPLM: Decoding Compressed Semantic Representations in EEG for Language Reconstruction**
+  - https://arxiv.org/abs/2604.16370
+- **CFMS: Towards Explainable and Fine-Grained Chinese Multimodal Sarcasm Detection Benchmark**
+  - https://arxiv.org/abs/2604.16372
+- **Foundational Study on Authorship Attribution of Japanese Web Reviews for Actor Analysis**
+  - https://arxiv.org/abs/2604.16376
