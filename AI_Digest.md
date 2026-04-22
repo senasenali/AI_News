@@ -1,7 +1,9 @@
-# 🤖 AI Digest — 2026-04-21
+# 🤖 AI Digest — 2026-04-22
 
 ## OpenAI
 
+- **Scaling Codex to enterprises worldwide**
+  - https://openai.com/index/scaling-codex-to-enterprises-worldwide
 - **OpenAI helps Hyatt advance AI among colleagues**
   - https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise
 - **Codex for (almost) everything**
@@ -10,21 +12,19 @@
   - https://openai.com/index/introducing-gpt-rosalind
 - **Accelerating the cyber defense ecosystem that protects us all**
   - https://openai.com/index/accelerating-cyber-defense-ecosystem
-- **The next evolution of the Agents SDK**
-  - https://openai.com/index/the-next-evolution-of-the-agents-sdk
 
 ## Hugging Face
 
+- **QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard**
+  - https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard
 - **How to Ground a Korean AI Agent in Real Demographics with Synthetic Personas**
   - https://huggingface.co/blog/nvidia/build-korean-agents-with-nemotron-personas
+- **AI and the Future of Cybersecurity: Why Openness Matters**
+  - https://huggingface.co/blog/cybersecurity-openness
 - **Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents**
   - https://huggingface.co/blog/ecom-rlve
 - **The PR you would have opened yourself**
   - https://huggingface.co/blog/transformers-to-mlx
-- **Training and Finetuning Multimodal Embedding & Reranker Models with Sentence Transformers**
-  - https://huggingface.co/blog/train-multimodal-sentence-transformers
-- **Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents**
-  - https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis
 
 ## arXiv AI
 
