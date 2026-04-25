@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-04-24
+# 🤖 AI Digest — 2026-04-25
 
 ## OpenAI
 
@@ -15,16 +15,16 @@
 
 ## Hugging Face
 
+- **DeepSeek-V4: a million-token context that agents can actually use**
+  - https://huggingface.co/blog/deepseekv4
+- **How to Use Transformers.js in a Chrome Extension**
+  - https://huggingface.co/blog/transformersjs-chrome-extension
 - **Gemma 4 VLA Demo on Jetson Orin Nano Super**
   - https://huggingface.co/blog/nvidia/gemma4
 - **QIMMA قِمّة ⛰: A Quality-First Arabic LLM Leaderboard**
   - https://huggingface.co/blog/tiiuae/qimma-arabic-leaderboard
 - **AI and the Future of Cybersecurity: Why Openness Matters**
   - https://huggingface.co/blog/cybersecurity-openness
-- **Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents**
-  - https://huggingface.co/blog/ecom-rlve
-- **The PR you would have opened yourself**
-  - https://huggingface.co/blog/transformers-to-mlx
 
 ## arXiv AI
 
