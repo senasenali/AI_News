@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-04-25
+# 🤖 AI Digest — 2026-04-26
 
 ## OpenAI
 
@@ -28,26 +28,6 @@
 
 ## arXiv AI
 
-- **Architecture of an AI-Based Automated Course of Action Generation System for Military Operations**
-  - https://arxiv.org/abs/2604.20862
-- **Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI**
-  - https://arxiv.org/abs/2604.20972
-- **Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks**
-  - https://arxiv.org/abs/2604.20987
-- **Value-Conflict Diagnostics Reveal Widespread Alignment Faking in Language Models**
-  - https://arxiv.org/abs/2604.20995
-- **The Last Harness You'll Ever Build**
-  - https://arxiv.org/abs/2604.21003
 
 ## arXiv CL
 
-- **AITP: Traffic Accident Responsibility Allocation via Multimodal Large Language Models**
-  - https://arxiv.org/abs/2604.20878
-- **AFRILANGTUTOR: Advancing Language Tutoring and Culture Education in Low-Resource Languages with Large Language Models**
-  - https://arxiv.org/abs/2604.20996
-- **Hierarchical Policy Optimization for Simultaneous Translation of Unbounded Speech**
-  - https://arxiv.org/abs/2604.21045
-- **TRACES: Tagging Reasoning Steps for Adaptive Cost-Efficient Early-Stopping**
-  - https://arxiv.org/abs/2604.21057
-- **DWTSumm: Discrete Wavelet Transform for Document Summarization**
-  - https://arxiv.org/abs/2604.21070
