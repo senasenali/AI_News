@@ -1,22 +1,22 @@
-# 🤖 AI Digest — 2026-04-28
+# 🤖 AI Digest — 2026-04-29
 
 ## OpenAI
 
+- **Our commitment to community safety**
+  - https://openai.com/index/our-commitment-to-community-safety
+- **OpenAI models, Codex, and Managed Agents come to AWS**
+  - https://openai.com/index/openai-on-aws
 - **OpenAI available at FedRAMP Moderate**
   - https://openai.com/index/openai-available-at-fedramp-moderate
 - **The next phase of the Microsoft OpenAI partnership**
   - https://openai.com/index/next-phase-of-microsoft-partnership
 - **An open-source spec for orchestration: Symphony**
   - https://openai.com/index/open-source-codex-orchestration-symphony
-- **Choco automates food distribution with AI agents**
-  - https://openai.com/index/choco
-- **Our principles**
-  - https://openai.com/index/our-principles
 
 ## Hugging Face
 
-- **Adaptive Ultrasound Imaging with Physics-Informed NV-Raw2Insights-US AI**
-  - https://huggingface.co/blog/nvidia/raw2insights-adaptive-ultrasound-imaging
+- **Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents**
+  - https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence
 - **How to build scalable web apps with OpenAI's Privacy Filter**
   - https://huggingface.co/blog/openai-privacy-filter-web-apps
 - **DeepSeek-V4: a million-token context that agents can actually use**
@@ -41,13 +41,13 @@
 
 ## arXiv CL
 
-- **The Randomness Floor: Measuring Intrinsic Non-Randomness in Language Model Token Distributions**
-  - https://arxiv.org/abs/2604.22771
-- **TexOCR: Advancing Document OCR Models for Compilable Page-to-LaTeX Reconstruction**
-  - https://arxiv.org/abs/2604.22880
-- **AutoPyVerifier: Learning Compact Executable Verifiers for Large Language Model Outputs**
-  - https://arxiv.org/abs/2604.22937
-- **Self Knowledge Re-expression: A Fully Local Method for Adapting LLMs to Tasks Using Intrinsic Knowledge**
-  - https://arxiv.org/abs/2604.22939
-- **Uncertainty Quantification for LLM Function-Calling**
-  - https://arxiv.org/abs/2604.22985
+- **Elderly-Contextual Data Augmentation via Speech Synthesis for Elderly ASR**
+  - https://arxiv.org/abs/2604.24770
+- **Large Language Models Explore by Latent Distilling**
+  - https://arxiv.org/abs/2604.24927
+- **GAIA-v2-LILT: Multilingual Adaptation of Agent Benchmark beyond Translation**
+  - https://arxiv.org/abs/2604.24929
+- **ADE: Adaptive Dictionary Embeddings -- Scaling Multi-Anchor Representations to Large Language Models**
+  - https://arxiv.org/abs/2604.24940
+- **Independent-Component-Based Encoding Models of Brain Activity During Story Comprehension**
+  - https://arxiv.org/abs/2604.24942
