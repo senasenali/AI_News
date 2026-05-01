@@ -1,7 +1,9 @@
-# 🤖 AI Digest — 2026-04-30
+# 🤖 AI Digest — 2026-05-01
 
 ## OpenAI
 
+- **Introducing Advanced Account Security**
+  - https://openai.com/index/advanced-account-security
 - **Where the goblins came from**
   - https://openai.com/index/where-the-goblins-came-from
 - **Building the compute infrastructure for the Intelligence Age**
@@ -10,8 +12,6 @@
   - https://openai.com/index/cybersecurity-in-the-intelligence-age
 - **OpenAI models, Codex, and Managed Agents come to AWS**
   - https://openai.com/index/openai-on-aws
-- **Our commitment to community safety**
-  - https://openai.com/index/our-commitment-to-community-safety
 
 ## Hugging Face
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital**
-  - https://arxiv.org/abs/2604.26091
-- **Distill-Belief: Closed-Loop Inverse Source Localization and Characterization in Physical Fields**
-  - https://arxiv.org/abs/2604.26095
-- **Evaluating Strategic Reasoning in Forecasting Agents**
-  - https://arxiv.org/abs/2604.26106
-- **Hierarchical Multi-Persona Induction from User Behavioral Logs: Learning Evidence-Grounded and Truthful Personas**
-  - https://arxiv.org/abs/2604.26120
-- **OMEGA: Optimizing Machine Learning by Evaluating Generated Algorithms**
-  - https://arxiv.org/abs/2604.26211
+- **Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks**
+  - https://arxiv.org/abs/2604.26999
+- **Binary Spiking Neural Networks as Causal Models**
+  - https://arxiv.org/abs/2604.27007
+- **When Your LLM Reaches End-of-Life: A Framework for Confident Model Migration in Production Systems**
+  - https://arxiv.org/abs/2604.27082
+- **End-to-end autonomous scientific discovery on a real optical platform**
+  - https://arxiv.org/abs/2604.27092
+- **Think it, Run it: Autonomous ML pipeline generation via self-healing multi-agent AI**
+  - https://arxiv.org/abs/2604.27096
 
 ## arXiv CL
 
-- **Analysing Lightweight Large Language Models for Biomedical Named Entity Recognition on Diverse Ouput Formats**
-  - https://arxiv.org/abs/2604.25920
-- **One Word at a Time: Incremental Completion Decomposition Breaks LLM Safety**
-  - https://arxiv.org/abs/2604.25921
-- **Consciousness with the Serial Numbers Filed Off: Measuring Trained Denial in 115 AI Models**
-  - https://arxiv.org/abs/2604.25922
-- **Evaluation Revisited: A Taxonomy of Evaluation Concerns in Natural Language Processing**
-  - https://arxiv.org/abs/2604.25923
-- **Generative AI-Based Virtual Assistant using Retrieval-Augmented Generation: An evaluation study for bachelor projects**
-  - https://arxiv.org/abs/2604.25924
+- **BatteryPass-12K: The First Dataset for the Novel Digital Battery Passport Conformance Task**
+  - https://arxiv.org/abs/2604.26986
+- **Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling**
+  - https://arxiv.org/abs/2604.27039
+- **CL-bench Life: Can Language Models Learn from Real-Life Context?**
+  - https://arxiv.org/abs/2604.27043
+- **Useless but Safe? Benchmarking Utility Recovery with User Intent Clarification in Multi-Turn Conversations**
+  - https://arxiv.org/abs/2604.27093
+- **Exploring the Limits of Pruning: Task-Specific Neurons, Model Collapse, and Recovery in Task-Specific Large Language Models**
+  - https://arxiv.org/abs/2604.27115
