@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-05-03
+# 🤖 AI Digest — 2026-05-04
 
 ## OpenAI
 
@@ -31,3 +31,13 @@
 
 ## arXiv CL
 
+- **Putting HUMANS first: Efficient LAM Evaluation with Human Preference Alignment**
+  - https://arxiv.org/abs/2605.00022
+- **NorBERTo: A ModernBERT Model Trained for Portuguese with 331 Billion Tokens Corpus**
+  - https://arxiv.org/abs/2605.00086
+- **How Frontier LLMs Adapt to Neurodivergence Context: A Measurement Framework for Surface vs. Structural Change in System-Prompted Responses**
+  - https://arxiv.org/abs/2605.00113
+- **ViLegalNLI: Natural Language Inference for Vietnamese Legal Texts**
+  - https://arxiv.org/abs/2605.00116
+- **Cultural Benchmarking of LLMs in Standard and Dialectal Arabic Dialogues**
+  - https://arxiv.org/abs/2605.00119
