@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-05-04
+# 🤖 AI Digest — 2026-05-05
 
 ## OpenAI
 
+- **OpenAI and PwC collaborate to reimagine the office of the CFO**
+  - https://openai.com/index/openai-pwc-finance-collaboration
+- **How OpenAI delivers low-latency voice AI at scale**
+  - https://openai.com/index/delivering-low-latency-voice-ai-at-scale
 - **Introducing Advanced Account Security**
   - https://openai.com/index/advanced-account-security
 - **Where the goblins came from**
   - https://openai.com/index/where-the-goblins-came-from
 - **Building the compute infrastructure for the Intelligence Age**
   - https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age
-- **Cybersecurity in the Intelligence Age**
-  - https://openai.com/index/cybersecurity-in-the-intelligence-age
-- **Our commitment to community safety**
-  - https://openai.com/index/our-commitment-to-community-safety
 
 ## Hugging Face
 
@@ -28,16 +28,26 @@
 
 ## arXiv AI
 
+- **TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data**
+  - https://arxiv.org/abs/2605.00060
+- **AgentReputation: A Decentralized Agentic AI Reputation Framework**
+  - https://arxiv.org/abs/2605.00073
+- **Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Models**
+  - https://arxiv.org/abs/2605.00123
+- **Are Tools All We Need? Unveiling the Tool-Use Tax in LLM Agents**
+  - https://arxiv.org/abs/2605.00136
+- **TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization**
+  - https://arxiv.org/abs/2605.00224
 
 ## arXiv CL
 
-- **Putting HUMANS first: Efficient LAM Evaluation with Human Preference Alignment**
-  - https://arxiv.org/abs/2605.00022
-- **NorBERTo: A ModernBERT Model Trained for Portuguese with 331 Billion Tokens Corpus**
-  - https://arxiv.org/abs/2605.00086
-- **How Frontier LLMs Adapt to Neurodivergence Context: A Measurement Framework for Surface vs. Structural Change in System-Prompted Responses**
-  - https://arxiv.org/abs/2605.00113
-- **ViLegalNLI: Natural Language Inference for Vietnamese Legal Texts**
-  - https://arxiv.org/abs/2605.00116
-- **Cultural Benchmarking of LLMs in Standard and Dialectal Arabic Dialogues**
-  - https://arxiv.org/abs/2605.00119
+- **H-Probes: Extracting Hierarchical Structures From Latent Representations of Language Models**
+  - https://arxiv.org/abs/2605.00847
+- **DIAGRAMS: A Review Framework for Reasoning-Level Attribution in Diagram QA**
+  - https://arxiv.org/abs/2605.00905
+- **Model Organisms Are Leaky: Perplexity Differencing Often Reveals Finetuning Objectives**
+  - https://arxiv.org/abs/2605.00994
+- **Can AI Debias the News? LLM Interventions Improve Cross-Partisan Receptivity but LLMs Overestimate Their Own Effectiveness**
+  - https://arxiv.org/abs/2605.01006
+- **CLEAR: Revealing How Noise and Ambiguity Degrade Reliability in LLMs for Medicine**
+  - https://arxiv.org/abs/2605.01011
