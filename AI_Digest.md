@@ -1,53 +1,53 @@
-# 🤖 AI Digest — 2026-05-06
+# 🤖 AI Digest — 2026-05-07
 
 ## OpenAI
 
-- **GPT-5.5 Instant System Card**
-  - https://openai.com/index/gpt-5-5-instant-system-card
+- **Introducing ChatGPT Futures: Class of 2026**
+  - https://openai.com/index/introducing-chatgpt-futures-class-of-2026
+- **Singular Bank helps bankers move fast with ChatGPT and Codex**
+  - https://openai.com/index/singular-bank
+- **Uber uses OpenAI to help people earn smarter and book faster**
+  - https://openai.com/index/uber
+- **How frontier enterprises are building an AI advantage**
+  - https://openai.com/index/introducing-b2b-signals
 - **GPT-5.5 Instant: smarter, clearer, and more personalized**
   - https://openai.com/index/gpt-5-5-instant
-- **New ways to buy ChatGPT ads**
-  - https://openai.com/index/new-ways-to-buy-chatgpt-ads
-- **OpenAI and PwC collaborate to reimagine the office of the CFO**
-  - https://openai.com/index/openai-pwc-finance-collaboration
-- **How OpenAI delivers low-latency voice AI at scale**
-  - https://openai.com/index/delivering-low-latency-voice-ai-at-scale
 
 ## Hugging Face
 
+- **vLLM V0 to V1: Correctness Before Corrections in RL**
+  - https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections
+- **Adding Benchmaxxer Repellant to the Open ASR Leaderboard**
+  - https://huggingface.co/blog/open-asr-leaderboard-private-data
 - **Granite 4.1 LLMs: How They’re Built**
   - https://huggingface.co/blog/ibm-granite/granite-4-1
 - **DeepInfra on Hugging Face Inference Providers 🔥**
   - https://huggingface.co/blog/inference-providers-deepinfra
 - **Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents**
   - https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence
-- **How to build scalable web apps with OpenAI's Privacy Filter**
-  - https://huggingface.co/blog/openai-privacy-filter-web-apps
-- **DeepSeek-V4: a million-token context that agents can actually use**
-  - https://huggingface.co/blog/deepseekv4
 
 ## arXiv AI
 
-- **2026 Roadmap on Artificial Intelligence and Machine Learning for Smart Manufacturing**
-  - https://arxiv.org/abs/2605.00839
-- **AI Agents for Sustainable SMEs: A Green ESG Assessment Framework**
-  - https://arxiv.org/abs/2605.00841
-- **Understanding Emergent Misalignment via Feature Superposition Geometry**
-  - https://arxiv.org/abs/2605.00842
-- **ClinicBot: A Guideline-Grounded Clinical Chatbot with Prioritized Evidence RAG and Verifiable Citations**
-  - https://arxiv.org/abs/2605.00846
-- **Accelerating battery research with an AI interface between FINALES and Kadi4Mat**
-  - https://arxiv.org/abs/2605.00909
+- **CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing**
+  - https://arxiv.org/abs/2605.02910
+- **Stable Agentic Control: Tool-Mediated LLM Architecture for Autonomous Cyber Defense**
+  - https://arxiv.org/abs/2605.03034
+- **Computing Thiele Rules on Interval Elections and their Generalizations**
+  - https://arxiv.org/abs/2605.03067
+- **Making the Invisible Visible: Understanding the Mismatch Between Organizational Goals and Worker Experiences in AI Adoption**
+  - https://arxiv.org/abs/2605.03078
+- **Programmatic Context Augmentation for LLM-based Symbolic Regression**
+  - https://arxiv.org/abs/2605.03101
 
 ## arXiv CL
 
-- **When Should a Language Model Trust Itself? Same-Model Self-Verification as a Conditional Confidence Signal**
-  - https://arxiv.org/abs/2605.02915
-- **Evaluating Reasoning Models for Queries with Presuppositions**
-  - https://arxiv.org/abs/2605.03050
-- **How Language Models Process Negation**
-  - https://arxiv.org/abs/2605.03052
-- **The TTS-STT Flywheel: Synthetic Entity-Dense Audio Closes the Indic ASR Gap Where Commercial and Open-Source Systems Fail**
-  - https://arxiv.org/abs/2605.03073
-- **Semantically Enriching Investor Micro-blogs for Opinion-Aware Emotion Analysis: A Practical Approach**
-  - https://arxiv.org/abs/2605.03092
+- **Free Energy-Driven Reinforcement Learning with Adaptive Advantage Shaping for Unsupervised Reasoning in LLMs**
+  - https://arxiv.org/abs/2605.04065
+- **Adapt to Thrive! Adaptive Power-Mean Policy Optimization for Improved LLM Reasoning**
+  - https://arxiv.org/abs/2605.04066
+- **Connecting online criminal behavior with machine learning: Using authorship attribution to analyze and link potential online traffickers**
+  - https://arxiv.org/abs/2605.04080
+- **FMI_SU_Yotkova_Kastreva at SemEval-2026 Task 13: Lightweight Detection of LLM-Generated Code via Stylometric Signals**
+  - https://arxiv.org/abs/2605.04157
+- **Not All That Is Fluent Is Factual: Investigating Hallucinations of Large Language Models in Academic Writing**
+  - https://arxiv.org/abs/2605.04171
