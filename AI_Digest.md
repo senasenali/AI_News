@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-05-07
+# 🤖 AI Digest — 2026-05-08
 
 ## OpenAI
 
-- **Introducing ChatGPT Futures: Class of 2026**
-  - https://openai.com/index/introducing-chatgpt-futures-class-of-2026
-- **Singular Bank helps bankers move fast with ChatGPT and Codex**
-  - https://openai.com/index/singular-bank
-- **Uber uses OpenAI to help people earn smarter and book faster**
-  - https://openai.com/index/uber
-- **How frontier enterprises are building an AI advantage**
-  - https://openai.com/index/introducing-b2b-signals
-- **GPT-5.5 Instant: smarter, clearer, and more personalized**
-  - https://openai.com/index/gpt-5-5-instant
+- **Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber**
+  - https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber
+- **Parloa builds service agents customers want to talk to**
+  - https://openai.com/index/parloa
+- **Advancing voice intelligence with new models in the API**
+  - https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api
+- **Introducing Trusted Contact in ChatGPT**
+  - https://openai.com/index/introducing-trusted-contact-in-chatgpt
+- **Testing ads in ChatGPT**
+  - https://openai.com/index/testing-ads-in-chatgpt
 
 ## Hugging Face
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing**
-  - https://arxiv.org/abs/2605.02910
-- **Stable Agentic Control: Tool-Mediated LLM Architecture for Autonomous Cyber Defense**
-  - https://arxiv.org/abs/2605.03034
-- **Computing Thiele Rules on Interval Elections and their Generalizations**
-  - https://arxiv.org/abs/2605.03067
-- **Making the Invisible Visible: Understanding the Mismatch Between Organizational Goals and Worker Experiences in AI Adoption**
-  - https://arxiv.org/abs/2605.03078
-- **Programmatic Context Augmentation for LLM-based Symbolic Regression**
-  - https://arxiv.org/abs/2605.03101
+- **Understanding Annotator Safety Policy with Interpretability**
+  - https://arxiv.org/abs/2605.05329
+- **ZAYA1-8B Technical Report**
+  - https://arxiv.org/abs/2605.05365
+- **Partial Evidence Bench: Benchmarking Authorization-Limited Evidence in Agentic Systems**
+  - https://arxiv.org/abs/2605.05379
+- **BALAR : A Bayesian Agentic Loop for Active Reasoning**
+  - https://arxiv.org/abs/2605.05386
+- **Intelligent CCTV for Urban Design: AI-Based Analysis of Soft Infrastructure at Intersections**
+  - https://arxiv.org/abs/2605.05402
 
 ## arXiv CL
 
-- **Free Energy-Driven Reinforcement Learning with Adaptive Advantage Shaping for Unsupervised Reasoning in LLMs**
-  - https://arxiv.org/abs/2605.04065
-- **Adapt to Thrive! Adaptive Power-Mean Policy Optimization for Improved LLM Reasoning**
-  - https://arxiv.org/abs/2605.04066
-- **Connecting online criminal behavior with machine learning: Using authorship attribution to analyze and link potential online traffickers**
-  - https://arxiv.org/abs/2605.04080
-- **FMI_SU_Yotkova_Kastreva at SemEval-2026 Task 13: Lightweight Detection of LLM-Generated Code via Stylometric Signals**
-  - https://arxiv.org/abs/2605.04157
-- **Not All That Is Fluent Is Factual: Investigating Hallucinations of Large Language Models in Academic Writing**
-  - https://arxiv.org/abs/2605.04171
+- **AdaGATE: Adaptive Gap-Aware Token-Efficient Evidence Assembly for Multi-Hop Retrieval-Augmented Generation**
+  - https://arxiv.org/abs/2605.05245
+- **Counterargument for Critical Thinking as Judged by AI and Humans**
+  - https://arxiv.org/abs/2605.05353
+- **Generating Query-Focused Summarization Datasets from Query-Free Summarization Datasets**
+  - https://arxiv.org/abs/2605.05392
+- **SLAM: Structural Linguistic Activation Marking for Language Models**
+  - https://arxiv.org/abs/2605.05443
+- **ReaComp: Compiling LLM Reasoning into Symbolic Solvers for Efficient Program Synthesis**
+  - https://arxiv.org/abs/2605.05485
