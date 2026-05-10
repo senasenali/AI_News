@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-05-09
+# 🤖 AI Digest — 2026-05-10
 
 ## OpenAI
 
@@ -15,8 +15,8 @@
 
 ## Hugging Face
 
-- **CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models**
-  - https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b
+- **"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support"**
+  - https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper
 - **EMO: Pretraining mixture of experts for emergent modularity**
   - https://huggingface.co/blog/allenai/emo
 - **vLLM V0 to V1: Correctness Before Corrections in RL**
