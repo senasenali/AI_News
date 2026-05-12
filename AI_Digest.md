@@ -1,22 +1,22 @@
-# 🤖 AI Digest — 2026-05-11
+# 🤖 AI Digest — 2026-05-12
 
 ## OpenAI
 
+- **How ChatGPT adoption broadened in early 2026**
+  - https://openai.com/signals/research/2026q1-update
+- **How enterprises are scaling AI**
+  - https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai
+- **OpenAI Campus Network: Student club interest form**
+  - https://openai.com/index/openai-campus-network-student-club-interest-form
+- **OpenAI launches DeployCo to help businesses build around intelligence**
+  - https://openai.com/index/openai-launches-the-deployment-company
 - **Running Codex safely at OpenAI**
   - https://openai.com/index/running-codex-safely
-- **Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber**
-  - https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber
-- **Parloa builds service agents customers want to talk to**
-  - https://openai.com/index/parloa
-- **Advancing voice intelligence with new models in the API**
-  - https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api
-- **Introducing Trusted Contact in ChatGPT**
-  - https://openai.com/index/introducing-trusted-contact-in-chatgpt
 
 ## Hugging Face
 
-- **MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X**
-  - https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck
+- **Building Blocks for Foundation Model Training and Inference on AWS**
+  - https://huggingface.co/blog/amazon/foundation-model-building-blocks
 - **EMO: Pretraining mixture of experts for emergent modularity**
   - https://huggingface.co/blog/allenai/emo
 - **vLLM V0 to V1: Correctness Before Corrections in RL**
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning**
-  - https://arxiv.org/abs/2605.06671
-- **More Thinking, More Bias: Length-Driven Position Bias in Reasoning Models**
-  - https://arxiv.org/abs/2605.06672
-- **Fast and Effective Redistricting Optimization via Composite-Move Tabu Search**
-  - https://arxiv.org/abs/2605.06682
-- **State Representation and Termination for Recursive Reasoning Systems**
-  - https://arxiv.org/abs/2605.06690
-- **Hidden Coalitions in Multi-Agent AI: A Spectral Diagnostic from Internal Representations**
-  - https://arxiv.org/abs/2605.06696
+- **Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits**
+  - https://arxiv.org/abs/2605.08200
+- **Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction**
+  - https://arxiv.org/abs/2605.08220
+- **Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria**
+  - https://arxiv.org/abs/2605.08354
+- **Embeddings for Preferences, Not Semantics**
+  - https://arxiv.org/abs/2605.08360
+- **On Distinguishing Capability Elicitation from Capability Creation in Post-Training: A Free-Energy Perspective**
+  - https://arxiv.org/abs/2605.08368
 
 ## arXiv CL
 
-- **Domain-level metacognitive monitoring in frontier LLMs: A 33-model atlas**
-  - https://arxiv.org/abs/2605.06673
-- **VITA-QinYu: Expressive Spoken Language Model for Role-Playing and Singing**
-  - https://arxiv.org/abs/2605.06765
-- **IntentGrasp: A Comprehensive Benchmark for Intent Understanding**
-  - https://arxiv.org/abs/2605.06832
-- **TajPersLexon: A Tajik-Persian Lexical Resource and Hybrid Model for Cross-Script Low-Resource NLP**
-  - https://arxiv.org/abs/2605.06886
-- **MIST: Multimodal Interactive Speech-based Tool-calling Conversational Assistants for Smart Homes**
-  - https://arxiv.org/abs/2605.06897
+- **SalesSim: Benchmarking and Aligning Multimodal Language Models as Retail User Simulators**
+  - https://arxiv.org/abs/2605.08334
+- **Sanity Checks for Long-Form Hallucination Detection**
+  - https://arxiv.org/abs/2605.08346
+- **How Much Do Circuits Tell Us? Measuring the Consistency and Specificity of Language Model Circuits**
+  - https://arxiv.org/abs/2605.08348
+- **Change My View? The Dynamics of Persuasion and Polarization in Online Discourse**
+  - https://arxiv.org/abs/2605.08383
+- **jina-embeddings-v5-omni: Text-Geometry-Preserving Multimodal Embeddings via Frozen-Tower Composition**
+  - https://arxiv.org/abs/2605.08384
