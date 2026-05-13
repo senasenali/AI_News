@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-05-12
+# 🤖 AI Digest — 2026-05-13
 
 ## OpenAI
 
+- **How finance teams use Codex**
+  - https://openai.com/academy/how-finance-teams-use-codex
+- **How NVIDIA engineers and researchers build with Codex**
+  - https://openai.com/index/nvidia
+- **What Parameter Golf taught us about AI-assisted research**
+  - https://openai.com/index/what-parameter-golf-taught-us
+- **AutoScout24 scales engineering with AI-powered workflows**
+  - https://openai.com/index/autoscout24
 - **How ChatGPT adoption broadened in early 2026**
   - https://openai.com/signals/research/2026q1-update
-- **How enterprises are scaling AI**
-  - https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai
-- **OpenAI Campus Network: Student club interest form**
-  - https://openai.com/index/openai-campus-network-student-club-interest-form
-- **OpenAI launches DeployCo to help businesses build around intelligence**
-  - https://openai.com/index/openai-launches-the-deployment-company
-- **Running Codex safely at OpenAI**
-  - https://openai.com/index/running-codex-safely
 
 ## Hugging Face
 
@@ -41,13 +41,13 @@
 
 ## arXiv CL
 
-- **SalesSim: Benchmarking and Aligning Multimodal Language Models as Retail User Simulators**
-  - https://arxiv.org/abs/2605.08334
-- **Sanity Checks for Long-Form Hallucination Detection**
-  - https://arxiv.org/abs/2605.08346
-- **How Much Do Circuits Tell Us? Measuring the Consistency and Specificity of Language Model Circuits**
-  - https://arxiv.org/abs/2605.08348
-- **Change My View? The Dynamics of Persuasion and Polarization in Online Discourse**
-  - https://arxiv.org/abs/2605.08383
-- **jina-embeddings-v5-omni: Text-Geometry-Preserving Multimodal Embeddings via Frozen-Tower Composition**
-  - https://arxiv.org/abs/2605.08384
+- **Sampling More, Getting Less: Calibration is the Diversity Bottleneck in LLMs**
+  - https://arxiv.org/abs/2605.11128
+- **ClinicalBench: Stress-Testing Assertion-Aware Retrieval for Cross-Admission Clinical QA on MIMIC-IV**
+  - https://arxiv.org/abs/2605.11143
+- **Decomposing Evolutionary Mixture-of-LoRA Architectures: The Routing Lever, the Lifecycle Penalty, and a Substrate-Conditional Boundary**
+  - https://arxiv.org/abs/2605.11153
+- **The Bicameral Model: Bidirectional Hidden-State Coupling Between Parallel Language Models**
+  - https://arxiv.org/abs/2605.11167
+- **How Does Differential Privacy Affect Social Bias in LLMs? A Systematic Evaluation**
+  - https://arxiv.org/abs/2605.11195
