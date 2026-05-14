@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-05-13
+# 🤖 AI Digest — 2026-05-14
 
 ## OpenAI
 
+- **Building a safe, effective sandbox to enable Codex on Windows**
+  - https://openai.com/index/building-codex-windows-sandbox
+- **Our response to the TanStack npm supply chain attack**
+  - https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack
 - **How finance teams use Codex**
   - https://openai.com/academy/how-finance-teams-use-codex
-- **How NVIDIA engineers and researchers build with Codex**
-  - https://openai.com/index/nvidia
 - **What Parameter Golf taught us about AI-assisted research**
   - https://openai.com/index/what-parameter-golf-taught-us
 - **AutoScout24 scales engineering with AI-powered workflows**
   - https://openai.com/index/autoscout24
-- **How ChatGPT adoption broadened in early 2026**
-  - https://openai.com/signals/research/2026q1-update
 
 ## Hugging Face
 
@@ -28,16 +28,16 @@
 
 ## arXiv AI
 
-- **Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits**
-  - https://arxiv.org/abs/2605.08200
-- **Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction**
-  - https://arxiv.org/abs/2605.08220
-- **Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria**
-  - https://arxiv.org/abs/2605.08354
-- **Embeddings for Preferences, Not Semantics**
-  - https://arxiv.org/abs/2605.08360
-- **On Distinguishing Capability Elicitation from Capability Creation in Post-Training: A Free-Energy Perspective**
-  - https://arxiv.org/abs/2605.08368
+- **Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents**
+  - https://arxiv.org/abs/2605.12620
+- **Macro-Action Based Multi-Agent Instruction Following through Value Cancellation**
+  - https://arxiv.org/abs/2605.12655
+- **Do Androids Dream of Breaking the Game? Systematically Auditing AI Agent Benchmarks with BenchJack**
+  - https://arxiv.org/abs/2605.12673
+- **Revealing Interpretable Failure Modes of VLMs**
+  - https://arxiv.org/abs/2605.12674
+- **Learning Transferable Latent User Preferences for Human-Aligned Decision Making**
+  - https://arxiv.org/abs/2605.12682
 
 ## arXiv CL
 
