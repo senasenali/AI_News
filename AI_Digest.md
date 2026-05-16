@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-05-15
+# 🤖 AI Digest — 2026-05-16
 
 ## OpenAI
 
+- **A new personal finance experience in ChatGPT**
+  - https://openai.com/index/personal-finance-chatgpt
+- **Databricks brings GPT-5.5 to enterprise agent workflows**
+  - https://openai.com/index/databricks
 - **Sea's View on the Future of Agentic Software Development with Codex**
   - https://openai.com/index/sea-david-chen
 - **Work with Codex from anywhere**
   - https://openai.com/index/work-with-codex-from-anywhere
 - **Helping ChatGPT better recognize context in sensitive conversations**
   - https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations
-- **Building a safe, effective sandbox to enable Codex on Windows**
-  - https://openai.com/index/building-codex-windows-sandbox
-- **Our response to the TanStack npm supply chain attack**
-  - https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack
 
 ## Hugging Face
 
@@ -41,13 +41,3 @@
 
 ## arXiv CL
 
-- **Merging Methods for Multilingual Knowledge Editing for Large Language Models: An Empirical Odyssey**
-  - https://arxiv.org/abs/2605.13919
-- **VectraYX-Nano: A 42M-Parameter Spanish Cybersecurity Language Model with Curriculum Learning and Native Tool Use**
-  - https://arxiv.org/abs/2605.13989
-- **Mistletoe: Stealthy Acceleration-Collapse Attacks on Speculative Decoding**
-  - https://arxiv.org/abs/2605.14005
-- **Physics-R1: An Audited Olympiad Corpus and Recipe for Visual Physics Reasoning**
-  - https://arxiv.org/abs/2605.14040
-- **Derivation Prompting: A Logic-Based Method for Improving Retrieval-Augmented Generation**
-  - https://arxiv.org/abs/2605.14053
