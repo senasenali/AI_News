@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-05-16
+# 🤖 AI Digest — 2026-05-17
 
 ## OpenAI
 
-- **A new personal finance experience in ChatGPT**
-  - https://openai.com/index/personal-finance-chatgpt
+- **OpenAI and Malta partner to bring ChatGPT Plus to all citizens**
+  - https://openai.com/index/malta-chatgpt-plus-partnership
+- **How business operations teams use Codex**
+  - https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex
 - **Databricks brings GPT-5.5 to enterprise agent workflows**
   - https://openai.com/index/databricks
-- **Sea's View on the Future of Agentic Software Development with Codex**
-  - https://openai.com/index/sea-david-chen
-- **Work with Codex from anywhere**
-  - https://openai.com/index/work-with-codex-from-anywhere
-- **Helping ChatGPT better recognize context in sensitive conversations**
-  - https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations
+- **How data science teams use Codex**
+  - https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
+- **A new personal finance experience in ChatGPT**
+  - https://openai.com/index/personal-finance-chatgpt
 
 ## Hugging Face
 
@@ -28,16 +28,6 @@
 
 ## arXiv AI
 
-- **GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration**
-  - https://arxiv.org/abs/2605.13848
-- **Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defined Serving Granularity**
-  - https://arxiv.org/abs/2605.13849
-- **A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology**
-  - https://arxiv.org/abs/2605.13850
-- **Invisible Orchestrators Suppress Protective Behavior and Dissociate Power-Holders: Safety Risks in Multi-Agent LLM Systems**
-  - https://arxiv.org/abs/2605.13851
-- **PREPING: Building Agent Memory without Tasks**
-  - https://arxiv.org/abs/2605.13880
 
 ## arXiv CL
 
