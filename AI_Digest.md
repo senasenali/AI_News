@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-05-17
+# 🤖 AI Digest — 2026-05-18
 
 ## OpenAI
 
@@ -28,6 +28,26 @@
 
 ## arXiv AI
 
+- **DeepSlide: From Artifacts to Presentation Delivery**
+  - https://arxiv.org/abs/2605.15202
+- **SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrained Dispatch**
+  - https://arxiv.org/abs/2605.15204
+- **Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations**
+  - https://arxiv.org/abs/2605.15205
+- **SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces**
+  - https://arxiv.org/abs/2605.15215
+- **Fair outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions**
+  - https://arxiv.org/abs/2605.15217
 
 ## arXiv CL
 
+- **Always Learning, Always Mixing: Efficient and Simple Data Mixing All The Time**
+  - https://arxiv.org/abs/2605.15220
+- **Fluency and Faithfulness in Human and Machine Literary Translation**
+  - https://arxiv.org/abs/2605.15282
+- **DiscoExplorer: An Open Interface for the Study of Multilingual Discourse Relations**
+  - https://arxiv.org/abs/2605.15304
+- **Automatic Construction of a Legal Citation Graph from 100 Million Ukrainian Court Decisions: Large-Scale Extraction, Topological Analysis, and Ontology-Driven Clustering**
+  - https://arxiv.org/abs/2605.15362
+- **Greedy or not, here I come: Language production under vocabulary constraints in humans and resource-rational models**
+  - https://arxiv.org/abs/2605.15365
