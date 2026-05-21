@@ -1,21 +1,21 @@
-# 🤖 AI Digest — 2026-05-20
+# 🤖 AI Digest — 2026-05-21
 
 ## OpenAI
 
+- **An OpenAI model has disproved a central conjecture in discrete geometry**
+  - https://openai.com/index/model-disproves-discrete-geometry-conjecture
+- **The next phase of OpenAI’s Education for Countries**
+  - https://openai.com/index/the-next-phase-of-education-for-countries
+- **How Ramp engineers accelerate code review with Codex**
+  - https://openai.com/index/ramp
 - **Introducing OpenAI for Singapore**
   - https://openai.com/index/introducing-openai-for-singapore
 - **Advancing content provenance for a safer, more transparent AI ecosystem**
   - https://openai.com/index/advancing-content-provenance
-- **OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments**
-  - https://openai.com/index/dell-codex-enterprise-partnership
-- **OpenAI and Malta partner to bring ChatGPT Plus to all citizens**
-  - https://openai.com/index/malta-chatgpt-plus-partnership
-- **Databricks brings GPT-5.5 to enterprise agent workflows**
-  - https://openai.com/index/databricks
 
 ## Hugging Face
 
-- **OlmoEarth v1.1: A more efficient family of models**
+- **OlmoEarth v1.1: A more efficient family of Earth observation models**
   - https://huggingface.co/blog/allenai/olmoearth-v1-1
 - **Introducing the Ettin Reranker Family**
   - https://huggingface.co/blog/ettin-reranker
@@ -41,13 +41,13 @@
 
 ## arXiv CL
 
-- **The Annotation Scarcity Paradox in Low-Resource NLP Evaluation: A Decade of Acceleration and Emerging Constraints**
-  - https://arxiv.org/abs/2605.19066
-- **Benchmarking Commercial ASR Systems on Code-Switching Speech: Arabic, Persian, and German**
-  - https://arxiv.org/abs/2605.19069
-- **ReacTOD: Bounded Neuro-Symbolic Agentic NLU for Zero-Shot Dialogue State Tracking**
-  - https://arxiv.org/abs/2605.19077
-- **Agent Meltdowns: The Road to Hell Is Paved with Helpful Agents**
-  - https://arxiv.org/abs/2605.19149
-- **Prompting language influences diagnostic reasoning and accuracy of large language models**
-  - https://arxiv.org/abs/2605.19173
+- **Shiny Stories, Hidden Struggles: Investigating the Representation of Disability Through the Lens of LLMs**
+  - https://arxiv.org/abs/2605.20191
+- **Leveraging Large Language Models for Sentiment Analysis: Multi-Modal Analysis of Decentraland's MANA Token**
+  - https://arxiv.org/abs/2605.20192
+- **Improving Quantized Model Performance in Qualitative Analysis with Multi-Pass Prompt Verification**
+  - https://arxiv.org/abs/2605.20193
+- **Parallel LLM Reasoning for Bias-Resilient, Robust Conceptual Abstraction**
+  - https://arxiv.org/abs/2605.20194
+- **Pseudo-Siamese Network for Planning in Target-Oriented Proactive Dialogues**
+  - https://arxiv.org/abs/2605.20195
