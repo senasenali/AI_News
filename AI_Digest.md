@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-05-21
+# 🤖 AI Digest — 2026-05-22
 
 ## OpenAI
 
-- **An OpenAI model has disproved a central conjecture in discrete geometry**
-  - https://openai.com/index/model-disproves-discrete-geometry-conjecture
-- **The next phase of OpenAI’s Education for Countries**
-  - https://openai.com/index/the-next-phase-of-education-for-countries
+- **AdventHealth advances whole-person care with OpenAI**
+  - https://openai.com/index/adventhealth
 - **How Ramp engineers accelerate code review with Codex**
   - https://openai.com/index/ramp
+- **The next phase of OpenAI’s Education for Countries**
+  - https://openai.com/index/the-next-phase-of-education-for-countries
+- **An OpenAI model has disproved a central conjecture in discrete geometry**
+  - https://openai.com/index/model-disproves-discrete-geometry-conjecture
 - **Introducing OpenAI for Singapore**
   - https://openai.com/index/introducing-openai-for-singapore
-- **Advancing content provenance for a safer, more transparent AI ecosystem**
-  - https://openai.com/index/advancing-content-provenance
 
 ## Hugging Face
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **Position: Let's Develop Data Probes to Fundamentally Understand How Data Affects LLM Performance**
-  - https://arxiv.org/abs/2605.18801
-- **Operationalizing Document AI: A Microservice Architecture for OCR and LLM Pipelines in Production**
-  - https://arxiv.org/abs/2605.18818
-- **Evaluating the Utility of Personal Health Records in Personalized Health AI**
-  - https://arxiv.org/abs/2605.18937
-- **Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency**
-  - https://arxiv.org/abs/2605.19008
-- **AgentNLQ: A General-Purpose Agent for Natural Language to SQL**
-  - https://arxiv.org/abs/2605.19010
+- **SOLAR: A Self-Optimizing Open-Ended Autonomous Agent for Lifelong Learning and Continual Adaptation**
+  - https://arxiv.org/abs/2605.20189
+- **Tool-Augmented Agent for Closed-loop Optimization,Simulation,and Modeling Orchestration**
+  - https://arxiv.org/abs/2605.20190
+- **OSCToM: RL-Guided Adversarial Generation for High-Order Theory of Mind**
+  - https://arxiv.org/abs/2605.20423
+- **AgentCo-op: Retrieval-Based Synthesis of Interoperable Multi-Agent Workflows**
+  - https://arxiv.org/abs/2605.20425
+- **High Quality Embeddings for Horn Logic Reasoning**
+  - https://arxiv.org/abs/2605.20467
 
 ## arXiv CL
 
-- **Shiny Stories, Hidden Struggles: Investigating the Representation of Disability Through the Lens of LLMs**
-  - https://arxiv.org/abs/2605.20191
-- **Leveraging Large Language Models for Sentiment Analysis: Multi-Modal Analysis of Decentraland's MANA Token**
-  - https://arxiv.org/abs/2605.20192
-- **Improving Quantized Model Performance in Qualitative Analysis with Multi-Pass Prompt Verification**
-  - https://arxiv.org/abs/2605.20193
-- **Parallel LLM Reasoning for Bias-Resilient, Robust Conceptual Abstraction**
-  - https://arxiv.org/abs/2605.20194
-- **Pseudo-Siamese Network for Planning in Target-Oriented Proactive Dialogues**
-  - https://arxiv.org/abs/2605.20195
+- **CR4T: Rewrite-Based Guardrails for Adolescent LLM Safety**
+  - https://arxiv.org/abs/2605.21609
+- **Broadening Access to Transportation Safety Data with Generative AI: A Schema-Grounded Framework for Spatial Natural Language Queries**
+  - https://arxiv.org/abs/2605.21712
+- **Sem-Detect: Semantic Level Detection of AI Generated Peer-Reviews**
+  - https://arxiv.org/abs/2605.21713
+- **Probabilistic Attribution For Large Language Models**
+  - https://arxiv.org/abs/2605.21726
+- **RankJudge: A Multi-Turn LLM-as-a-Judge Synthetic Benchmark Generator**
+  - https://arxiv.org/abs/2605.21748
