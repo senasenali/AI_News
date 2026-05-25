@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-05-24
+# 🤖 AI Digest — 2026-05-25
 
 ## OpenAI
 
@@ -28,6 +28,26 @@
 
 ## arXiv AI
 
+- **BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems**
+  - https://arxiv.org/abs/2605.22866
+- **NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic**
+  - https://arxiv.org/abs/2605.22874
+- **RMA: an Agentic System for Research-Level Mathematical Problems**
+  - https://arxiv.org/abs/2605.22875
+- **SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research**
+  - https://arxiv.org/abs/2605.22878
+- **Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems**
+  - https://arxiv.org/abs/2605.22883
 
 ## arXiv CL
 
+- **Evaluating Large Language Models in a Complex Hidden Role Game**
+  - https://arxiv.org/abs/2605.22826
+- **A Survey of Text and Speech Resources for Hausa and Fongbe: Availability, Quality, and Gaps for NLP Development**
+  - https://arxiv.org/abs/2605.22828
+- **Query-Adaptive Semantic Chunking for Retrieval-Augmented Generation: A Dynamic Strategy with Contextual Window Expansion**
+  - https://arxiv.org/abs/2605.22834
+- **Knowledge Distillation for Low-Resource Open-source Text-to-SQL Model**
+  - https://arxiv.org/abs/2605.22843
+- **How Far Will They Go? Red-Teaming Online Influence with Large Language Models**
+  - https://arxiv.org/abs/2605.22880
