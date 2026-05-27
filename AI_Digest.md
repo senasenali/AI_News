@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-05-26
+# 🤖 AI Digest — 2026-05-27
 
 ## OpenAI
 
 - **OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership**
   - https://openai.com/index/grupo-folha-grupo-uol-partnership
-- **How Virgin Atlantic ships faster with Codex**
-  - https://openai.com/index/virgin-atlantic
 - **OpenAI named a Leader in enterprise coding agents by Gartner**
   - https://openai.com/index/gartner-2026-agentic-coding-leader
+- **How Virgin Atlantic ships faster with Codex**
+  - https://openai.com/index/virgin-atlantic
 - **AdventHealth advances whole-person care with OpenAI**
   - https://openai.com/index/adventhealth
-- **An OpenAI model has disproved a central conjecture in discrete geometry**
-  - https://openai.com/index/model-disproves-discrete-geometry-conjecture
+- **The next phase of OpenAI’s Education for Countries**
+  - https://openai.com/index/the-next-phase-of-education-for-countries
 
 ## Hugging Face
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **In Search of the Ingredients of Open-Endedness: Replicating Picbreeder with Large Vision-Language Models**
-  - https://arxiv.org/abs/2605.23908
-- **Confidence Calibration in Large Language Models**
-  - https://arxiv.org/abs/2605.23909
-- **How Much Thinking is Enough? Quantifying and Understanding Redundancy in LLM Reasoning**
-  - https://arxiv.org/abs/2605.23926
-- **Context: Proactive Goal-Directed Intelligence via Composable Sandboxed Programs, Declarative Wiring, and Structured Interaction**
-  - https://arxiv.org/abs/2605.23928
-- **Toward Reliable Design of LLM-Enabled Agentic Workflows: Optimizing Latency-Reliability-Cost Tradeoffs**
-  - https://arxiv.org/abs/2605.23929
+- **BrickAnything: Geometry-Conditioned Buildable Brick Generation with Structure-Aware Tokenization**
+  - https://arxiv.org/abs/2605.26182
+- **Can LLMs Introspect? A Reality Check**
+  - https://arxiv.org/abs/2605.26242
+- **Is Agent Memory a Database? Rethinking Data Foundations for Long-Term AI Agent Memory**
+  - https://arxiv.org/abs/2605.26252
+- **Personalizing Embodied Multimodal Large Language Model Agents over Long-term User Interactions**
+  - https://arxiv.org/abs/2605.26256
+- **Constraint acquisition needs better benchmarks**
+  - https://arxiv.org/abs/2605.26279
 
 ## arXiv CL
 
-- **Document Classification Pattern Recognition via Information Fusion: A Systematic Review of Multimodal and Multiview Representation Approaches**
-  - https://arxiv.org/abs/2605.23910
-- **Raon-Speech Technical Report**
-  - https://arxiv.org/abs/2605.23912
-- **Multi-Persona Debate System for Automated Scientific Hypothesis Generation**
-  - https://arxiv.org/abs/2605.23917
-- **Improving the Completeness and Comparability of Segment Disclosures: A Large Language Model Approach**
-  - https://arxiv.org/abs/2605.23924
-- **EchoDistill:Alignment Noisy-to-Clean Self-Distillation for Robust Audio LLMs**
-  - https://arxiv.org/abs/2605.23954
+- **Self-Verified Distillation: Your Language Model Is Secretly Its Own Synthetic Data Pipeline**
+  - https://arxiv.org/abs/2605.26132
+- **Pretraining Data Exposure in Large Language Models: A Survey of Membership Inference, Data Contamination, and Security Implications**
+  - https://arxiv.org/abs/2605.26133
+- **SPEAR: Code-Augmented Agentic Prompt Optimization**
+  - https://arxiv.org/abs/2605.26275
+- **CroCo: Cross-Lingual Contrastive Preference Tuning on Self-Generations**
+  - https://arxiv.org/abs/2605.26293
+- **The Daily Dose: Workflow-Integrated Large Language Model Automation for Clinical Summarization and Trial Identification in Radiation Oncology**
+  - https://arxiv.org/abs/2605.26346
