@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-05-28
+# 🤖 AI Digest — 2026-05-29
 
 ## OpenAI
 
+- **How Endava builds an agentic organization with Codex**
+  - https://openai.com/index/endava
+- **OpenAI’s Frontier Governance Framework**
+  - https://openai.com/index/openai-frontier-governance-framework
 - **Cisco and OpenAI redefine enterprise engineering with Codex**
   - https://openai.com/index/cisco
 - **Building self-improving tax agents with Codex**
   - https://openai.com/index/building-self-improving-tax-agents-with-codex
-- **Warp’s big bet on building open source with GPT-5.5**
-  - https://openai.com/index/warp
 - **Election information and safeguards in 2026**
   - https://openai.com/index/election-safeguards-2026
-- **OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership**
-  - https://openai.com/index/grupo-folha-grupo-uol-partnership
 
 ## Hugging Face
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **Identifying and Understanding Human Values in Text: A Tailorable LLM-based Architecture**
-  - https://arxiv.org/abs/2605.27373
-- **Soro: A Lightweight Foundation Model and Chatbot for Tajik**
-  - https://arxiv.org/abs/2605.27379
-- **On the Origin of Synthetic Information by Means of Steganographic Inheritance**
-  - https://arxiv.org/abs/2605.27551
-- **DynaSchedBench: Calibrated Dynamic Scheduling Benchmarks and Observability Paradox in LLM-based Scheduling Agents**
-  - https://arxiv.org/abs/2605.27566
-- **Why LLMs Fail at Causal Discovery and How Interventional Agents Escape**
-  - https://arxiv.org/abs/2605.27567
+- **Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy Prediction**
+  - https://arxiv.org/abs/2605.28849
+- **Behavior-Aware Auxiliary Corrections for Off-Policy Temporal-Difference Prediction**
+  - https://arxiv.org/abs/2605.28855
+- **The Cognitive Categorical Transformer: Category-Theoretic Inductive Biases for Language Modeling**
+  - https://arxiv.org/abs/2605.28864
+- **Ultra-Reduced-Impact-Encased-Logging (URIEL): propose a new method for selective sustainable logging and post-harvest silvicultural treatment in tropical forest using airborne robotics systems**
+  - https://arxiv.org/abs/2605.28883
+- **Review Arcade: On the Human Alignment and Gameability of LLM Reviews**
+  - https://arxiv.org/abs/2605.28897
 
 ## arXiv CL
 
-- **ICG: Improving Cover Image Generation via MLLM-based Prompting and Personalized Preference Alignment**
-  - https://arxiv.org/abs/2605.27374
-- **LCO: LLM-based Constraint Optimization for Safer Agentic LLMs in Real-world Tasks**
-  - https://arxiv.org/abs/2605.27375
-- **Unlocking Fine-Grained and Within-Utterance Speaking Style Control in Prompt-Based Text-to-Speech Models**
-  - https://arxiv.org/abs/2605.27376
-- **RAG-Coding: Enhancing LLM Medical Coding with Structured External Knowledge**
-  - https://arxiv.org/abs/2605.27377
-- **OralAgent: Integrating Reasoning, Tools, and Knowledge for Interactive Dental Image Analysis**
-  - https://arxiv.org/abs/2605.27378
+- **Lightweight Multimodal LLM-Enabled Cost-Effective Defect Grading of Power Transmission Equipment**
+  - https://arxiv.org/abs/2605.28822
+- **What are They Thinking? Delineation, Probing and Tracking of Concepts in LLMs**
+  - https://arxiv.org/abs/2605.28823
+- **A Modular Architecture for Typologically Controlled Lexicon Generation**
+  - https://arxiv.org/abs/2605.28824
+- **MechELK: A Mechanistic Interpretability Framework for Eliciting Latent Knowledge in Large Language Models**
+  - https://arxiv.org/abs/2605.28825
+- **From Context Shift to Stylistic Collapse: Why Training Objectives Matter More Than Scale**
+  - https://arxiv.org/abs/2605.28826
