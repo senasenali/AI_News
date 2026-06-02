@@ -1,53 +1,53 @@
-# 🤖 AI Digest — 2026-06-01
+# 🤖 AI Digest — 2026-06-02
 
 ## OpenAI
 
+- **Our views on AI policy and political advocacy**
+  - https://openai.com/index/our-views-on-ai-policy-and-political-advocacy
+- **Building the infrastructure for the Intelligence Age in Michigan**
+  - https://openai.com/index/stargate-michigan-data-center
+- **OpenAI frontier models and Codex are now available on AWS**
+  - https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws
 - **Boston Children’s uses AI to unlock new diagnoses**
   - https://openai.com/index/boston-childrens-hospital
 - **How Braintrust turns customer requests into code with Codex**
   - https://openai.com/index/braintrust
-- **Strengthening societal resilience with Rosalind Biodefense**
-  - https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense
-- **A shared playbook for trustworthy third party evaluations**
-  - https://openai.com/index/trustworthy-third-party-evaluations-foundations
-- **How Endava builds an agentic organization with Codex**
-  - https://openai.com/index/endava
 
 ## Hugging Face
 
+- **Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains**
+  - https://huggingface.co/blog/JetBrains/mellum2-launch
+- **Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic**
+  - https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption
 - **Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action**
   - https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai
 - **Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler**
   - https://huggingface.co/blog/torch-profiler
-- **ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM**
-  - https://huggingface.co/blog/ibm-research/itbench-aa
 - **Reachy Mini goes fully local**
   - https://huggingface.co/blog/local-reachy-mini-conversation
-- **Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL**
-  - https://huggingface.co/blog/delta-weight-sync
 
 ## arXiv AI
 
-- **PhyDrawGen: Physically Grounded Diagram Generation from Natural Language**
-  - https://arxiv.org/abs/2605.30512
-- **Physically Viable World Models: A Case for Query-Conditioned Embodied AI**
-  - https://arxiv.org/abs/2605.30542
-- **Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended Version)**
-  - https://arxiv.org/abs/2605.30563
-- **Procedural Generation of First Person Shooter Maps using Map-Elites**
-  - https://arxiv.org/abs/2605.30570
-- **Uncertainty-Aware and Temporally Regulated Expert Advice in Reinforcement Learning for Autonomous Driving**
-  - https://arxiv.org/abs/2605.30576
+- **Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions and Smoothness Under Perturbations**
+  - https://arxiv.org/abs/2606.00002
+- **Emergent Collaborative Deliberation in Multi-Model AI Systems: A BFT-Derived Protocol for Epistemic Synthesis**
+  - https://arxiv.org/abs/2606.00005
+- **Deliberative Curation: A Protocol for Multi-Agent Knowledge Bases**
+  - https://arxiv.org/abs/2606.00007
+- **Agents on a Tree: Pathwise Coordination for Multi-Objective Molecular Optimization**
+  - https://arxiv.org/abs/2606.00008
+- **Optimal Transport-based Permutation-Invariant Bayesian Optimization of Offshore Wind Farm Layouts**
+  - https://arxiv.org/abs/2606.00009
 
 ## arXiv CL
 
-- **Protocol for evaluating ChatGPT in biomedical association generation and verification using a RAG-enabled, cross-model majority voting workflow**
-  - https://arxiv.org/abs/2605.30400
-- **Exploring Autonomous Agentic Data Engineering for Model Specialization**
-  - https://arxiv.org/abs/2605.30407
-- **Domain Adaptation and Reasoning Frameworks in Language Models: A Controlled Experiment with Historical Cosmology**
-  - https://arxiv.org/abs/2605.30415
-- **Cross-Lingual Steering for Figurative Language Generation**
-  - https://arxiv.org/abs/2605.30443
-- **Can LLM Teams Play What? Where? When?**
-  - https://arxiv.org/abs/2605.30459
+- **DraDDP: A Multimodal Multi-Party Dialogue Discourse Parsing Dataset**
+  - https://arxiv.org/abs/2606.00012
+- **Toward Robust In-Context Learning: Leveraging Out-of-distribution Proxies for Target Inaccessible Demonstration Retrieval**
+  - https://arxiv.org/abs/2606.00014
+- **AEyeDE: An Attention-Based Attribution Framework for AI-Generated Text Detection**
+  - https://arxiv.org/abs/2606.00016
+- **CSRP: Chain-of-Thought Reasoning for Chinese Text Correction via Reinforcement Learning with Efficiency-Aware Rewards**
+  - https://arxiv.org/abs/2606.00020
+- **SENSE: Semantic Embedding Navigation with Soft-gated Evaluation for Retrieval-based Speculative Decoding**
+  - https://arxiv.org/abs/2606.00021
