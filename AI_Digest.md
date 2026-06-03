@@ -1,20 +1,22 @@
-# 🤖 AI Digest — 2026-06-02
+# 🤖 AI Digest — 2026-06-03
 
 ## OpenAI
 
+- **Travelers deploys AI-powered claims countrywide with OpenAI**
+  - https://openai.com/index/travelers
+- **Codex for every role, tool, and workflow**
+  - https://openai.com/index/codex-for-every-role-tool-workflow
+- **Advancing youth safety and opportunity through global leadership**
+  - https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership
+- **Codex is becoming a productivity tool for everyone**
+  - https://openai.com/index/codex-for-knowledge-work
 - **Our views on AI policy and political advocacy**
   - https://openai.com/index/our-views-on-ai-policy-and-political-advocacy
-- **Building the infrastructure for the Intelligence Age in Michigan**
-  - https://openai.com/index/stargate-michigan-data-center
-- **OpenAI frontier models and Codex are now available on AWS**
-  - https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws
-- **Boston Children’s uses AI to unlock new diagnoses**
-  - https://openai.com/index/boston-childrens-hospital
-- **How Braintrust turns customer requests into code with Codex**
-  - https://openai.com/index/braintrust
 
 ## Hugging Face
 
+- **Holo3.1: Fast & Local Computer Use Agents**
+  - https://huggingface.co/blog/Hcompany/holo31
 - **Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains**
   - https://huggingface.co/blog/JetBrains/mellum2-launch
 - **Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic**
@@ -23,31 +25,29 @@
   - https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai
 - **Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler**
   - https://huggingface.co/blog/torch-profiler
-- **Reachy Mini goes fully local**
-  - https://huggingface.co/blog/local-reachy-mini-conversation
 
 ## arXiv AI
 
-- **Position Paper: Post-Solve Robustness in Decision Engines: Feasible Regions and Smoothness Under Perturbations**
-  - https://arxiv.org/abs/2606.00002
-- **Emergent Collaborative Deliberation in Multi-Model AI Systems: A BFT-Derived Protocol for Epistemic Synthesis**
-  - https://arxiv.org/abs/2606.00005
-- **Deliberative Curation: A Protocol for Multi-Agent Knowledge Bases**
-  - https://arxiv.org/abs/2606.00007
-- **Agents on a Tree: Pathwise Coordination for Multi-Objective Molecular Optimization**
-  - https://arxiv.org/abs/2606.00008
-- **Optimal Transport-based Permutation-Invariant Bayesian Optimization of Offshore Wind Farm Layouts**
-  - https://arxiv.org/abs/2606.00009
+- **Visual Graph Scaffolds for Structural Reasoning in Large Language Models**
+  - https://arxiv.org/abs/2606.02673
+- **AURA: Action-Gated Memory for Robot Policies at Constant VRAM**
+  - https://arxiv.org/abs/2606.02775
+- **Evaluating Transformer and LSTM Frameworks for Prediction in Ungauged Basins**
+  - https://arxiv.org/abs/2606.02791
+- **BehaviorBench: Modeling Real-World User Decisions from Behavioral Traces**
+  - https://arxiv.org/abs/2606.02798
+- **ChatHealthAI: Aligning Electronic Health Record Representations with Large Language Models for Grounded Clinical Reasoning**
+  - https://arxiv.org/abs/2606.02802
 
 ## arXiv CL
 
-- **DraDDP: A Multimodal Multi-Party Dialogue Discourse Parsing Dataset**
-  - https://arxiv.org/abs/2606.00012
-- **Toward Robust In-Context Learning: Leveraging Out-of-distribution Proxies for Target Inaccessible Demonstration Retrieval**
-  - https://arxiv.org/abs/2606.00014
-- **AEyeDE: An Attention-Based Attribution Framework for AI-Generated Text Detection**
-  - https://arxiv.org/abs/2606.00016
-- **CSRP: Chain-of-Thought Reasoning for Chinese Text Correction via Reinforcement Learning with Efficiency-Aware Rewards**
-  - https://arxiv.org/abs/2606.00020
-- **SENSE: Semantic Embedding Navigation with Soft-gated Evaluation for Retrieval-based Speculative Decoding**
-  - https://arxiv.org/abs/2606.00021
+- **IdiomX A Multilingual Benchmark for Idiom Understanding, Retrieval, and Interpretation**
+  - https://arxiv.org/abs/2606.02584
+- **Greener Than Humans? Environmental Attitudes in Large Language Models**
+  - https://arxiv.org/abs/2606.02741
+- **On the Persistent Effects of Lexicality in Large Language Mod**
+  - https://arxiv.org/abs/2606.02750
+- **Topics as Proxies for Sociodemographics: How Conversational Context Affects LLM Answers**
+  - https://arxiv.org/abs/2606.02776
+- **Do Value Vectors in Deep Layers Need Context from the Residual Stream?**
+  - https://arxiv.org/abs/2606.02780
