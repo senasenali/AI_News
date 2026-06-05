@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-06-04
+# 🤖 AI Digest — 2026-06-05
 
 ## OpenAI
 
+- **How Endava is redesigning software delivery around AI agents**
+  - https://openai.com/index/endava-frontiers
+- **Dreaming: Better memory for a more helpful ChatGPT**
+  - https://openai.com/index/chatgpt-memory-dreaming
+- **Biodefense in the Intelligence Age**
+  - https://openai.com/index/biodefense-in-the-intelligence-age
 - **Introducing new capabilities to GPT-Rosalind**
   - https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind
 - **How Wasmer used Codex to build a Node.js runtime for the edge**
   - https://openai.com/index/wasmer
-- **A blueprint for democratic governance of frontier AI**
-  - https://openai.com/index/frontier-safety-blueprint
-- **OpenAI public policy agenda**
-  - https://openai.com/index/public-policy-agenda
-- **Travelers deploys AI-powered claims countrywide with OpenAI**
-  - https://openai.com/index/travelers
 
 ## Hugging Face
 
@@ -31,13 +31,13 @@
 
 ## arXiv CL
 
-- **POLARIS: Guiding Small Models to Write Long Stories**
-  - https://arxiv.org/abs/2606.04095
-- **Discourse-Role Labels as Presentation-Time Variables for Context Use in Language Models**
-  - https://arxiv.org/abs/2606.04109
-- **Computational conceptual history of scientific concepts: From early digital methods to LLMs**
-  - https://arxiv.org/abs/2606.04118
-- **SaliMory: Orchestrating Cognitive Memory for Conversational Agents**
-  - https://arxiv.org/abs/2606.04120
-- **When Retrieval Doesn't Help: A Large-Scale Study of Biomedical RAG**
-  - https://arxiv.org/abs/2606.04127
+- **Epidemiology of Model Collapse: Modeling Synthetic Data Contamination via Bilayer SIR Dynamics**
+  - https://arxiv.org/abs/2606.05168
+- **Predict and Reconstruct: Joint Objectives for Self-Supervised Language Representation Learning**
+  - https://arxiv.org/abs/2606.05173
+- **Improving Heart-Focused Medical Question Answering in LLMs via Variance-Aware Rubric Rewards with GRPO**
+  - https://arxiv.org/abs/2606.05174
+- **Generic Triple-Latent Compression with Gated Associative Retrieval**
+  - https://arxiv.org/abs/2606.05175
+- **PEFT of SLM for Telecommunications Customer Support: A Comparative Study of LoRA Configurations with Energy Consumption Analysis**
+  - https://arxiv.org/abs/2606.05176
