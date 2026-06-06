@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-06-05
+# 🤖 AI Digest — 2026-06-06
 
 ## OpenAI
 
@@ -15,29 +15,29 @@
 
 ## Hugging Face
 
+- **Thousand Token Wood: shipping a multi-agent economy on a 3B model**
+  - https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim
+- **Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI**
+  - https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety
+- **EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios**
+  - https://huggingface.co/blog/ServiceNow-AI/eva-bench-data
+- **Designing the hf CLI as an agent-optimized way to work with the Hub**
+  - https://huggingface.co/blog/hf-cli-for-agents
+- **Direct Preference Optimization Beyond Chatbots**
+  - https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots
 
 ## arXiv AI
 
-- **Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification**
-  - https://arxiv.org/abs/2606.04037
-- **Stumbling Into AI Emotional Dependence: How Routine AI Interactions Reshape Human Connection**
-  - https://arxiv.org/abs/2606.04150
-- **Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research**
-  - https://arxiv.org/abs/2606.04152
-- **SMAC-Talk: A Natural Language Extension of the StarCraft Multi-Agent Challenge for Large Language Models**
-  - https://arxiv.org/abs/2606.04202
-- **Consensus is Strategically Insufficient: Reasoning-Trace Disagreement as a Knowledge-Representation Signal**
-  - https://arxiv.org/abs/2606.04223
+- **How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment**
+  - https://arxiv.org/abs/2606.05256
+- **What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems**
+  - https://arxiv.org/abs/2606.05304
+- **I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition**
+  - https://arxiv.org/abs/2606.05316
+- **GITCO: Gated Inference-Time Context Optimization in TSFMs**
+  - https://arxiv.org/abs/2606.05332
+- **Uncertainty Aware Functional Behavior Prediction and Material Fatigue Assessment for Circular Factory**
+  - https://arxiv.org/abs/2606.05334
 
 ## arXiv CL
 
-- **Epidemiology of Model Collapse: Modeling Synthetic Data Contamination via Bilayer SIR Dynamics**
-  - https://arxiv.org/abs/2606.05168
-- **Predict and Reconstruct: Joint Objectives for Self-Supervised Language Representation Learning**
-  - https://arxiv.org/abs/2606.05173
-- **Improving Heart-Focused Medical Question Answering in LLMs via Variance-Aware Rubric Rewards with GRPO**
-  - https://arxiv.org/abs/2606.05174
-- **Generic Triple-Latent Compression with Gated Associative Retrieval**
-  - https://arxiv.org/abs/2606.05175
-- **PEFT of SLM for Telecommunications Customer Support: A Comparative Study of LoRA Configurations with Energy Consumption Analysis**
-  - https://arxiv.org/abs/2606.05176
