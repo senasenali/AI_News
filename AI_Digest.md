@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-06-06
+# 🤖 AI Digest — 2026-06-07
 
 ## OpenAI
 
@@ -15,8 +15,8 @@
 
 ## Hugging Face
 
-- **Thousand Token Wood: shipping a multi-agent economy on a 3B model**
-  - https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim
+- **Five labs, five minds: building a multi-model finance drama on small models**
+  - https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2
 - **Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI**
   - https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety
 - **EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios**
@@ -28,16 +28,6 @@
 
 ## arXiv AI
 
-- **How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment**
-  - https://arxiv.org/abs/2606.05256
-- **What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems**
-  - https://arxiv.org/abs/2606.05304
-- **I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition**
-  - https://arxiv.org/abs/2606.05316
-- **GITCO: Gated Inference-Time Context Optimization in TSFMs**
-  - https://arxiv.org/abs/2606.05332
-- **Uncertainty Aware Functional Behavior Prediction and Material Fatigue Assessment for Circular Factory**
-  - https://arxiv.org/abs/2606.05334
 
 ## arXiv CL
 
