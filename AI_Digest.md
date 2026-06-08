@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-06-07
+# 🤖 AI Digest — 2026-06-08
 
 ## OpenAI
 
@@ -15,8 +15,8 @@
 
 ## Hugging Face
 
-- **Five labs, five minds: building a multi-model finance drama on small models**
-  - https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2
+- **Amazing Digital Dentures (a failed project)**
+  - https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures
 - **Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI**
   - https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety
 - **EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios**
@@ -28,6 +28,26 @@
 
 ## arXiv AI
 
+- **Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation**
+  - https://arxiv.org/abs/2606.06514
+- **DiBS: Diffusion-Informed Branch Selection**
+  - https://arxiv.org/abs/2606.06518
+- **SafeGene: Reusable Adapters for Transferable Safety Alignment**
+  - https://arxiv.org/abs/2606.06519
+- **Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory**
+  - https://arxiv.org/abs/2606.06523
+- **CrowdMath: A Dataset of Crowdsourced Mathematical Research Discussions**
+  - https://arxiv.org/abs/2606.06526
 
 ## arXiv CL
 
+- **Improving Cross-Lingual Factual Recall via Consistency-Driven Reinforcement Learning**
+  - https://arxiv.org/abs/2606.06586
+- **Re-Centering Humans in LLM Personalization**
+  - https://arxiv.org/abs/2606.06614
+- **UnpredictaBench: A Benchmark for Evaluating Distributional Randomness in LLMs**
+  - https://arxiv.org/abs/2606.06622
+- **How Language Models Fail: Token-Level Signatures of Committed and Persistent Reasoning Failures**
+  - https://arxiv.org/abs/2606.06635
+- **CAF-Gen: A Multi-Agent System for Enriching Argumentation Structures**
+  - https://arxiv.org/abs/2606.06646
