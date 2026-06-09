@@ -1,22 +1,22 @@
-# 🤖 AI Digest — 2026-06-08
+# 🤖 AI Digest — 2026-06-09
 
 ## OpenAI
 
+- **Confidential submission of draft S-1 to the SEC**
+  - https://openai.com/index/openai-submits-confidential-s-1
+- **Built to benefit everyone: our plan**
+  - https://openai.com/index/built-to-benefit-everyone-our-plan
+- **Introducing the OpenAI Economic Research Exchange**
+  - https://openai.com/index/economic-research-exchange
 - **How Endava is redesigning software delivery around AI agents**
   - https://openai.com/index/endava-frontiers
 - **Dreaming: Better memory for a more helpful ChatGPT**
   - https://openai.com/index/chatgpt-memory-dreaming
-- **Biodefense in the Intelligence Age**
-  - https://openai.com/index/biodefense-in-the-intelligence-age
-- **Introducing new capabilities to GPT-Rosalind**
-  - https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind
-- **How Wasmer used Codex to build a Node.js runtime for the edge**
-  - https://openai.com/index/wasmer
 
 ## Hugging Face
 
-- **Amazing Digital Dentures (a failed project)**
-  - https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures
+- **The Open Source Community is backing OpenEnv for Agentic RL**
+  - https://huggingface.co/blog/openenv-agentic-rl
 - **Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI**
   - https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety
 - **EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios**
@@ -28,16 +28,16 @@
 
 ## arXiv AI
 
-- **Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation**
-  - https://arxiv.org/abs/2606.06514
-- **DiBS: Diffusion-Informed Branch Selection**
-  - https://arxiv.org/abs/2606.06518
-- **SafeGene: Reusable Adapters for Transferable Safety Alignment**
-  - https://arxiv.org/abs/2606.06519
-- **Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory**
-  - https://arxiv.org/abs/2606.06523
-- **CrowdMath: A Dataset of Crowdsourced Mathematical Research Discussions**
-  - https://arxiv.org/abs/2606.06526
+- **PathoSage: Towards Multi-Source Evidence Adjudication in Pathology via Experience-Aware Agentic Workflow**
+  - https://arxiv.org/abs/2606.07549
+- **OmniMem: Perturbation-aware Memory Compression for Streaming Audio-Visual LLMs**
+  - https://arxiv.org/abs/2606.07577
+- **Syll: Open-Source Personal Automation with Cross-Surface Execution**
+  - https://arxiv.org/abs/2606.07594
+- **A case study of evaluating AI agents on a neuroscience data-to-discovery pipeline**
+  - https://arxiv.org/abs/2606.07718
+- **Why Limit the Residual Stream to Layers and Not Tokens? Persistent Memory for Continuous Latent Reasoning**
+  - https://arxiv.org/abs/2606.07720
 
 ## arXiv CL
 
