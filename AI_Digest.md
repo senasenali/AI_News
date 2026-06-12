@@ -1,43 +1,53 @@
-# 🤖 AI Digest — 2026-06-11
+# 🤖 AI Digest — 2026-06-12
 
 ## OpenAI
 
 - **How an astrophysicist uses Codex to help simulate black holes**
   - https://openai.com/index/using-codex-to-simulate-black-holes
+- **BBVA puts AI at the core of banking with OpenAI**
+  - https://openai.com/index/bbva
+- **OpenAI to acquire Ona**
+  - https://openai.com/index/openai-to-acquire-ona
+- **Supporting Europe’s work in ensuring a trustworthy AI ecosystem**
+  - https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem
 - **Access OpenAI models and Codex through your Oracle cloud commitment**
   - https://openai.com/index/openai-on-oracle-cloud
-- **PRC-linked influence operations are targeting AI debates in the US**
-  - https://openai.com/index/prc-linked-influence-operations-ai-debates
-- **From data to decisions: how LSEG is scaling trusted AI**
-  - https://openai.com/index/lseg
-- **How engineers at Nextdoor use Codex to build without limits**
-  - https://openai.com/index/nextdoor
 
 ## Hugging Face
 
+- **Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP**
+  - https://huggingface.co/blog/torch-mlp-fusion
+- **Introducing North Mini Code: Cohere’s First Model For Developers**
+  - https://huggingface.co/blog/CohereLabs/introducing-north-mini-code
+- **How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces**
+  - https://huggingface.co/blog/mishig/spaces-agents-md
+- **Migrating Your GitHub CI to Hugging Face Jobs**
+  - https://huggingface.co/blog/github-ci-hf-jobs
+- **The Open Source Community is backing OpenEnv for Agentic RL**
+  - https://huggingface.co/blog/openenv-agentic-rl
 
 ## arXiv AI
 
-- **From Explicit Elements to Implicit Intent: A Predefined Library for Auditable Behavioral Inference**
-  - https://arxiv.org/abs/2606.11207
-- **Position: Hippocampal Explicit Memory Is the Cornerstone for AGI**
-  - https://arxiv.org/abs/2606.11245
-- **Can AI Agents Synthesize Scientific Conclusions?**
-  - https://arxiv.org/abs/2606.11337
-- **Knowing When to Ask: Self-Gated Clarification for Hierarchical Language Agents**
-  - https://arxiv.org/abs/2606.11349
-- **Automated Mediator for Human Negotiation: Pre-Mediation via a Structured LLM Pipeline**
-  - https://arxiv.org/abs/2606.11379
+- **ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs**
+  - https://arxiv.org/abs/2606.12451
+- **Arbor: Tree Search as a Cognition Layer for Autonomous Agents**
+  - https://arxiv.org/abs/2606.12563
+- **Strategic Decision Support for AI Agents**
+  - https://arxiv.org/abs/2606.12587
+- **Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formalisation**
+  - https://arxiv.org/abs/2606.12594
+- **PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation**
+  - https://arxiv.org/abs/2606.12616
 
 ## arXiv CL
 
-- **PoQ-Judge: A Multi-Architecture Evaluation Framework for Cost-Aware Proof-of-Quality in Decentralized LLM Inference**
-  - https://arxiv.org/abs/2606.11196
-- **The Structural Attention Tax: How Retrieval Format Hijacks In-Context Learning Independent of Content**
-  - https://arxiv.org/abs/2606.11198
-- **NightFeats @ MMU-RAGent NeurIPS 2025: A Context-Optimized Multi-Agent RAG System for the Text-to-Text Track**
-  - https://arxiv.org/abs/2606.11199
-- **Detecting AI-Generated Content on Social Media with Multi-modal Language Models**
-  - https://arxiv.org/abs/2606.11200
-- **One Jailbreak, Many Tongues: Learning Language-Insensitive Intention Representations for Multilingual Jailbreak Detection**
-  - https://arxiv.org/abs/2606.11202
+- **EDEN: A Large-Scale Corpus of Clinical Notes for Italian**
+  - https://arxiv.org/abs/2606.12569
+- **Helping Figures Tell their Story! Paper-Grounded Video Generation Explaining Complex Scientific Figures**
+  - https://arxiv.org/abs/2606.12576
+- **MARD: Mirror-Augmented Reasoning Distillation for Mechanism-Level Drug-Drug Interaction Prediction**
+  - https://arxiv.org/abs/2606.12578
+- **Constrained Semantic Decompression in LLMs through Persian Proverb-Conditioned Story Generation**
+  - https://arxiv.org/abs/2606.12599
+- **Shopping Reasoning Bench: An Expert-Authored Benchmark for Multi-Turn Conversational Shopping Assistants**
+  - https://arxiv.org/abs/2606.12608
