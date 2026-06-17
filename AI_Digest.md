@@ -1,7 +1,9 @@
-# 🤖 AI Digest — 2026-06-16
+# 🤖 AI Digest — 2026-06-17
 
 ## OpenAI
 
+- **Predicting model behavior before release by simulating deployment**
+  - https://openai.com/index/deployment-simulation
 - **Introducing the OpenAI Partner Network**
   - https://openai.com/index/introducing-openai-partner-network
 - **New OpenAI Academy courses for the next era of work**
@@ -10,8 +12,6 @@
   - https://openai.com/index/preply
 - **How an astrophysicist uses Codex to help simulate black holes**
   - https://openai.com/index/using-codex-to-simulate-black-holes
-- **BBVA puts AI at the core of banking with OpenAI**
-  - https://openai.com/index/bbva
 
 ## Hugging Face
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **A Definition of Good Explanations and the Challenges Explaining LLM Outputs**
-  - https://arxiv.org/abs/2606.14838
-- **Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion**
-  - https://arxiv.org/abs/2606.14885
-- **Relational Structural Causal Models**
-  - https://arxiv.org/abs/2606.14892
-- **Trust Between AI Agents: Measuring Formation, Breakage, and Recovery, with Implications for Governing Multi-Agent Systems**
-  - https://arxiv.org/abs/2606.14923
-- **PrologMCP: A Standardized Prolog Tool Interface for LLM Agents**
-  - https://arxiv.org/abs/2606.14935
+- **Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search**
+  - https://arxiv.org/abs/2606.17209
+- **When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval**
+  - https://arxiv.org/abs/2606.17220
+- **SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control under Disruptions**
+  - https://arxiv.org/abs/2606.17266
+- **Skill-Constrained Model Predictive Control for Resilient Manufacturing Supply Chains**
+  - https://arxiv.org/abs/2606.17269
+- **Nothing from Something: Can a Language Model Discover 0?**
+  - https://arxiv.org/abs/2606.17289
 
 ## arXiv CL
 
-- **PhoneHarness: Harnessing Phone-Use Agents through Mixed GUI, CLI, and Tool Actions**
-  - https://arxiv.org/abs/2606.14832
-- **Evaluating the Robustness of Proof Autoformalization in Lean 4**
-  - https://arxiv.org/abs/2606.14867
-- **Context Compression Is Not One Thing: Readable Symbolic Re-expression vs. Coherent Summary at Matched Budget**
-  - https://arxiv.org/abs/2606.14875
-- **Simplifying the Modeling of Arbitrary Conditionals in Natural Language**
-  - https://arxiv.org/abs/2606.14943
-- **CoRA: Confidence-Rationale Alignment for Reliable Chain-of-Thought Reasoning**
-  - https://arxiv.org/abs/2606.14961
+- **MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision**
+  - https://arxiv.org/abs/2606.17162
+- **PromptMN: Pseudo Prompting Language**
+  - https://arxiv.org/abs/2606.17164
+- **RepSelect: Robust LLM Unlearning via Representation Selectivity**
+  - https://arxiv.org/abs/2606.17168
+- **From Parasocial Scripts to Dyadic Persistence in Autonomous AI-Agent Communities**
+  - https://arxiv.org/abs/2606.17174
+- **Self-Generated Error Training for Token Editing in Diffusion Language Models**
+  - https://arxiv.org/abs/2606.17175
