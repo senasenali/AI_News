@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-06-19
+# 🤖 AI Digest — 2026-06-20
 
 ## OpenAI
 
@@ -41,13 +41,3 @@
 
 ## arXiv CL
 
-- **Exposing the Unsaid: Visualizing Hidden LLM Bias through Stochastic Path Aggregation**
-  - https://arxiv.org/abs/2606.19344
-- **Ensembles of Large Language Models for Identifying EQ-5D Studies in PubMed Based on Their Abstracts**
-  - https://arxiv.org/abs/2606.19345
-- **Disentangling Linguistic Relatedness from Task Alignment in Cross-Lingual Transfer**
-  - https://arxiv.org/abs/2606.19346
-- **How LLMs Fail and Generalize in RTL Coding for Hardware Design?**
-  - https://arxiv.org/abs/2606.19347
-- **DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence**
-  - https://arxiv.org/abs/2606.19348
