@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-06-20
+# 🤖 AI Digest — 2026-06-21
 
 ## OpenAI
 
@@ -28,16 +28,6 @@
 
 ## arXiv AI
 
-- **Deontic Policies for Runtime Governance of Agentic AI Systems**
-  - https://arxiv.org/abs/2606.19464
-- **Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023**
-  - https://arxiv.org/abs/2606.19469
-- **Diffusion Language Models: An Experimental Analysis**
-  - https://arxiv.org/abs/2606.19475
-- **Hidden Anchors in Multi-Agent LLM Deliberation**
-  - https://arxiv.org/abs/2606.19494
-- **DeXposure-Claw: An Agentic System for DeFi Risk Supervision**
-  - https://arxiv.org/abs/2606.19501
 
 ## arXiv CL
 
