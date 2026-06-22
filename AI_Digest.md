@@ -1,7 +1,9 @@
-# 🤖 AI Digest — 2026-06-21
+# 🤖 AI Digest — 2026-06-22
 
 ## OpenAI
 
+- **Samsung Electronics brings ChatGPT and Codex to employees**
+  - https://openai.com/index/samsung-electronics-chatgpt-codex-deployment
 - **New usage analytics and updated spend controls for enterprises**
   - https://openai.com/index/chatgpt-enterprise-spend-controls
 - **Improving health intelligence in ChatGPT**
@@ -10,8 +12,6 @@
   - https://openai.com/index/diagnose-rare-childhood-diseases
 - **A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry**
   - https://openai.com/index/ai-chemist-improves-reaction
-- **Introducing LifeSciBench**
-  - https://openai.com/index/introducing-life-sci-bench
 
 ## Hugging Face
 
