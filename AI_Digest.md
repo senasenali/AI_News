@@ -1,7 +1,9 @@
-# 🤖 AI Digest — 2026-06-26
+# 🤖 AI Digest — 2026-06-27
 
 ## OpenAI
 
+- **Previewing GPT-5.6 Sol: a next-generation model**
+  - https://openai.com/index/previewing-gpt-5-6-sol
 - **How agents are transforming work**
   - https://openai.com/index/how-agents-are-transforming-work
 - **OpenAI and Broadcom unveil LLM-optimized inference chip**
@@ -10,8 +12,6 @@
   - https://openai.com/index/helping-build-shared-standards-for-advanced-ai
 - **How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery**
   - https://openai.com/index/gpt-5-immunology-mystery
-- **How Omio is building the future of conversational travel**
-  - https://openai.com/index/omio
 
 ## Hugging Face
 
@@ -41,13 +41,3 @@
 
 ## arXiv CL
 
-- **HierBias: Context-Conditioned Hierarchical Media Bias Detection with Multi-Task Type Classification**
-  - https://arxiv.org/abs/2606.26100
-- **Know2Guess: A Contamination-Aware Multi-Zone Benchmark for Knowledge-Boundary Evaluation in Large Language Models**
-  - https://arxiv.org/abs/2606.26101
-- **Helpfulness Hurts: Domain-Dependent Degradation of Mid-Trained Compassion Values Under Post-Training**
-  - https://arxiv.org/abs/2606.26102
-- **Investigating LLM's Problem Solving Capability -- a Study on Statics Questions**
-  - https://arxiv.org/abs/2606.26103
-- **Assert, don't describe: Linguistic features that shift LLM reasoning about animal welfare**
-  - https://arxiv.org/abs/2606.26104
