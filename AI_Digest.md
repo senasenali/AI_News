@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-06-27
+# 🤖 AI Digest — 2026-06-28
 
 ## OpenAI
 
@@ -28,16 +28,6 @@
 
 ## arXiv AI
 
-- **Detecting and Controlling Sycophancy with Cascading Linear Features**
-  - https://arxiv.org/abs/2606.26155
-- **Life After Benchmark Saturation: A Case Study of CORE-Bench**
-  - https://arxiv.org/abs/2606.26158
-- **Refusal Lives Downstream of Persona in Chat Models**
-  - https://arxiv.org/abs/2606.26161
-- **AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs**
-  - https://arxiv.org/abs/2606.26173
-- **Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols**
-  - https://arxiv.org/abs/2606.26203
 
 ## arXiv CL
 
