@@ -1,7 +1,9 @@
-# 🤖 AI Digest — 2026-06-28
+# 🤖 AI Digest — 2026-06-29
 
 ## OpenAI
 
+- **HP Inc. launches Frontier strategic partnership with OpenAI**
+  - https://openai.com/index/hp-frontier-partnership
 - **Previewing GPT-5.6 Sol: a next-generation model**
   - https://openai.com/index/previewing-gpt-5-6-sol
 - **How agents are transforming work**
@@ -10,8 +12,6 @@
   - https://openai.com/index/openai-broadcom-jalapeno-inference-chip
 - **Helping build shared standards for advanced AI**
   - https://openai.com/index/helping-build-shared-standards-for-advanced-ai
-- **How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery**
-  - https://openai.com/index/gpt-5-immunology-mystery
 
 ## Hugging Face
 
@@ -28,6 +28,26 @@
 
 ## arXiv AI
 
+- **AI-Model Network: Concept, Current State and Future**
+  - https://arxiv.org/abs/2606.27382
+- **When Does Personality Composition Matter for Multi-Agent LLM Teams?**
+  - https://arxiv.org/abs/2606.27443
+- **Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning**
+  - https://arxiv.org/abs/2606.27483
+- **Odyssey: Constructing Verifiable Local Truth-Preserving Foundation Models**
+  - https://arxiv.org/abs/2606.27593
+- **DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums**
+  - https://arxiv.org/abs/2606.27619
 
 ## arXiv CL
 
+- **Formalizing Latent Thoughts: Four Axioms of Thought Representation in LLMs**
+  - https://arxiv.org/abs/2606.27378
+- **Position: The Term "Machine Unlearning" Is Overused in LLMs**
+  - https://arxiv.org/abs/2606.27379
+- **A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges**
+  - https://arxiv.org/abs/2606.27380
+- **Causal Connections: Leveraging Multilingual Fine-Tuning for Financial QA@FinCausal 2026**
+  - https://arxiv.org/abs/2606.27446
+- **Developmental approach reveals the statistical learning of Neural Language Models: Transformers generalize from the most abstract statistical patterns**
+  - https://arxiv.org/abs/2606.27460
