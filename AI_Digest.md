@@ -1,7 +1,9 @@
-# 🤖 AI Digest — 2026-06-29
+# 🤖 AI Digest — 2026-06-30
 
 ## OpenAI
 
+- **Mapping Europe’s AI Workforce Opportunity**
+  - https://openai.com/index/mapping-ai-jobs-transition-eu
 - **HP Inc. launches Frontier strategic partnership with OpenAI**
   - https://openai.com/index/hp-frontier-partnership
 - **Previewing GPT-5.6 Sol: a next-generation model**
@@ -10,15 +12,13 @@
   - https://openai.com/index/how-agents-are-transforming-work
 - **OpenAI and Broadcom unveil LLM-optimized inference chip**
   - https://openai.com/index/openai-broadcom-jalapeno-inference-chip
-- **Helping build shared standards for advanced AI**
-  - https://openai.com/index/helping-build-shared-standards-for-advanced-ai
 
 ## Hugging Face
 
+- **DiScoFormer: One transformer for density and score, across distributions**
+  - https://huggingface.co/blog/allenai/discoformer
 - **Run a vLLM Server on HF Jobs in One Command**
   - https://huggingface.co/blog/vllm-jobs
-- **Which tokens does a hybrid model predict better?**
-  - https://huggingface.co/blog/allenai/hybrid-token-prediction
 - **Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel**
   - https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel
 - **Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World**
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **AI-Model Network: Concept, Current State and Future**
-  - https://arxiv.org/abs/2606.27382
-- **When Does Personality Composition Matter for Multi-Agent LLM Teams?**
-  - https://arxiv.org/abs/2606.27443
-- **Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning**
-  - https://arxiv.org/abs/2606.27483
-- **Odyssey: Constructing Verifiable Local Truth-Preserving Foundation Models**
-  - https://arxiv.org/abs/2606.27593
-- **DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums**
-  - https://arxiv.org/abs/2606.27619
+- **Recursive Self-Evolving Agents via Held-Out Selection**
+  - https://arxiv.org/abs/2606.28374
+- **Data and Evaluation Closed-Loop for Model Capability Enhancement**
+  - https://arxiv.org/abs/2606.28471
+- **GPTNT: Benchmarking Real-Time Collaboration Between Multimodal Agents on Keep Talking And Nobody Explodes**
+  - https://arxiv.org/abs/2606.28514
+- **IMCBench: A benchmark for multimodal LLMs in Image-grounded Medical Conversations**
+  - https://arxiv.org/abs/2606.28556
+- **Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories**
+  - https://arxiv.org/abs/2606.28589
 
 ## arXiv CL
 
-- **Formalizing Latent Thoughts: Four Axioms of Thought Representation in LLMs**
-  - https://arxiv.org/abs/2606.27378
-- **Position: The Term "Machine Unlearning" Is Overused in LLMs**
-  - https://arxiv.org/abs/2606.27379
-- **A Survey of Automated Presentation Coaching: Systems, Methods, and Open Challenges**
-  - https://arxiv.org/abs/2606.27380
-- **Causal Connections: Leveraging Multilingual Fine-Tuning for Financial QA@FinCausal 2026**
-  - https://arxiv.org/abs/2606.27446
-- **Developmental approach reveals the statistical learning of Neural Language Models: Transformers generalize from the most abstract statistical patterns**
-  - https://arxiv.org/abs/2606.27460
+- **Generating in the Limit with Infinitely Many Hallucinations**
+  - https://arxiv.org/abs/2606.28354
+- **Extracting Knowledge from an Arabic-English Machine-Readable Dictionary Using Information Extraction**
+  - https://arxiv.org/abs/2606.28457
+- **Developmental Trajectories of Situation Modeling and Mentalizing in Transformer Language Models**
+  - https://arxiv.org/abs/2606.28524
+- **A French OSCE Dialogue Dataset and Controllable Virtual Patient System for Clinical Training**
+  - https://arxiv.org/abs/2606.28526
+- **Legal Domain Adaptation of Modern BERT Models**
+  - https://arxiv.org/abs/2606.28538
