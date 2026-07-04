@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-07-03
+# 🤖 AI Digest — 2026-07-04
 
 ## OpenAI
 
@@ -28,26 +28,6 @@
 
 ## arXiv AI
 
-- **PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations**
-  - https://arxiv.org/abs/2607.01306
-- **Auto-FL-Research: Agentic Search for Federated Learning Algorithms**
-  - https://arxiv.org/abs/2607.01366
-- **The Wiola Architecture for Efficient Small Language Models**
-  - https://arxiv.org/abs/2607.01394
-- **Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases**
-  - https://arxiv.org/abs/2607.01425
-- **When Should Service Agents Reconsider? Difficulty-Routed Control in Customer-Service Operations**
-  - https://arxiv.org/abs/2607.01426
 
 ## arXiv CL
 
-- **TokenScope: Token-Level Explainability and Interpretability for Code-Oriented Tasks in Large Language Models**
-  - https://arxiv.org/abs/2607.01235
-- **Safeguarding LLM Agents from Misalignment through Provenance Analysis**
-  - https://arxiv.org/abs/2607.01236
-- **Kara: Efficient Reasoning LLM Serving via Sliding-Window KV Cache Compression**
-  - https://arxiv.org/abs/2607.01237
-- **SPARCLE: SPeaker-aware Aligned Representations via Contrastive Language Embeddings**
-  - https://arxiv.org/abs/2607.01238
-- **Breaking Safety at the Token Boundary: How BPE Tokenization Creates Exploitable Gaps in LLM Alignment**
-  - https://arxiv.org/abs/2607.01239
