@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-07-05
+# 🤖 AI Digest — 2026-07-06
 
 ## OpenAI
 
@@ -15,6 +15,8 @@
 
 ## Hugging Face
 
+- **🤗 Kernels: Major Updates**
+  - https://huggingface.co/blog/revamped-kernels
 - **Hugging Face and Cerebras bring Gemma 4 to real-time voice AI**
   - https://huggingface.co/blog/cerebras-gemma4-voice-ai
 - **ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration**
@@ -23,8 +25,6 @@
   - https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable
 - **Featuring Every Eval Ever Results on Hugging Face Model Pages**
   - https://huggingface.co/blog/eee-community-evals
-- **DiScoFormer: One transformer for density and score, across distributions**
-  - https://huggingface.co/blog/allenai/discoformer
 
 ## arXiv AI
 
