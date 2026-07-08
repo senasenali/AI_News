@@ -1,53 +1,53 @@
-# 🤖 AI Digest — 2026-07-07
+# 🤖 AI Digest — 2026-07-08
 
 ## OpenAI
 
+- **Australian Payments Plus moves faster with ChatGPT and Codex**
+  - https://openai.com/index/australian-payments-plus
+- **MUFG aims to become AI-native with OpenAI**
+  - https://openai.com/index/mufg
 - **How ChatGPT adoption has expanded**
   - https://openai.com/index/how-chatgpt-adoption-has-expanded
 - **Core dump epidemiology: fixing an 18-year-old bug**
   - https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug
 - **Introducing GeneBench-Pro**
   - https://openai.com/index/introducing-genebench-pro
-- **Inside Genebench-Pro**
-  - https://openai.com/index/genebench-pro/case-studies
-- **Mapping Europe’s AI Workforce Opportunity**
-  - https://openai.com/index/mapping-ai-jobs-transition-eu
 
 ## Hugging Face
 
+- **From Hugging Face to Amazon SageMaker Studio in one click**
+  - https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio
+- **Hugging Face Models on Foundry Managed Compute**
+  - https://huggingface.co/blog/microsoft/foundry-managed-compute
+- **Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot**
+  - https://huggingface.co/blog/skypilot-hf-storage
 - **LeRobot v0.6.0: Imagine, Evaluate, Improve**
   - https://huggingface.co/blog/lerobot-release-v060
 - **PRX Part 4: Our Data Strategy**
   - https://huggingface.co/blog/Photoroom/prx-part4-data
-- **🤗 Kernels: Major Updates**
-  - https://huggingface.co/blog/revamped-kernels
-- **Hugging Face and Cerebras bring Gemma 4 to real-time voice AI**
-  - https://huggingface.co/blog/cerebras-gemma4-voice-ai
-- **ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration**
-  - https://huggingface.co/blog/ibm-research/scarfbench
 
 ## arXiv AI
 
-- **iFLYTEK-Embodied-Omni Technical Report**
-  - https://arxiv.org/abs/2607.02542
-- **Internal Pluralism and the Limits of Pairwise Comparisons**
-  - https://arxiv.org/abs/2607.02672
-- **ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability**
-  - https://arxiv.org/abs/2607.02686
-- **Automated Data Readiness for Scientific AI**
-  - https://arxiv.org/abs/2607.02771
-- **SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery**
-  - https://arxiv.org/abs/2607.02807
+- **Prompt-to-Paper: Agentic AI System for Bioinformatics**
+  - https://arxiv.org/abs/2607.05456
+- **From Graphs to Gradients: Physics-Inspired Structural Attribution for Cyber-Physical IoT Systems and Beyond**
+  - https://arxiv.org/abs/2607.05563
+- **CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming**
+  - https://arxiv.org/abs/2607.05571
+- **Foundation Models for Automatic CAD Generation**
+  - https://arxiv.org/abs/2607.05573
+- **Narrative World Model: Narratology-Grounded Writer Memory for Long-Form Fiction**
+  - https://arxiv.org/abs/2607.05577
 
 ## arXiv CL
 
-- **Improving LLMs via Validator-to-Generator Alignment**
-  - https://arxiv.org/abs/2607.02668
-- **Echoes of Unrest: A Multimodal NLP Framework for Early Warning of Fake News and Violence-Driven Mob Activity**
-  - https://arxiv.org/abs/2607.02734
-- **Reinforcement Learning for Data-Efficient Code-Switched ASR**
-  - https://arxiv.org/abs/2607.02757
-- **LuxSQA: Ask Me in Luxembourgish with TTS-Augmented Spoken Question Answering**
-  - https://arxiv.org/abs/2607.02763
-- **Gemma 4 Technical Report**
-  - https://arxiv.org/abs/2607.02770
+- **How Personas Can Influence Agents to Play Split or Steal**
+  - https://arxiv.org/abs/2607.05398
+- **Benchmarking KV-Cache Optimizations across Task Quality and System Performance for Long-Context Serving**
+  - https://arxiv.org/abs/2607.05399
+- **Text Distance from Nested and Hierarchical Repetitions: A Compression-Based Perspective**
+  - https://arxiv.org/abs/2607.05416
+- **Most LLM Conformity Needs No Speaker: Measuring the Speaker-Free Floor in Peer-Pressure Benchmarks**
+  - https://arxiv.org/abs/2607.05545
+- **The yes-no bias of large language models reflects answer order and wording, not shifts in moral judgment**
+  - https://arxiv.org/abs/2607.05552
