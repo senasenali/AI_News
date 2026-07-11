@@ -1,20 +1,22 @@
-# 🤖 AI Digest — 2026-07-10
+# 🤖 AI Digest — 2026-07-11
 
 ## OpenAI
 
+- **How Deutsche Telekom is rewiring telecommunications with AI**
+  - https://openai.com/index/deutsche-telekom
 - **GPT-5.6 is now the preferred model in Microsoft 365 Copilot**
   - https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot
+- **GPT-5.6: Frontier intelligence that scales with your ambition**
+  - https://openai.com/index/gpt-5-6
 - **ChatGPT is now a partner for your most ambitious work**
   - https://openai.com/index/chatgpt-for-your-most-ambitious-work
 - **GPT-5.5 Bio Bug Bounty**
   - https://openai.com/index/bio-bug-bounty
-- **GPT-5.6: Frontier intelligence that scales with your ambition**
-  - https://openai.com/index/gpt-5-6
-- **Our approach to government and national security partnerships**
-  - https://openai.com/index/government-national-security-partnerships
 
 ## Hugging Face
 
+- **Profiling in PyTorch (Part 3): Attention is all you profile**
+  - https://huggingface.co/blog/torch-attention-profile
 - **Data for Agents**
   - https://huggingface.co/blog/nvidia/open-data-for-agents
 - **Native-speed vLLM transformers modeling backend**
@@ -23,21 +25,9 @@
   - https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio
 - **Hugging Face Models on Foundry Managed Compute**
   - https://huggingface.co/blog/microsoft/foundry-managed-compute
-- **Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot**
-  - https://huggingface.co/blog/skypilot-hf-storage
 
 ## arXiv AI
 
-- **Context Graphs for Proactive Enterprise Agents**
-  - https://arxiv.org/abs/2607.07721
-- **AI-integrated models for assessing agricultural resilience**
-  - https://arxiv.org/abs/2607.07759
-- **Adversarial Social Epistemology for Assemblies of Humans and Large Language Models**
-  - https://arxiv.org/abs/2607.07760
-- **Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning**
-  - https://arxiv.org/abs/2607.07761
-- **Alignment Plausibility: A New Standard for Assuring AI in Healthcare**
-  - https://arxiv.org/abs/2607.07766
 
 ## arXiv CL
 
