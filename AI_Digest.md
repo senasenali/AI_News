@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-07-11
+# 🤖 AI Digest — 2026-07-12
 
 ## OpenAI
 
@@ -31,13 +31,3 @@
 
 ## arXiv CL
 
-- **Unveiling Public Opinion: A Study of Sentiment Analysis Using LSTM and Traditional Models**
-  - https://arxiv.org/abs/2607.07772
-- **From Solvers to Research: Large Language Model-Driven Formal Mathematics at the Research Frontier**
-  - https://arxiv.org/abs/2607.07779
-- **DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment**
-  - https://arxiv.org/abs/2607.07820
-- **How Do I Know What to Say Next? Barenholtz's Autogenerative Theory as an Enrichment of Harrisean Integrationism**
-  - https://arxiv.org/abs/2607.07891
-- **Scalable and Culturally Specific Stereotype Dataset Construction via Human-LLM Collaboration**
-  - https://arxiv.org/abs/2607.07895
