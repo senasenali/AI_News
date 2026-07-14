@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-07-13
+# 🤖 AI Digest — 2026-07-14
 
 ## OpenAI
 
 - **How Deutsche Telekom is rewiring telecommunications with AI**
   - https://openai.com/index/deutsche-telekom
+- **Getting started with ChatGPT**
+  - https://openai.com/academy/getting-started
 - **GPT-5.6 is now the preferred model in Microsoft 365 Copilot**
   - https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot
-- **GPT-5.6: Frontier intelligence that scales with your ambition**
-  - https://openai.com/index/gpt-5-6
-- **ChatGPT is now a partner for your most ambitious work**
-  - https://openai.com/index/chatgpt-for-your-most-ambitious-work
 - **GPT-5.5 Bio Bug Bounty**
   - https://openai.com/index/bio-bug-bounty
+- **GPT-5.6: Frontier intelligence that scales with your ambition**
+  - https://openai.com/index/gpt-5-6
 
 ## Hugging Face
 
