@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-07-14
+# 🤖 AI Digest — 2026-07-15
 
 ## OpenAI
 
+- **How to manage AI investments in the agentic era**
+  - https://openai.com/index/managing-ai-investments-in-agentic-era
+- **How data science teams use ChatGPT Work**
+  - https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
+- **How sales teams use ChatGPT Work**
+  - https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
 - **How Deutsche Telekom is rewiring telecommunications with AI**
   - https://openai.com/index/deutsche-telekom
 - **Getting started with ChatGPT**
   - https://openai.com/academy/getting-started
-- **GPT-5.6 is now the preferred model in Microsoft 365 Copilot**
-  - https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot
-- **GPT-5.5 Bio Bug Bounty**
-  - https://openai.com/index/bio-bug-bounty
-- **GPT-5.6: Frontier intelligence that scales with your ambition**
-  - https://openai.com/index/gpt-5-6
 
 ## Hugging Face
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **Interval Certifications for Multilayered Perceptrons via Lattice Traversal**
-  - https://arxiv.org/abs/2607.08773
-- **CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions**
-  - https://arxiv.org/abs/2607.08774
-- **GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning**
-  - https://arxiv.org/abs/2607.08894
-- **Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading**
-  - https://arxiv.org/abs/2607.08964
-- **A Formalization of the Mean-Field Derivation of the Vlasov Equation: AI-Assisted Lean Formalization as a Strategy Game**
-  - https://arxiv.org/abs/2607.08986
+- **From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation**
+  - https://arxiv.org/abs/2607.09664
+- **Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking**
+  - https://arxiv.org/abs/2607.09665
+- **Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent**
+  - https://arxiv.org/abs/2607.09678
+- **Boltzmann MapReduce: A Partition-Function Reduce for Forkable Sandboxes**
+  - https://arxiv.org/abs/2607.09689
+- **Interpreting Latent CoT Reasoning as Dynamical Systems**
+  - https://arxiv.org/abs/2607.09698
 
 ## arXiv CL
 
-- **HALO: Hybrid Adaptive Latent Reasoning for Language Models**
-  - https://arxiv.org/abs/2607.08775
-- **An Emergent Mirage: Is Emergent Misalignment and Realignment Indeed a Robust Phenomenon?**
-  - https://arxiv.org/abs/2607.09053
-- **AgentKGV: Agentic LLM-RAG Framework with Two-Stage Training for the Fact Verification of Knowledge Graphs**
-  - https://arxiv.org/abs/2607.09092
-- **PRecG: Legal Precedent Retrieval with Graph Neural Networks and Rhetorical Role Segmentation**
-  - https://arxiv.org/abs/2607.09094
-- **Augmenting Fundamental Analysis with Large Language Models: A RAG-Based System for Generating Investor Briefs**
-  - https://arxiv.org/abs/2607.09121
+- **CLIR-Bench: Benchmarking Multimodal Question Answering over Irregular Clinical Time Series**
+  - https://arxiv.org/abs/2607.09880
+- **Index SLM Technical Report**
+  - https://arxiv.org/abs/2607.09885
+- **RouteRec: Strict Evaluation of Recommender-Agent Selection and Aggregation**
+  - https://arxiv.org/abs/2607.09908
+- **Global Merger-Arbitrage Forecasting with Language Models**
+  - https://arxiv.org/abs/2607.09921
+- **Faithful by Design: Evaluating and Improving LLM-Generated Clinical Trial Summaries for Multi-Stakeholder Audiences**
+  - https://arxiv.org/abs/2607.09932
