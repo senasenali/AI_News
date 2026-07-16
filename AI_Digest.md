@@ -1,53 +1,53 @@
-# 🤖 AI Digest — 2026-07-15
+# 🤖 AI Digest — 2026-07-16
 
 ## OpenAI
 
+- **The US is advancing AI safety through state and federal action**
+  - https://openai.com/index/advancing-ai-safety-through-state-and-federal-action
+- **GPT-Red: Unlocking Self-Improvement for Robustness**
+  - https://openai.com/index/unlocking-self-improvement-gpt-red
 - **How to manage AI investments in the agentic era**
   - https://openai.com/index/managing-ai-investments-in-agentic-era
-- **How data science teams use ChatGPT Work**
-  - https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
 - **How sales teams use ChatGPT Work**
   - https://openai.com/academy/codex-for-work/how-sales-teams-use-codex
-- **How Deutsche Telekom is rewiring telecommunications with AI**
-  - https://openai.com/index/deutsche-telekom
-- **Getting started with ChatGPT**
-  - https://openai.com/academy/getting-started
+- **How data science teams use ChatGPT Work**
+  - https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex
 
 ## Hugging Face
 
+- **What building Shippy taught us about building agents**
+  - https://huggingface.co/blog/allenai/shippy-tech-blog
+- **Model Routing Is Simple. Until It Isn’t.**
+  - https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt
+- **Welcome Inkling by Thinking Machines**
+  - https://huggingface.co/blog/thinkingmachines-inkling
+- **Introducing Real World VoiceEQ: Measuring the human quality of voice AI**
+  - https://huggingface.co/blog/real-world-voiceeq
 - **Profiling in PyTorch (Part 3): Attention is all you profile**
   - https://huggingface.co/blog/torch-attention-profile
-- **Data for Agents**
-  - https://huggingface.co/blog/nvidia/open-data-for-agents
-- **Native-speed vLLM transformers modeling backend**
-  - https://huggingface.co/blog/native-speed-vllm-transformers-backend
-- **From Hugging Face to Amazon SageMaker Studio in one click**
-  - https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio
-- **Hugging Face Models on Foundry Managed Compute**
-  - https://huggingface.co/blog/microsoft/foundry-managed-compute
 
 ## arXiv AI
 
-- **From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation**
-  - https://arxiv.org/abs/2607.09664
-- **Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking**
-  - https://arxiv.org/abs/2607.09665
-- **Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent**
-  - https://arxiv.org/abs/2607.09678
-- **Boltzmann MapReduce: A Partition-Function Reduce for Forkable Sandboxes**
-  - https://arxiv.org/abs/2607.09689
-- **Interpreting Latent CoT Reasoning as Dynamical Systems**
-  - https://arxiv.org/abs/2607.09698
+- **Optimal Adaptive Market Making: A Theoretical Framework for High-Yield Liquidity Provision in Perpetual Futures Markets**
+  - https://arxiv.org/abs/2607.11888
+- **In-Context Reinforcement Learning under Non-Stationarity: A Survey**
+  - https://arxiv.org/abs/2607.11906
+- **Ontology-Amplified Distillation and Contextuality Auditing for Sovereign Enterprise Language Models: A Combined Proof-of-Mechanism and Negative-Results Method Study**
+  - https://arxiv.org/abs/2607.11948
+- **GRID: Grammar-Railed Decoding for Enterprise SQL Generation**
+  - https://arxiv.org/abs/2607.11951
+- **Calibration-First Reward-Component Auditing for Reinforcement Learning Control in Smart Greenhouses**
+  - https://arxiv.org/abs/2607.11959
 
 ## arXiv CL
 
-- **CLIR-Bench: Benchmarking Multimodal Question Answering over Irregular Clinical Time Series**
-  - https://arxiv.org/abs/2607.09880
-- **Index SLM Technical Report**
-  - https://arxiv.org/abs/2607.09885
-- **RouteRec: Strict Evaluation of Recommender-Agent Selection and Aggregation**
-  - https://arxiv.org/abs/2607.09908
-- **Global Merger-Arbitrage Forecasting with Language Models**
-  - https://arxiv.org/abs/2607.09921
-- **Faithful by Design: Evaluating and Improving LLM-Generated Clinical Trial Summaries for Multi-Stakeholder Audiences**
-  - https://arxiv.org/abs/2607.09932
+- **Scaling Point-in-Time Language Models**
+  - https://arxiv.org/abs/2607.11889
+- **CANDI: Contextual Alignment for Niche Domains Question Answering**
+  - https://arxiv.org/abs/2607.11891
+- **G-SHARE: A Guideline-Based Structured Reasoning Framework for Human-Factor Event Diagnosis**
+  - https://arxiv.org/abs/2607.11892
+- **I'm Sorry, but I Can't Help with Braille: Revealing Accessibility Failures in State-of-the-Art LLMs**
+  - https://arxiv.org/abs/2607.11893
+- **Graph-Based Detection of Disinformation Narrative Diffusion between Russian and Ukrainian Telegram Channels**
+  - https://arxiv.org/abs/2607.11894
