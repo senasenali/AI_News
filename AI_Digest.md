@@ -1,7 +1,9 @@
-# 🤖 AI Digest — 2026-07-17
+# 🤖 AI Digest — 2026-07-18
 
 ## OpenAI
 
+- **A scorecard for the AI age**
+  - https://openai.com/index/a-scorecard-for-the-ai-age
 - **Why teens deserve access to safe AI**
   - https://openai.com/index/why-teens-deserve-access-safe-ai
 - **How Cars24 scales conversations and builds faster with OpenAI**
@@ -10,13 +12,11 @@
   - https://openai.com/index/advancing-ai-safety-through-state-and-federal-action
 - **GPT-Red: Unlocking Self-Improvement for Robustness**
   - https://openai.com/index/unlocking-self-improvement-gpt-red
-- **How to manage AI investments in the agentic era**
-  - https://openai.com/index/managing-ai-investments-in-agentic-era
 
 ## Hugging Face
 
-- **NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval**
-  - https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb
+- **Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers**
+  - https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel
 - **Newer Models, Same Advantage**
   - https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages
 - **Security incident disclosure — July 2026**
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets**
-  - https://arxiv.org/abs/2607.13037
-- **SPINE: Bridging the Cyber-Physical Gap with Agentic AI**
-  - https://arxiv.org/abs/2607.13049
-- **Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution**
-  - https://arxiv.org/abs/2607.13069
-- **Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL**
-  - https://arxiv.org/abs/2607.13073
-- **Self-Improvements in Modern Agentic Systems: A Survey**
-  - https://arxiv.org/abs/2607.13104
+- **Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue**
+  - https://arxiv.org/abs/2607.14093
+- **HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs**
+  - https://arxiv.org/abs/2607.14095
+- **IMEX Interaction-Based Model Explanation**
+  - https://arxiv.org/abs/2607.14096
+- **RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics**
+  - https://arxiv.org/abs/2607.14097
+- **DialogueVPR: Towards Conversational Visual Place Recognition**
+  - https://arxiv.org/abs/2607.14115
 
 ## arXiv CL
 
-- **Scaling Point-in-Time Language Models**
-  - https://arxiv.org/abs/2607.11889
-- **CANDI: Contextual Alignment for Niche Domains Question Answering**
-  - https://arxiv.org/abs/2607.11891
-- **G-SHARE: A Guideline-Based Structured Reasoning Framework for Human-Factor Event Diagnosis**
-  - https://arxiv.org/abs/2607.11892
-- **I'm Sorry, but I Can't Help with Braille: Revealing Accessibility Failures in State-of-the-Art LLMs**
-  - https://arxiv.org/abs/2607.11893
-- **Graph-Based Detection of Disinformation Narrative Diffusion between Russian and Ukrainian Telegram Channels**
-  - https://arxiv.org/abs/2607.11894
+- **Just Keep Prompting: Evaluating Repetitive Socratic Prompting in VLMs**
+  - https://arxiv.org/abs/2607.14099
+- **Quantum Compositional NLP for Arabic: Grammar, Morphology, and Word Sense in Circuit Topology**
+  - https://arxiv.org/abs/2607.14100
+- **LBA: Textual Hard-Label Adversarial Attack under Low Query Budgets**
+  - https://arxiv.org/abs/2607.14101
+- **UniSAGE: Unifying Static and Dynamic Attributes with Hyper-Structure**
+  - https://arxiv.org/abs/2607.14102
+- **Latent Communication Between Language Model Agents: Channels, Alignment, and the Limits of Text**
+  - https://arxiv.org/abs/2607.14103
