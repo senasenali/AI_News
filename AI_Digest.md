@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-07-18
+# 🤖 AI Digest — 2026-07-19
 
 ## OpenAI
 
@@ -28,26 +28,6 @@
 
 ## arXiv AI
 
-- **Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue**
-  - https://arxiv.org/abs/2607.14093
-- **HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs**
-  - https://arxiv.org/abs/2607.14095
-- **IMEX Interaction-Based Model Explanation**
-  - https://arxiv.org/abs/2607.14096
-- **RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics**
-  - https://arxiv.org/abs/2607.14097
-- **DialogueVPR: Towards Conversational Visual Place Recognition**
-  - https://arxiv.org/abs/2607.14115
 
 ## arXiv CL
 
-- **Just Keep Prompting: Evaluating Repetitive Socratic Prompting in VLMs**
-  - https://arxiv.org/abs/2607.14099
-- **Quantum Compositional NLP for Arabic: Grammar, Morphology, and Word Sense in Circuit Topology**
-  - https://arxiv.org/abs/2607.14100
-- **LBA: Textual Hard-Label Adversarial Attack under Low Query Budgets**
-  - https://arxiv.org/abs/2607.14101
-- **UniSAGE: Unifying Static and Dynamic Attributes with Hyper-Structure**
-  - https://arxiv.org/abs/2607.14102
-- **Latent Communication Between Language Model Agents: Channels, Alignment, and the Limits of Text**
-  - https://arxiv.org/abs/2607.14103
