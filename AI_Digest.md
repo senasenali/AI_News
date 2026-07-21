@@ -1,7 +1,9 @@
-# 🤖 AI Digest — 2026-07-20
+# 🤖 AI Digest — 2026-07-21
 
 ## OpenAI
 
+- **Safety and alignment in an era of long-horizon models**
+  - https://openai.com/index/safety-alignment-long-horizon-models
 - **A scorecard for the AI age**
   - https://openai.com/index/a-scorecard-for-the-ai-age
 - **Why teens deserve access to safe AI**
@@ -10,13 +12,11 @@
   - https://openai.com/index/cars24
 - **The US is advancing AI safety through state and federal action**
   - https://openai.com/index/advancing-ai-safety-through-state-and-federal-action
-- **GPT-Red: Unlocking Self-Improvement for Robustness**
-  - https://openai.com/index/unlocking-self-improvement-gpt-red
 
 ## Hugging Face
 
-- **Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers**
-  - https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel
+- **Introducing Cosmos 3 Edge**
+  - https://huggingface.co/blog/nvidia/cosmos3edge
 - **Newer Models, Same Advantage**
   - https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages
 - **Security incident disclosure — July 2026**
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis**
-  - https://arxiv.org/abs/2607.15280
-- **Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction**
-  - https://arxiv.org/abs/2607.15281
-- **Cura 1T: Specialized Model for Agentic Healthcare**
-  - https://arxiv.org/abs/2607.15314
-- **AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery**
-  - https://arxiv.org/abs/2607.15367
-- **Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning**
-  - https://arxiv.org/abs/2607.15388
+- **Rater State Bias in RLHF Preference Data: An Audit Framework**
+  - https://arxiv.org/abs/2607.16195
+- **Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions**
+  - https://arxiv.org/abs/2607.16196
+- **Some Large Language Models Exhibit Consistent Risk Attitudes**
+  - https://arxiv.org/abs/2607.16197
+- **A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges**
+  - https://arxiv.org/abs/2607.16198
+- **PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection**
+  - https://arxiv.org/abs/2607.16199
 
 ## arXiv CL
 
-- **Large Language Models as Unified Multimodal Learners for Clinical Prediction**
-  - https://arxiv.org/abs/2607.15380
-- **Verbalizable Representations Form a Global Workspace in Language Models**
-  - https://arxiv.org/abs/2607.15495
-- **VarRate: Training-Free Variable-Rate KV Cache Compression for Long-Context LLMs**
-  - https://arxiv.org/abs/2607.15498
-- **EpiNarrate: Agentic Generation of Grounded Narratives from Epidemiological Scenario Projections**
-  - https://arxiv.org/abs/2607.15544
-- **SkillCorpus: Consolidating and Evaluating the Open Skill Ecosystem for Real-World LLM Agents**
-  - https://arxiv.org/abs/2607.15557
+- **Multi-level context Modeling for consistent expert selection in Mixture-of-Experts**
+  - https://arxiv.org/abs/2607.16427
+- **RIMS: Preference Optimization via Smoothed Multi-pair Aggregation for Small-Scale LLM Retrieval-Augmented Generation**
+  - https://arxiv.org/abs/2607.16431
+- **Committed Before Reasoning: Behavioral Reproduction and Preliminary Activation-Level Evidence of Answer Pre-Commitment in an Open-Weight LLM**
+  - https://arxiv.org/abs/2607.16451
+- **Encoding EEG Signals to Examine Human-Like Next-Word Prediction Behaviour in Language Models**
+  - https://arxiv.org/abs/2607.16549
+- **NOWJ@COLIEE 2026: Adaptive Pipelines for Legal Retrieval and Reasoning**
+  - https://arxiv.org/abs/2607.16603
