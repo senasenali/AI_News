@@ -1,53 +1,53 @@
-# 🤖 AI Digest — 2026-07-21
+# 🤖 AI Digest — 2026-07-22
 
 ## OpenAI
 
+- **Introducing the ChatGPT for small business program**
+  - https://openai.com/index/introducing-chatgpt-small-business-program
+- **OpenAI and Hugging Face partner to address security incident during model evaluation**
+  - https://openai.com/index/hugging-face-model-evaluation-security-incident
+- **David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC**
+  - https://openai.com/index/david-velez-robin-vince-join-openai-boards
 - **Safety and alignment in an era of long-horizon models**
   - https://openai.com/index/safety-alignment-long-horizon-models
 - **A scorecard for the AI age**
   - https://openai.com/index/a-scorecard-for-the-ai-age
-- **Why teens deserve access to safe AI**
-  - https://openai.com/index/why-teens-deserve-access-safe-ai
-- **How Cars24 scales conversations and builds faster with OpenAI**
-  - https://openai.com/index/cars24
-- **The US is advancing AI safety through state and federal action**
-  - https://openai.com/index/advancing-ai-safety-through-state-and-federal-action
 
 ## Hugging Face
 
-- **Introducing Cosmos 3 Edge**
-  - https://huggingface.co/blog/nvidia/cosmos3edge
+- **The State of Simulation for Physical AI: An Overview**
+  - https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai
+- **Grabette: an open system to record robot-manipulation data**
+  - https://huggingface.co/blog/grabette
 - **Newer Models, Same Advantage**
   - https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages
 - **Security incident disclosure — July 2026**
   - https://huggingface.co/blog/security-incident-july-2026
 - **What building Shippy taught us about building agents**
   - https://huggingface.co/blog/allenai/shippy-tech-blog
-- **Model Routing Is Simple. Until It Isn’t.**
-  - https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt
 
 ## arXiv AI
 
-- **Rater State Bias in RLHF Preference Data: An Audit Framework**
-  - https://arxiv.org/abs/2607.16195
-- **Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions**
-  - https://arxiv.org/abs/2607.16196
-- **Some Large Language Models Exhibit Consistent Risk Attitudes**
-  - https://arxiv.org/abs/2607.16197
-- **A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges**
-  - https://arxiv.org/abs/2607.16198
-- **PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection**
-  - https://arxiv.org/abs/2607.16199
+- **SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI**
+  - https://arxiv.org/abs/2607.18239
+- **Calibrated Selective Fact-Checking via Evidence Chain Evaluation**
+  - https://arxiv.org/abs/2607.18240
+- **BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data**
+  - https://arxiv.org/abs/2607.18241
+- **AI Tool Discovery at Scale: All You Need is DNS**
+  - https://arxiv.org/abs/2607.18242
+- **From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI**
+  - https://arxiv.org/abs/2607.18243
 
 ## arXiv CL
 
-- **Multi-level context Modeling for consistent expert selection in Mixture-of-Experts**
-  - https://arxiv.org/abs/2607.16427
-- **RIMS: Preference Optimization via Smoothed Multi-pair Aggregation for Small-Scale LLM Retrieval-Augmented Generation**
-  - https://arxiv.org/abs/2607.16431
-- **Committed Before Reasoning: Behavioral Reproduction and Preliminary Activation-Level Evidence of Answer Pre-Commitment in an Open-Weight LLM**
-  - https://arxiv.org/abs/2607.16451
-- **Encoding EEG Signals to Examine Human-Like Next-Word Prediction Behaviour in Language Models**
-  - https://arxiv.org/abs/2607.16549
-- **NOWJ@COLIEE 2026: Adaptive Pipelines for Legal Retrieval and Reasoning**
-  - https://arxiv.org/abs/2607.16603
+- **Decoding EEG Signals to Explore Next-Word Predictability in the Human Brain**
+  - https://arxiv.org/abs/2607.18321
+- **A Classifier That Teaches Itself: Self-Improving, Frozen-gate Training (SIFT) for Dynamic Document Classification**
+  - https://arxiv.org/abs/2607.18358
+- **Convolution for Large Language Models**
+  - https://arxiv.org/abs/2607.18413
+- **Building a European Multilingual Evaluation Dataset: The MMLU Localisation Project within the EMT Network**
+  - https://arxiv.org/abs/2607.18432
+- **Relay-Bench: Evaluating LLMs on Multi-Domain Reasoning Chains**
+  - https://arxiv.org/abs/2607.18438
