@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-07-22
+# 🤖 AI Digest — 2026-07-23
 
 ## OpenAI
 
-- **Introducing the ChatGPT for small business program**
-  - https://openai.com/index/introducing-chatgpt-small-business-program
-- **OpenAI and Hugging Face partner to address security incident during model evaluation**
-  - https://openai.com/index/hugging-face-model-evaluation-security-incident
-- **David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC**
-  - https://openai.com/index/david-velez-robin-vince-join-openai-boards
-- **Safety and alignment in an era of long-horizon models**
-  - https://openai.com/index/safety-alignment-long-horizon-models
-- **A scorecard for the AI age**
-  - https://openai.com/index/a-scorecard-for-the-ai-age
+- **Building AI infrastructure with the Effingham County community**
+  - https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community
+- **How news organizations are using AI to advance their vital missions**
+  - https://openai.com/index/how-news-organizations-are-using-ai
+- **Advancing the next era of national science**
+  - https://openai.com/index/advancing-the-next-era-of-national-science
+- **Introducing OpenAI Presence**
+  - https://openai.com/index/introducing-openai-presence
+- **NTT DATA Group cuts incident analysis to 30 minutes with Codex**
+  - https://openai.com/index/ntt-data
 
 ## Hugging Face
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI**
-  - https://arxiv.org/abs/2607.18239
-- **Calibrated Selective Fact-Checking via Evidence Chain Evaluation**
-  - https://arxiv.org/abs/2607.18240
-- **BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data**
-  - https://arxiv.org/abs/2607.18241
-- **AI Tool Discovery at Scale: All You Need is DNS**
-  - https://arxiv.org/abs/2607.18242
-- **From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI**
-  - https://arxiv.org/abs/2607.18243
+- **FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads**
+  - https://arxiv.org/abs/2607.19349
+- **Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience**
+  - https://arxiv.org/abs/2607.19350
+- **OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks**
+  - https://arxiv.org/abs/2607.19351
+- **Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX**
+  - https://arxiv.org/abs/2607.19353
+- **FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation**
+  - https://arxiv.org/abs/2607.19354
 
 ## arXiv CL
 
-- **Decoding EEG Signals to Explore Next-Word Predictability in the Human Brain**
-  - https://arxiv.org/abs/2607.18321
-- **A Classifier That Teaches Itself: Self-Improving, Frozen-gate Training (SIFT) for Dynamic Document Classification**
-  - https://arxiv.org/abs/2607.18358
-- **Convolution for Large Language Models**
-  - https://arxiv.org/abs/2607.18413
-- **Building a European Multilingual Evaluation Dataset: The MMLU Localisation Project within the EMT Network**
-  - https://arxiv.org/abs/2607.18432
-- **Relay-Bench: Evaluating LLMs on Multi-Domain Reasoning Chains**
-  - https://arxiv.org/abs/2607.18438
+- **Stateful Guardrails for Multi-Turn LLM Systems: A Conversational Risk Accumulation Framework**
+  - https://arxiv.org/abs/2607.19361
+- **When Reasoning Narrows the Move: Diversity Collapse in LLM Game Play**
+  - https://arxiv.org/abs/2607.19523
+- **On the Computational Complexity of Structural Generalization**
+  - https://arxiv.org/abs/2607.19573
+- **Scaling Laws for Hypernetwork-Based Knowledge Injection in Large Language Models**
+  - https://arxiv.org/abs/2607.19604
+- **Task Competence Is Not Instruction Following: Evaluating Instruction-Conflicting Behavior in Small Language Models**
+  - https://arxiv.org/abs/2607.19608
