@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-07-25
+# 🤖 AI Digest — 2026-07-26
 
 ## OpenAI
 
@@ -28,26 +28,6 @@
 
 ## arXiv AI
 
-- **AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics**
-  - https://arxiv.org/abs/2607.20452
-- **Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts**
-  - https://arxiv.org/abs/2607.20462
-- **ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models**
-  - https://arxiv.org/abs/2607.20463
-- **Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs**
-  - https://arxiv.org/abs/2607.20464
-- **JAXBench: Benchmarking Autonomous TPU Kernel Optimization**
-  - https://arxiv.org/abs/2607.20466
 
 ## arXiv CL
 
-- **What is Good? Extracting and Testing Implicit Theories of Literary Quality from LLM Reasoning Traces**
-  - https://arxiv.org/abs/2607.20425
-- **Knowledge Injection Exists in MoE? Exploring Expert-Aware Contrast Decoding in MoE for Mitigating LLMs'Hallucinations**
-  - https://arxiv.org/abs/2607.20426
-- **Is MoE Routing a Huffman Code? Discovering the Frequency-Diversity Law in Chain-of-Thought**
-  - https://arxiv.org/abs/2607.20427
-- **Human-in-the-Loop Large Language Model Framework for Identification of Cutaneous Immune-Related Adverse Events**
-  - https://arxiv.org/abs/2607.20428
-- **More Is Not More: What Matters for Diversity in LLM Opinions?**
-  - https://arxiv.org/abs/2607.20429
