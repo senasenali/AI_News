@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-07-26
+# 🤖 AI Digest — 2026-07-27
 
 ## OpenAI
 
@@ -31,3 +31,13 @@
 
 ## arXiv CL
 
+- **Adversarial Style Optimization: Enhancing VLM Jailbreaks by GRPO-based Stylistic Triggers Optimization**
+  - https://arxiv.org/abs/2607.21619
+- **A Consensus-Based Framework for Relative Preference Evaluation of Large Language Models**
+  - https://arxiv.org/abs/2607.21632
+- **Evaluation design conditions the expert-vs-auto MeSH gap: a controlled comparison of bag-of-words and BiomedBERT on the Cohen benchmark**
+  - https://arxiv.org/abs/2607.21685
+- **Humanly: A Configurable and Traceable Environment for Human-AI Collaborative Writing**
+  - https://arxiv.org/abs/2607.21758
+- **Probing Latent Colombian Identity Inferences in Qwen2.5-7B with Natural Language Autoencoders**
+  - https://arxiv.org/abs/2607.21774
