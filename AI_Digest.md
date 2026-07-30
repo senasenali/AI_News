@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-07-29
+# 🤖 AI Digest — 2026-07-30
 
 ## OpenAI
 
+- **How enabling two settings tripled our scores on the ARC-AGI-3 benchmark**
+  - https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores
+- **Accelerating scientific discovery with ChatGPT for Academic Researchers**
+  - https://openai.com/index/chatgpt-for-academic-researchers
+- **How GPT-5.6 fuses frontier intelligence with frontier efficiency**
+  - https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency
 - **Scientific computing in the age of agentic AI**
   - https://openai.com/index/scientific-computing-agentic-ai
 - **How AI is expanding what people do at work**
   - https://openai.com/index/how-ai-is-expanding-what-people-do-at-work
-- **Launching Health in ChatGPT**
-  - https://openai.com/index/health-in-chatgpt
-- **Building AI infrastructure with the Effingham County community**
-  - https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community
-- **How news organizations are using AI to advance their vital missions**
-  - https://openai.com/index/how-news-organizations-are-using-ai
 
 ## Hugging Face
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **Concept-based Visual Counterfactual Explanations with Diffusion Models**
-  - https://arxiv.org/abs/2607.22544
-- **SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series**
-  - https://arxiv.org/abs/2607.22548
-- **QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction**
-  - https://arxiv.org/abs/2607.22549
-- **Same Question, Different Answers: Evaluating LLM Reliability Beyond Accuracy**
-  - https://arxiv.org/abs/2607.22554
-- **DeepLens Diagnosis Agent: Agentic Workflow Design Lets a Small Reasoning Model Compete with Frontier LLMs**
-  - https://arxiv.org/abs/2607.22555
+- **Do Models Fake Alignment Without Clear Consequences?**
+  - https://arxiv.org/abs/2607.24758
+- **Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents**
+  - https://arxiv.org/abs/2607.24759
+- **Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels**
+  - https://arxiv.org/abs/2607.24762
+- **CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models**
+  - https://arxiv.org/abs/2607.24763
+- **GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models**
+  - https://arxiv.org/abs/2607.24764
 
 ## arXiv CL
 
-- **Explaining GAND: A Resource on Gender-Ambiguous Natural Data & Contrastive Attribution**
-  - https://arxiv.org/abs/2607.22546
-- **MioFFAn: an Annotation Software for Formula Formalization with LLM Automation Capabilities**
-  - https://arxiv.org/abs/2607.22552
-- **Evaluating the Impact of Reviewer Guideline Design on LLM-Based Automated Peer Review**
-  - https://arxiv.org/abs/2607.22553
-- **Learning When to Reason for Text-to-SQL via SFT and DPO**
-  - https://arxiv.org/abs/2607.22622
-- **Between Suppression and Collapse: Evaluating Narrative Unlearning with LENS**
-  - https://arxiv.org/abs/2607.22657
+- **TimeCapsule: Generative Hallucination as a Method for Historical Sensemaking**
+  - https://arxiv.org/abs/2607.24750
+- **Measuring and Improving Behavioral Consistency in Large Language Models through Fact-Heuristic-Emotion State Enforcement**
+  - https://arxiv.org/abs/2607.24765
+- **Neuromorphic Diffusion Language Models: Addressing Compute and Memory Bottlenecks via Sparsity and Block Denoising**
+  - https://arxiv.org/abs/2607.24841
+- **Research Report on Noise-Shaped One-Bit Coefficients in Discrete Polynomial Fourier Extension**
+  - https://arxiv.org/abs/2607.24868
+- **CogArena: A Multimethod Evaluation of Cognitive Ability Structure in Large Language Models**
+  - https://arxiv.org/abs/2607.24999
