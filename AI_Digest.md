@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-08-02
+# 🤖 AI Digest — 2026-08-03
 
 ## OpenAI
 
@@ -28,6 +28,26 @@
 
 ## arXiv AI
 
+- **OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems**
+  - https://arxiv.org/abs/2607.28629
+- **Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review**
+  - https://arxiv.org/abs/2607.28631
+- **LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis**
+  - https://arxiv.org/abs/2607.28632
+- **ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning**
+  - https://arxiv.org/abs/2607.28642
+- **TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter**
+  - https://arxiv.org/abs/2607.28657
 
 ## arXiv CL
 
+- **Can LLMs Really Understand Item Difficulty Levels? Implications for Automated Item Generation Using LLMs**
+  - https://arxiv.org/abs/2607.28634
+- **Imbalanced Data Clustering via Targeted Data Augmentation Using GMM and LLM**
+  - https://arxiv.org/abs/2607.28635
+- **Chain-of-Models: Cross-Model Auditing for Bias-Robust LLM Judges**
+  - https://arxiv.org/abs/2607.28636
+- **ZeroR@CHiPSAL 2026: Two-Stage Vision-Language Adaptation with Contrastive Learning for Nepali Meme Classification**
+  - https://arxiv.org/abs/2607.28637
+- **Learning Stateful Predictive Knowledge From Experience**
+  - https://arxiv.org/abs/2607.28638
