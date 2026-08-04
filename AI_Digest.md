@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-08-03
+# 🤖 AI Digest — 2026-08-04
 
 ## OpenAI
 
+- **How we built a realtime system for responsive voice AI in six months**
+  - https://openai.com/index/continuous-voice-interaction-with-gpt-live
+- **Circles powers telco personalization with OpenAI technology**
+  - https://openai.com/index/circles
 - **Ten advances in mathematics and theoretical computer science**
   - https://openai.com/index/ten-advances-in-mathematics
 - **Advancing responsible AI across Europe**
   - https://openai.com/index/advancing-responsible-ai-across-europe
 - **Building abundant intelligence**
   - https://openai.com/index/building-abundant-intelligence
-- **Univé builds an AI-ready workforce**
-  - https://openai.com/index/unive
-- **Disrupting a Criminal Scam Operation**
-  - https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation
 
 ## Hugging Face
 
@@ -41,13 +41,13 @@
 
 ## arXiv CL
 
-- **Can LLMs Really Understand Item Difficulty Levels? Implications for Automated Item Generation Using LLMs**
-  - https://arxiv.org/abs/2607.28634
-- **Imbalanced Data Clustering via Targeted Data Augmentation Using GMM and LLM**
-  - https://arxiv.org/abs/2607.28635
-- **Chain-of-Models: Cross-Model Auditing for Bias-Robust LLM Judges**
-  - https://arxiv.org/abs/2607.28636
-- **ZeroR@CHiPSAL 2026: Two-Stage Vision-Language Adaptation with Contrastive Learning for Nepali Meme Classification**
-  - https://arxiv.org/abs/2607.28637
-- **Learning Stateful Predictive Knowledge From Experience**
-  - https://arxiv.org/abs/2607.28638
+- **Cost-Effective Automated Judging of Natural-Language Mathematical Proofs**
+  - https://arxiv.org/abs/2608.00004
+- **RubricReviewer: From Direct Critique to Objective and Comprehensive Rubric-Driven Peer Review**
+  - https://arxiv.org/abs/2608.00005
+- **MemoryForge: Synthesize Lifelong Memory for Human-Like LLM Agents**
+  - https://arxiv.org/abs/2608.00007
+- **AgentMemBench: A Systematic Benchmark for Evaluating Long-Term Memory Management Strategies in Conversational AI Agents**
+  - https://arxiv.org/abs/2608.00009
+- **DLLM-TTS: Block Discrete Diffusion Language Model for Text-to-Speech Synthesis**
+  - https://arxiv.org/abs/2608.00011
