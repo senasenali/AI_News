@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-08-05
+# 🤖 AI Digest — 2026-08-06
 
 ## OpenAI
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems**
-  - https://arxiv.org/abs/2607.28629
-- **Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review**
-  - https://arxiv.org/abs/2607.28631
-- **LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis**
-  - https://arxiv.org/abs/2607.28632
-- **ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning**
-  - https://arxiv.org/abs/2607.28642
-- **TAPR: Enhancing LLM Performance with a Task-Aware Prompt Rewriter**
-  - https://arxiv.org/abs/2607.28657
+- **A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)**
+  - https://arxiv.org/abs/2608.04012
+- **The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents**
+  - https://arxiv.org/abs/2608.04066
+- **Monte Carlo Tree Search for Table-to-Multimodal Report Generation**
+  - https://arxiv.org/abs/2608.04071
+- **FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables**
+  - https://arxiv.org/abs/2608.04077
+- **FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents**
+  - https://arxiv.org/abs/2608.04095
 
 ## arXiv CL
 
-- **Cost-Effective Automated Judging of Natural-Language Mathematical Proofs**
-  - https://arxiv.org/abs/2608.00004
-- **RubricReviewer: From Direct Critique to Objective and Comprehensive Rubric-Driven Peer Review**
-  - https://arxiv.org/abs/2608.00005
-- **MemoryForge: Synthesize Lifelong Memory for Human-Like LLM Agents**
-  - https://arxiv.org/abs/2608.00007
-- **AgentMemBench: A Systematic Benchmark for Evaluating Long-Term Memory Management Strategies in Conversational AI Agents**
-  - https://arxiv.org/abs/2608.00009
-- **DLLM-TTS: Block Discrete Diffusion Language Model for Text-to-Speech Synthesis**
-  - https://arxiv.org/abs/2608.00011
+- **Transfer Learning for Named Entity Recognition of Classical Latin through LLM Prompting**
+  - https://arxiv.org/abs/2608.04015
+- **When More Becomes Less: Position-Dependent Repetition Effects in Language Models**
+  - https://arxiv.org/abs/2608.04021
+- **Reconstructing Persistent Worlds from Narratives for Narrative-Grounded Interactive Experiences**
+  - https://arxiv.org/abs/2608.04037
+- **Learning Sexism Detection Using Multi-Agent Perspectivist Preference Optimization**
+  - https://arxiv.org/abs/2608.04056
+- **Mind the Cap: Output-Budget Regimes Change the Measured Multilingual Reasoning Gap**
+  - https://arxiv.org/abs/2608.04160
