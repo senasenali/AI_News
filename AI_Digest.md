@@ -1,20 +1,22 @@
-# 🤖 AI Digest — 2026-08-06
+# 🤖 AI Digest — 2026-08-07
 
 ## OpenAI
 
+- **Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users**
+  - https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt
+- **Working with the American Psychological Association on youth mental health and AI**
+  - https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai
+- **From asking to doing: How the world is putting ChatGPT to work**
+  - https://openai.com/index/how-the-world-is-putting-chatgpt-to-work
 - **Third-party cyber evaluations involving OpenAI models**
   - https://openai.com/index/third-party-cyber-evaluations-involving-openai-models
 - **New ways to learn and teach with ChatGPT Work and Codex**
   - https://openai.com/index/learn-teach-chatgpt-work-codex
-- **Apple is getting this wrong**
-  - https://openai.com/index/apple-is-getting-this-wrong
-- **How we built a realtime system for responsive voice AI in six months**
-  - https://openai.com/index/continuous-voice-interaction-with-gpt-live
-- **Circles powers telco personalization with OpenAI technology**
-  - https://openai.com/index/circles
 
 ## Hugging Face
 
+- **Baseten on Hugging Face Inference Providers 🔥**
+  - https://huggingface.co/blog/baseten
 - **Deploy local agents everywhere with LFM2.5-2.6B**
   - https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b
 - **GPU Management: Why Idle GPUs Are the New Grounded Aircraft**
@@ -23,8 +25,6 @@
   - https://huggingface.co/blog/allenai/olmoearth-infrastructure
 - **NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics**
   - https://huggingface.co/blog/nvidia/cosmos-h-dreams
-- **Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident**
-  - https://huggingface.co/blog/agent-intrusion-technical-timeline
 
 ## arXiv AI
 
