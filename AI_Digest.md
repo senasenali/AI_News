@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-08-08
+# 🤖 AI Digest — 2026-08-09
 
 ## OpenAI
 
@@ -28,16 +28,6 @@
 
 ## arXiv AI
 
-- **Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services**
-  - https://arxiv.org/abs/2608.05159
-- **The Ignition Index: Measuring Global Workspace Dynamics in Language Models**
-  - https://arxiv.org/abs/2608.05160
-- **Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models**
-  - https://arxiv.org/abs/2608.05168
-- **From Continuous Predictors to Clinical Thresholds: Early Evidence on Performance Trade-offs of Guideline-Based Categorisation for Ischaemic Stroke Outcome Prediction**
-  - https://arxiv.org/abs/2608.05203
-- **SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse**
-  - https://arxiv.org/abs/2608.05204
 
 ## arXiv CL
 
