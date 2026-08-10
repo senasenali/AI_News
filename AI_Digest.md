@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-08-09
+# 🤖 AI Digest — 2026-08-10
 
 ## OpenAI
 
@@ -31,13 +31,3 @@
 
 ## arXiv CL
 
-- **Simulator-Grounded Large Language Models for Industrial Causal Reasoning: Tool-Use, Structured Injection, and Plant-Portable Retrieval for Wastewater Treatment Decision Support**
-  - https://arxiv.org/abs/2608.05151
-- **Mean-Field Dynamics of Chain-of-Thought Reasoning in Large Language Models**
-  - https://arxiv.org/abs/2608.05152
-- **Universal Pathologies, Conditional Consequences: A Triple-Robustness Analysis of RAG for Multi-Hop Traceability**
-  - https://arxiv.org/abs/2608.05153
-- **RIG-RoPE: Relation- and Instance-Gated Rotary Positional Encoding with Duration-Aware Temporal Coordinates**
-  - https://arxiv.org/abs/2608.05154
-- **Beyond Sentiment: Comparing Traditional NLP and LLM-Based Multi-Dimensional Analysis for Political News Evaluation**
-  - https://arxiv.org/abs/2608.05155
