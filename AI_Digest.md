@@ -1,53 +1,53 @@
-# 🤖 AI Digest — 2026-08-13
+# 🤖 AI Digest — 2026-08-14
 
 ## OpenAI
 
+- **The builder’s guide to GPT‑5.6**
+  - https://openai.com/index/builders-guide-to-gpt-5-6
+- **Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed**
+  - https://openai.com/index/previewing-ultrafast
+- **OpenAI appoints Dali Rajic as Chief Revenue Officer**
+  - https://openai.com/index/dali-rajic-chief-revenue-officer
 - **From assistance to execution: How enterprises put AI to work**
   - https://openai.com/index/how-enterprises-put-ai-to-work
 - **How RingCentral builds AI-native work from engineering to ops**
   - https://openai.com/index/ringcentral
-- **Testing ads in ChatGPT**
-  - https://openai.com/index/testing-ads-in-chatgpt
-- **Daybreak models are now available on AWS**
-  - https://openai.com/index/daybreak-models-are-now-available-on-aws
-- **OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas**
-  - https://openai.com/index/responsible-ai-infrastructure-texas
 
 ## Hugging Face
 
+- **Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets**
+  - https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop
+- **What We Learned by Reproducing 2,200 papers from ICML**
+  - https://huggingface.co/blog/icml-2026-open-reproductions
 - **Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis**
   - https://huggingface.co/blog/allenai/olmoearth-embeddings
 - **LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge**
   - https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b
 - **Thinking of ACE? We Can Do It with Fewer Tokens**
   - https://huggingface.co/blog/ibm-research/altk-evolve-sldd
-- **Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS**
-  - https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents
-- **Making Knowledge Distillation Cheap Enough to Run at Scale**
-  - https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation
 
 ## arXiv AI
 
-- **Closed-Loop LLM Co-Pilots for Digital Agriculture**
-  - https://arxiv.org/abs/2608.09949
-- **SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning**
-  - https://arxiv.org/abs/2608.09967
-- **MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis**
-  - https://arxiv.org/abs/2608.09986
-- **Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint**
-  - https://arxiv.org/abs/2608.09998
-- **ReCBM: Uncertainty-Gated Relational Reasoning for Concept Bottleneck Models**
-  - https://arxiv.org/abs/2608.10004
+- **Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes**
+  - https://arxiv.org/abs/2608.11207
+- **Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration**
+  - https://arxiv.org/abs/2608.11210
+- **A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph**
+  - https://arxiv.org/abs/2608.11211
+- **Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts**
+  - https://arxiv.org/abs/2608.11212
+- **Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop**
+  - https://arxiv.org/abs/2608.11215
 
 ## arXiv CL
 
-- **LLM Agents Factory: Retrieval of Domain-Specific LLM Agents**
-  - https://arxiv.org/abs/2608.09934
-- **Conflict or Strategy? Asymmetric Role Framing of La France insoumise and Rassemblement National in French News Headlines, 2022-2025**
-  - https://arxiv.org/abs/2608.09936
-- **Carefully Considering Culture: Analyzing LLM Alignment in Single- and Multi-Cultural Settings using Cultural Consensus Theory**
-  - https://arxiv.org/abs/2608.09937
-- **The Multilingual Quantization Tax: Structural Collapse and Typological Fragility in Edge SLMs**
-  - https://arxiv.org/abs/2608.09941
-- **When Chain-of-Thought Helps and When It Hurts: An Empirical Investigation of the Serial-Depth Bottleneck in LLM Reasoning**
-  - https://arxiv.org/abs/2608.09942
+- **Backtrader-Bench: Benchmarking LLM Agents on Algorithmic Trading with Self-Generated MCQs**
+  - https://arxiv.org/abs/2608.11232
+- **Retrofitting Recurrent Depth into a Pretrained Language Model: Installation, Extrapolation, Transfer, and Retention at Two Parameter Budgets**
+  - https://arxiv.org/abs/2608.11233
+- **TRACE Bench: Task-driven Roleplay Agentic Checklist Evaluation**
+  - https://arxiv.org/abs/2608.11236
+- **Lost in Compaction: Evaluating Side-Constraint Loss under Context Compaction**
+  - https://arxiv.org/abs/2608.11242
+- **Diffuse to Compress: Leveraging Diffusion LMs for Lossless Compression**
+  - https://arxiv.org/abs/2608.11249
