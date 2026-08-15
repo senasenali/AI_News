@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-08-14
+# 🤖 AI Digest — 2026-08-15
 
 ## OpenAI
 
@@ -15,6 +15,8 @@
 
 ## Hugging Face
 
+- **State of Open Models: Summer 2026 Observations**
+  - https://huggingface.co/blog/state-of-open-models-summer-2026
 - **Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets**
   - https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop
 - **What We Learned by Reproducing 2,200 papers from ICML**
@@ -23,31 +25,29 @@
   - https://huggingface.co/blog/allenai/olmoearth-embeddings
 - **LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge**
   - https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b
-- **Thinking of ACE? We Can Do It with Fewer Tokens**
-  - https://huggingface.co/blog/ibm-research/altk-evolve-sldd
 
 ## arXiv AI
 
-- **Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes**
-  - https://arxiv.org/abs/2608.11207
-- **Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration**
-  - https://arxiv.org/abs/2608.11210
-- **A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph**
-  - https://arxiv.org/abs/2608.11211
-- **Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts**
-  - https://arxiv.org/abs/2608.11212
-- **Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop**
-  - https://arxiv.org/abs/2608.11215
+- **Position: Reasoning is a Learnable Rule-Based Process**
+  - https://arxiv.org/abs/2608.12325
+- **Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists**
+  - https://arxiv.org/abs/2608.12345
+- **Position: The Alignment Community is Unintentionally Building a Censor's Toolkit**
+  - https://arxiv.org/abs/2608.12346
+- **Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments**
+  - https://arxiv.org/abs/2608.12368
+- **Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing**
+  - https://arxiv.org/abs/2608.12371
 
 ## arXiv CL
 
-- **Backtrader-Bench: Benchmarking LLM Agents on Algorithmic Trading with Self-Generated MCQs**
-  - https://arxiv.org/abs/2608.11232
-- **Retrofitting Recurrent Depth into a Pretrained Language Model: Installation, Extrapolation, Transfer, and Retention at Two Parameter Budgets**
-  - https://arxiv.org/abs/2608.11233
-- **TRACE Bench: Task-driven Roleplay Agentic Checklist Evaluation**
-  - https://arxiv.org/abs/2608.11236
-- **Lost in Compaction: Evaluating Side-Constraint Loss under Context Compaction**
-  - https://arxiv.org/abs/2608.11242
-- **Diffuse to Compress: Leveraging Diffusion LMs for Lossless Compression**
-  - https://arxiv.org/abs/2608.11249
+- **LLMs Know the Constraint But Do Not Use It: Activation Bottlenecks in Pragmatic Constraint Reasoning**
+  - https://arxiv.org/abs/2608.12321
+- **What Drives LLM Self-Reflection? A Controlled Ablation of Uncertainty Routing in Armed Conflict Forecasting**
+  - https://arxiv.org/abs/2608.12322
+- **Why Do AI Agents Break Rules? How Framing, Context, and Social Signals Shape Compliance**
+  - https://arxiv.org/abs/2608.12323
+- **On Measuring Semantic Preservation in Legal Ontology Learning**
+  - https://arxiv.org/abs/2608.12326
+- **Comparative Analysis of Multilingual Pre-trained Models for Nepali Automatic Speech Recognition**
+  - https://arxiv.org/abs/2608.12327
