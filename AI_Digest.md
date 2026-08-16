@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-08-15
+# 🤖 AI Digest — 2026-08-16
 
 ## OpenAI
 
@@ -41,13 +41,3 @@
 
 ## arXiv CL
 
-- **LLMs Know the Constraint But Do Not Use It: Activation Bottlenecks in Pragmatic Constraint Reasoning**
-  - https://arxiv.org/abs/2608.12321
-- **What Drives LLM Self-Reflection? A Controlled Ablation of Uncertainty Routing in Armed Conflict Forecasting**
-  - https://arxiv.org/abs/2608.12322
-- **Why Do AI Agents Break Rules? How Framing, Context, and Social Signals Shape Compliance**
-  - https://arxiv.org/abs/2608.12323
-- **On Measuring Semantic Preservation in Legal Ontology Learning**
-  - https://arxiv.org/abs/2608.12326
-- **Comparative Analysis of Multilingual Pre-trained Models for Nepali Automatic Speech Recognition**
-  - https://arxiv.org/abs/2608.12327
