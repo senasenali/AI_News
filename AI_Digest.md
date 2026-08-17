@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-08-16
+# 🤖 AI Digest — 2026-08-17
 
 ## OpenAI
 
@@ -28,16 +28,6 @@
 
 ## arXiv AI
 
-- **Position: Reasoning is a Learnable Rule-Based Process**
-  - https://arxiv.org/abs/2608.12325
-- **Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists**
-  - https://arxiv.org/abs/2608.12345
-- **Position: The Alignment Community is Unintentionally Building a Censor's Toolkit**
-  - https://arxiv.org/abs/2608.12346
-- **Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments**
-  - https://arxiv.org/abs/2608.12368
-- **Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing**
-  - https://arxiv.org/abs/2608.12371
 
 ## arXiv CL
 
