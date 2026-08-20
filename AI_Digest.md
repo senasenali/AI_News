@@ -1,20 +1,22 @@
-# 🤖 AI Digest — 2026-08-19
+# 🤖 AI Digest — 2026-08-20
 
 ## OpenAI
 
+- **Offering Zero Data Retention for frontier models**
+  - https://openai.com/index/offering-zero-data-retention-for-frontier-models
+- **Replit expands access to software creation with GPT-5.6 Luna**
+  - https://openai.com/index/replit
+- **ChatGPT Ads expands across Europe**
+  - https://openai.com/index/chatgpt-ads-expands-across-europe
 - **Strengthening democratic oversight in national security**
   - https://openai.com/index/strengthening-democratic-oversight-in-national-security
 - **Partnering with CodeAI to prepare the first AI generation**
   - https://openai.com/index/partnering-with-codeai
-- **Pacing model development in an era of cyber-critical capabilities**
-  - https://openai.com/index/pacing-model-development-cyber-capabilities
-- **Introducing ChatGPT for Teens: Built for learning, backed by protections**
-  - https://openai.com/index/chatgpt-for-teens
-- **How NVIDIA scales expertise with ChatGPT Work**
-  - https://openai.com/index/nvidia/chatgpt-work
 
 ## Hugging Face
 
+- **LFM2.5 Q4\_0 Checkpoints from Quantization-Aware Distillation**
+  - https://huggingface.co/blog/LiquidAI/qad
 - **How Much Memory Does Your Agent Actually Need?**
   - https://huggingface.co/blog/ibm-research/altk-evolve-hmm
 - **Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers**
@@ -23,31 +25,29 @@
   - https://huggingface.co/blog/Dharma-AI/gpu-management-pt2
 - **State of Open Models: Summer 2026 Observations**
   - https://huggingface.co/blog/state-of-open-models-summer-2026
-- **Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets**
-  - https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop
 
 ## arXiv AI
 
-- **FLOPs vs Real Work: The Importance of Replication in AI Efficiency Assessment**
-  - https://arxiv.org/abs/2608.14550
-- **Large Language Models Show Metacognitive Sensitivity in Medical Reasoning**
-  - https://arxiv.org/abs/2608.14552
-- **The Unwritten Benchmark: A New Challenge for Multimodal Machine Learning in Abstract Perceptual Reasoning**
-  - https://arxiv.org/abs/2608.14558
-- **When to Communicate: Belief Distributions and KL Divergence for Principled Gating in Multi-Agent RL**
-  - https://arxiv.org/abs/2608.14559
-- **Global AI Regulations for FAIR and Ethics in High-Risk Use Cases: A Comparative Review**
-  - https://arxiv.org/abs/2608.14562
+- **GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents**
+  - https://arxiv.org/abs/2608.16890
+- **Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution**
+  - https://arxiv.org/abs/2608.16891
+- **The Price of Thinking: Reasoning Effort as a Model-Specific API Contract**
+  - https://arxiv.org/abs/2608.16956
+- **FedPref: Federated Preference Learning for Structured Radiology Report Extraction**
+  - https://arxiv.org/abs/2608.16971
+- **The Problem Is the Problem: Towards Scalable Mathematical Discovery**
+  - https://arxiv.org/abs/2608.16977
 
 ## arXiv CL
 
-- **Auxiliary uncertainty signals for LLM-assisted systematic review screening: a benchmark across eight Cohen drug-class reviews**
-  - https://arxiv.org/abs/2608.14551
-- **HarmProfile: Characterizing Harmful Distributions in Frontier LLMs**
-  - https://arxiv.org/abs/2608.14577
-- **Multi-Modal Generative Fuzzy System: Fuzzy Inference Guided Large Model Interactive Question Answering Framework**
-  - https://arxiv.org/abs/2608.14584
-- **Wiola 13M, a Gated Spiral Attention Architecture for Parameter Efficient Small Language Models**
-  - https://arxiv.org/abs/2608.14604
-- **AutoMem: A Text-Gradient Recursive Self-Improvement Framework for Automated Memory Architectures Search**
-  - https://arxiv.org/abs/2608.14621
+- **Margin-Regularized Structured Semantic Alignment for Brain-Language Correspondence**
+  - https://arxiv.org/abs/2608.16975
+- **Cross-Model Memory Transfer via Target-Side Reader Adaptation**
+  - https://arxiv.org/abs/2608.17050
+- **Institution-Specific LLM Prompting Recovers PHI That De-identification Systems and Their Gold Standards Both Miss**
+  - https://arxiv.org/abs/2608.17051
+- **Foundation Agents Meet Agentic Deep Research: Evidence-Grounded Clinical Code Forecasting**
+  - https://arxiv.org/abs/2608.17075
+- **Uncertainty-Aware Decision Making in Multimodal Large Language Models**
+  - https://arxiv.org/abs/2608.17084
