@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-08-21
+# 🤖 AI Digest — 2026-08-22
 
 ## OpenAI
 
@@ -15,6 +15,8 @@
 
 ## Hugging Face
 
+- **Measuring benchmark optimization in speech recognition**
+  - https://huggingface.co/blog/asr-benchmark-optimization
 - **Up to 3.2x Faster Inference with LFM2.5-DSpark**
   - https://huggingface.co/blog/LiquidAI/lfm25-dspark
 - **How Much Memory Does Your Agent Actually Need?**
@@ -23,31 +25,29 @@
   - https://huggingface.co/blog/multi-vector-encoder
 - **Same Cluster, 33 Points More Utilization: What Changed Was the Order**
   - https://huggingface.co/blog/Dharma-AI/gpu-management-pt2
-- **State of Open Models: Summer 2026 Observations**
-  - https://huggingface.co/blog/state-of-open-models-summer-2026
 
 ## arXiv AI
 
-- **Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions**
-  - https://arxiv.org/abs/2608.18078
-- **Position: Profiling Game Worlds by Transition Complexity**
-  - https://arxiv.org/abs/2608.18079
-- **Large Language Models in Mental Health: A Systematic Review of Applications, Innovations, and Ethical Challenges**
-  - https://arxiv.org/abs/2608.18080
-- **Position: Behavioral Systems Require Behavioral Tests**
-  - https://arxiv.org/abs/2608.18081
-- **Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models**
-  - https://arxiv.org/abs/2608.18086
+- **Active Inference as Context Acquisition for AI Agents**
+  - https://arxiv.org/abs/2608.19202
+- **Robust Metaheuristics under Uncertainty for Berth Allocation and Quay Crane Assignment: A Review**
+  - https://arxiv.org/abs/2608.19214
+- **How to Navigate Uncertainty About AI Consciousness**
+  - https://arxiv.org/abs/2608.19215
+- **Bounded Sovereignty and the Control Tax: Pricing AI Oversight When the Deployer Does Not Own the Model**
+  - https://arxiv.org/abs/2608.19216
+- **Interaction valence reveals contrasting social networks in dairy cattle**
+  - https://arxiv.org/abs/2608.19222
 
 ## arXiv CL
 
-- **LongNovel: A Multi-Scale Benchmark for Hallucination Detection in Long-Context Novel Summarization**
-  - https://arxiv.org/abs/2608.18082
-- **Entity tracking emerges in sub-billion parameter language models and exceeds human performance in naturalistic narratives**
-  - https://arxiv.org/abs/2608.18083
-- **Compiler-Guided Adaptive Proof Search with Cross-Model Synergy on Context-Dependent Theorem Proving**
-  - https://arxiv.org/abs/2608.18084
-- **Persona-Guided LLM Agents for Task-Oriented Dialogue**
-  - https://arxiv.org/abs/2608.18085
-- **SuTRA : Structurally-Unified Tokenization with Root Awareness**
-  - https://arxiv.org/abs/2608.18087
+- **A Virtual Member of a Community of Practice for the Society of Petroleum Engineers: From Prototype to Deployment**
+  - https://arxiv.org/abs/2608.19199
+- **Transformer Models for Text Summarization: A Comparative Study of BART, BERT, and RoBERTa**
+  - https://arxiv.org/abs/2608.19200
+- **Automatic bioinformatic software named entity recognition from literature**
+  - https://arxiv.org/abs/2608.19201
+- **Asymmetric Attention Heads: Structured Head-Wise Context Allocation for Transformer Attention**
+  - https://arxiv.org/abs/2608.19203
+- **Hallucination as a Feature, not a Defect: Evaluating a multi-agent architecture to transform speculative language-model outputs into testable scientific hypotheses**
+  - https://arxiv.org/abs/2608.19206
