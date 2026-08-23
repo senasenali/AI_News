@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-08-22
+# 🤖 AI Digest — 2026-08-23
 
 ## OpenAI
 
@@ -28,26 +28,6 @@
 
 ## arXiv AI
 
-- **Active Inference as Context Acquisition for AI Agents**
-  - https://arxiv.org/abs/2608.19202
-- **Robust Metaheuristics under Uncertainty for Berth Allocation and Quay Crane Assignment: A Review**
-  - https://arxiv.org/abs/2608.19214
-- **How to Navigate Uncertainty About AI Consciousness**
-  - https://arxiv.org/abs/2608.19215
-- **Bounded Sovereignty and the Control Tax: Pricing AI Oversight When the Deployer Does Not Own the Model**
-  - https://arxiv.org/abs/2608.19216
-- **Interaction valence reveals contrasting social networks in dairy cattle**
-  - https://arxiv.org/abs/2608.19222
 
 ## arXiv CL
 
-- **A Virtual Member of a Community of Practice for the Society of Petroleum Engineers: From Prototype to Deployment**
-  - https://arxiv.org/abs/2608.19199
-- **Transformer Models for Text Summarization: A Comparative Study of BART, BERT, and RoBERTa**
-  - https://arxiv.org/abs/2608.19200
-- **Automatic bioinformatic software named entity recognition from literature**
-  - https://arxiv.org/abs/2608.19201
-- **Asymmetric Attention Heads: Structured Head-Wise Context Allocation for Transformer Attention**
-  - https://arxiv.org/abs/2608.19203
-- **Hallucination as a Feature, not a Defect: Evaluating a multi-agent architecture to transform speculative language-model outputs into testable scientific hypotheses**
-  - https://arxiv.org/abs/2608.19206
