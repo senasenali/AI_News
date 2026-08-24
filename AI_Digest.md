@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-08-23
+# 🤖 AI Digest — 2026-08-24
 
 ## OpenAI
 
