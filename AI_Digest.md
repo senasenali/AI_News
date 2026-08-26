@@ -1,53 +1,53 @@
-# 🤖 AI Digest — 2026-08-25
+# 🤖 AI Digest — 2026-08-26
 
 ## OpenAI
 
+- **The full stack behind abundant intelligence**
+  - https://openai.com/index/the-full-stack-behind-abundant-intelligence
+- **Jalapeño’s first results show industry-leading speed and efficiency in AI inference**
+  - https://openai.com/index/jalapeno-first-results
+- **Disrupting a new covert influence campaign from Russia**
+  - https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia
+- **Introducing the Admin plugin for ChatGPT Work and Codex**
+  - https://openai.com/index/introducing-admin-plugin
 - **Advancing price-performance for developers with GPT‑5.6 in Kiro**
   - https://openai.com/index/gpt-5-6-in-kiro
-- **Introducing AI Futures**
-  - https://openai.com/index/introducing-ai-futures
-- **Stampli cuts launch hours by 68% using ChatGPT Work**
-  - https://openai.com/index/stampli
-- **Offering Zero Data Retention for frontier models**
-  - https://openai.com/index/offering-zero-data-retention-for-frontier-models
-- **Replit expands access to software creation with GPT-5.6 Luna**
-  - https://openai.com/index/replit
 
 ## Hugging Face
 
+- **Granite 4.2 LLMs: How They're Built**
+  - https://huggingface.co/blog/ibm-granite/granite-4-2
+- **Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original**
+  - https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing
+- **Wire It, Run It, Deploy It: AI Workflows in Gradio**
+  - https://huggingface.co/blog/gradio-workflow-guide
+- **How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code**
+  - https://huggingface.co/blog/pwc-search
 - **Measuring benchmark optimization in speech recognition**
   - https://huggingface.co/blog/asr-benchmark-optimization
-- **Up to 3.2x Faster Inference with LFM2.5-DSpark**
-  - https://huggingface.co/blog/LiquidAI/lfm25-dspark
-- **How Much Memory Does Your Agent Actually Need?**
-  - https://huggingface.co/blog/ibm-research/altk-evolve-hmm
-- **Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers**
-  - https://huggingface.co/blog/multi-vector-encoder
-- **Same Cluster, 33 Points More Utilization: What Changed Was the Order**
-  - https://huggingface.co/blog/Dharma-AI/gpu-management-pt2
 
 ## arXiv AI
 
-- **SDAD: Spec-Driven Agentic Development for the AI-Native SDLC**
-  - https://arxiv.org/abs/2608.20341
-- **PrimeAgentOrchestrator: Memory-Primed Agent Spawning for Personal AI Infrastructure**
-  - https://arxiv.org/abs/2608.20342
-- **Truth Lies Deep: Countering Semantic Camouflage via Latent Intent Verification**
-  - https://arxiv.org/abs/2608.20378
-- **A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications**
-  - https://arxiv.org/abs/2608.20379
-- **Interpretable Multimodal Classification with Linear Discriminant Tree Ensembles**
-  - https://arxiv.org/abs/2608.20384
+- **KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference**
+  - https://arxiv.org/abs/2608.21362
+- **AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance**
+  - https://arxiv.org/abs/2608.21363
+- **Reviewing Model Collapse and Countermeasures**
+  - https://arxiv.org/abs/2608.21366
+- **AI Learning and Conceptual Transfer in the Game of Hidden Rules**
+  - https://arxiv.org/abs/2608.21372
+- **LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform**
+  - https://arxiv.org/abs/2608.21374
 
 ## arXiv CL
 
-- **Beyond Raw Transcripts: Structured Persona Extraction for LLM-Based Digital Twins**
-  - https://arxiv.org/abs/2608.20344
-- **When Vocabulary Comprehension Fails Clinical Reasoning: Evaluating Therapy Bots' Safety Risks for Generation Alpha**
-  - https://arxiv.org/abs/2608.20345
-- **Building and Evaluating a Synthetic Bengali Speech Resource for Telecom Customer Care**
-  - https://arxiv.org/abs/2608.20346
-- **Who Do Language Models Think Is Competent? A Mechanistic Analysis of Occupational Bias**
-  - https://arxiv.org/abs/2608.20347
-- **Inhibitory Attention for Clinical Long-Context Reasoning: Characterizing and Mitigating Lost-in-the-Middle Effects in EHR Processing**
-  - https://arxiv.org/abs/2608.20348
+- **Distinguishing Revision and Delayed Elaboration in Incremental Narrative Interpretation**
+  - https://arxiv.org/abs/2608.21364
+- **KSE-Web: An Analysis of Hybrid Retrieval and LLM-Assisted Query Expansion for Low-Resource Khmer Semantic Search**
+  - https://arxiv.org/abs/2608.21365
+- **Wazobia Eval: A Benchmark for Nigerian Pidgin Emotion Understanding, Sarcasm Detection, and Cultural Reasoning**
+  - https://arxiv.org/abs/2608.21369
+- **On the Role of Citations in Preference Data**
+  - https://arxiv.org/abs/2608.21376
+- **Agentic Scaffolding Amplifies Sycophantic Behavior in Large Language Models**
+  - https://arxiv.org/abs/2608.21377
