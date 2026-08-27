@@ -1,20 +1,22 @@
-# 🤖 AI Digest — 2026-08-26
+# 🤖 AI Digest — 2026-08-27
 
 ## OpenAI
 
+- **Bringing ChatGPT for Teachers to more U.S. school districts**
+  - https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts
+- **Learning never stops: How AI makes learning continuous**
+  - https://openai.com/index/learning-never-stops
+- **The Hugging Face incident and the road ahead**
+  - https://openai.com/index/hugging-face-incident-and-the-road-ahead
+- **How loveholidays is making everyone a builder with Codex**
+  - https://openai.com/index/loveholidays
 - **The full stack behind abundant intelligence**
   - https://openai.com/index/the-full-stack-behind-abundant-intelligence
-- **Jalapeño’s first results show industry-leading speed and efficiency in AI inference**
-  - https://openai.com/index/jalapeno-first-results
-- **Disrupting a new covert influence campaign from Russia**
-  - https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia
-- **Introducing the Admin plugin for ChatGPT Work and Codex**
-  - https://openai.com/index/introducing-admin-plugin
-- **Advancing price-performance for developers with GPT‑5.6 in Kiro**
-  - https://openai.com/index/gpt-5-6-in-kiro
 
 ## Hugging Face
 
+- **Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers**
+  - https://huggingface.co/blog/train-multi-vector-encoder
 - **Granite 4.2 LLMs: How They're Built**
   - https://huggingface.co/blog/ibm-granite/granite-4-2
 - **Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original**
@@ -23,31 +25,29 @@
   - https://huggingface.co/blog/gradio-workflow-guide
 - **How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code**
   - https://huggingface.co/blog/pwc-search
-- **Measuring benchmark optimization in speech recognition**
-  - https://huggingface.co/blog/asr-benchmark-optimization
 
 ## arXiv AI
 
-- **KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference**
-  - https://arxiv.org/abs/2608.21362
-- **AIREP: A Protocol for Per-Decision Evidence in AI Runtime Governance**
-  - https://arxiv.org/abs/2608.21363
-- **Reviewing Model Collapse and Countermeasures**
-  - https://arxiv.org/abs/2608.21366
-- **AI Learning and Conceptual Transfer in the Game of Hidden Rules**
-  - https://arxiv.org/abs/2608.21372
-- **LitReview Arena: Evaluating Literature Review Agents with Battle-Style Peer Review Platform**
-  - https://arxiv.org/abs/2608.21374
+- **RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation**
+  - https://arxiv.org/abs/2608.23568
+- **ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence**
+  - https://arxiv.org/abs/2608.23569
+- **LLM Agents Perform Controlled Experiments Using Simulation Models**
+  - https://arxiv.org/abs/2608.23622
+- **A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts**
+  - https://arxiv.org/abs/2608.23626
+- **TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery**
+  - https://arxiv.org/abs/2608.23631
 
 ## arXiv CL
 
-- **Distinguishing Revision and Delayed Elaboration in Incremental Narrative Interpretation**
-  - https://arxiv.org/abs/2608.21364
-- **KSE-Web: An Analysis of Hybrid Retrieval and LLM-Assisted Query Expansion for Low-Resource Khmer Semantic Search**
-  - https://arxiv.org/abs/2608.21365
-- **Wazobia Eval: A Benchmark for Nigerian Pidgin Emotion Understanding, Sarcasm Detection, and Cultural Reasoning**
-  - https://arxiv.org/abs/2608.21369
-- **On the Role of Citations in Preference Data**
-  - https://arxiv.org/abs/2608.21376
-- **Agentic Scaffolding Amplifies Sycophantic Behavior in Large Language Models**
-  - https://arxiv.org/abs/2608.21377
+- **Detection != Reliable Control: Decodable Empathy Directions Yield at Most Partial Shifts in Automated Empathy Scores**
+  - https://arxiv.org/abs/2608.24901
+- **Semantic Variability of Replies Across LLMs: Implications for Designing Conversation-Based Assessment**
+  - https://arxiv.org/abs/2608.24920
+- **The Dialect Tax: Dialectal Biases Persist throughout the Language Modeling Pipeline**
+  - https://arxiv.org/abs/2608.24952
+- **Unsupervised Post-Training of Foundation Models: A Survey**
+  - https://arxiv.org/abs/2608.24982
+- **Does Fine-Tuning Undo Activation Steering? Behavioural Recovery Without Weight-Edit Reversal**
+  - https://arxiv.org/abs/2608.24988
