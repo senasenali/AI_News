@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-08-27
+# 🤖 AI Digest — 2026-08-28
 
 ## OpenAI
 
+- **Supporting Thailand’s next generation of AI startups**
+  - https://openai.com/index/supporting-next-generation-ai-startups-thailand
+- **Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training**
+  - https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training
+- **Expanding OpenAI’s presence in Brazil**
+  - https://openai.com/index/expanding-our-presence-in-brazil
 - **Bringing ChatGPT for Teachers to more U.S. school districts**
   - https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts
 - **Learning never stops: How AI makes learning continuous**
   - https://openai.com/index/learning-never-stops
-- **The Hugging Face incident and the road ahead**
-  - https://openai.com/index/hugging-face-incident-and-the-road-ahead
-- **How loveholidays is making everyone a builder with Codex**
-  - https://openai.com/index/loveholidays
-- **The full stack behind abundant intelligence**
-  - https://openai.com/index/the-full-stack-behind-abundant-intelligence
 
 ## Hugging Face
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation**
-  - https://arxiv.org/abs/2608.23568
-- **ESQ-Bench: A Multi-Tier Enterprise Oracle Benchmark for Evaluating NL2SQL Dialect Generalization and Silent Semantic Divergence**
-  - https://arxiv.org/abs/2608.23569
-- **LLM Agents Perform Controlled Experiments Using Simulation Models**
-  - https://arxiv.org/abs/2608.23622
-- **A survey detection channel overrides the pixels in an astronomical foundation model, and biases tomographic mean redshifts**
-  - https://arxiv.org/abs/2608.23626
-- **TRACE: Transition-Aware Residual Control for Multi-Objective Materials Discovery**
-  - https://arxiv.org/abs/2608.23631
+- **EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction**
+  - https://arxiv.org/abs/2608.26107
+- **Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset**
+  - https://arxiv.org/abs/2608.26109
+- **Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap**
+  - https://arxiv.org/abs/2608.26111
+- **PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices**
+  - https://arxiv.org/abs/2608.26113
+- **CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering**
+  - https://arxiv.org/abs/2608.26114
 
 ## arXiv CL
 
-- **Detection != Reliable Control: Decodable Empathy Directions Yield at Most Partial Shifts in Automated Empathy Scores**
-  - https://arxiv.org/abs/2608.24901
-- **Semantic Variability of Replies Across LLMs: Implications for Designing Conversation-Based Assessment**
-  - https://arxiv.org/abs/2608.24920
-- **The Dialect Tax: Dialectal Biases Persist throughout the Language Modeling Pipeline**
-  - https://arxiv.org/abs/2608.24952
-- **Unsupervised Post-Training of Foundation Models: A Survey**
-  - https://arxiv.org/abs/2608.24982
-- **Does Fine-Tuning Undo Activation Steering? Behavioural Recovery Without Weight-Edit Reversal**
-  - https://arxiv.org/abs/2608.24988
+- **TreeGraft: Adaptive Multi-Drafter Grafting for Tree-Based Speculative Decoding**
+  - https://arxiv.org/abs/2608.26112
+- **ElementCheck: Complexity-Aware Long-Form Text Factuality Evaluation via Sentence Elements**
+  - https://arxiv.org/abs/2608.26118
+- **DeflectBench: A Benchmark for Evaluating Rhetorical Fallacy Generation in LLMs**
+  - https://arxiv.org/abs/2608.26119
+- **Recipes for Steering and Scaling LLMs via Sampling**
+  - https://arxiv.org/abs/2608.26120
+- **Can a Model Catch Its Own Hallucinations for Free?: Label-Free Doubt Signals Hold Their Own Against a Labelled Dataset for Abstention**
+  - https://arxiv.org/abs/2608.26121
