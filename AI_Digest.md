@@ -1,20 +1,22 @@
-# 🤖 AI Digest — 2026-08-28
+# 🤖 AI Digest — 2026-08-29
 
 ## OpenAI
 
+- **Our decision on Cursor following its acquisition by SpaceX**
+  - https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
 - **Supporting Thailand’s next generation of AI startups**
   - https://openai.com/index/supporting-next-generation-ai-startups-thailand
 - **Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training**
   - https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training
 - **Expanding OpenAI’s presence in Brazil**
   - https://openai.com/index/expanding-our-presence-in-brazil
-- **Bringing ChatGPT for Teachers to more U.S. school districts**
-  - https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts
 - **Learning never stops: How AI makes learning continuous**
   - https://openai.com/index/learning-never-stops
 
 ## Hugging Face
 
+- **The Open ASR Leaderboard Adds Its First Global South Language**
+  - https://huggingface.co/blog/open-asr-leaderboard-global-south
 - **Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers**
   - https://huggingface.co/blog/train-multi-vector-encoder
 - **Granite 4.2 LLMs: How They're Built**
@@ -23,8 +25,6 @@
   - https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing
 - **Wire It, Run It, Deploy It: AI Workflows in Gradio**
   - https://huggingface.co/blog/gradio-workflow-guide
-- **How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code**
-  - https://huggingface.co/blog/pwc-search
 
 ## arXiv AI
 
@@ -41,13 +41,3 @@
 
 ## arXiv CL
 
-- **TreeGraft: Adaptive Multi-Drafter Grafting for Tree-Based Speculative Decoding**
-  - https://arxiv.org/abs/2608.26112
-- **ElementCheck: Complexity-Aware Long-Form Text Factuality Evaluation via Sentence Elements**
-  - https://arxiv.org/abs/2608.26118
-- **DeflectBench: A Benchmark for Evaluating Rhetorical Fallacy Generation in LLMs**
-  - https://arxiv.org/abs/2608.26119
-- **Recipes for Steering and Scaling LLMs via Sampling**
-  - https://arxiv.org/abs/2608.26120
-- **Can a Model Catch Its Own Hallucinations for Free?: Label-Free Doubt Signals Hold Their Own Against a Labelled Dataset for Abstention**
-  - https://arxiv.org/abs/2608.26121
