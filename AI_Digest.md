@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-08-29
+# 🤖 AI Digest — 2026-08-30
 
 ## OpenAI
 
@@ -28,16 +28,6 @@
 
 ## arXiv AI
 
-- **EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction**
-  - https://arxiv.org/abs/2608.26107
-- **Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset**
-  - https://arxiv.org/abs/2608.26109
-- **Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap**
-  - https://arxiv.org/abs/2608.26111
-- **PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices**
-  - https://arxiv.org/abs/2608.26113
-- **CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering**
-  - https://arxiv.org/abs/2608.26114
 
 ## arXiv CL
 
