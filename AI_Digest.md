@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-08-30
+# 🤖 AI Digest — 2026-08-31
 
 ## OpenAI
 
@@ -31,3 +31,13 @@
 
 ## arXiv CL
 
+- **Accelerating LLM Inference via Vector Index Based Output Embeddings**
+  - https://arxiv.org/abs/2608.27460
+- **SciReC: Diagnostic Evaluation of Multimodal, Multi-Turn Relational Reasoning with Adaptive Interaction**
+  - https://arxiv.org/abs/2608.27461
+- **Sledgehammer or Scalpel? A Fine-grained Adaptive Framework for Implicit Hate Speech**
+  - https://arxiv.org/abs/2608.27462
+- **The Effect of Emotional Context on Large Language Models' Endorsement of Premature Decisions: Comparing Emotional Vulnerability Across Six Commercial Models**
+  - https://arxiv.org/abs/2608.27465
+- **PACE: Publisher-Adaptive Content Extraction via Agentic Automation**
+  - https://arxiv.org/abs/2608.27466
