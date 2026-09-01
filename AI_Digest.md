@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-08-31
+# 🤖 AI Digest — 2026-09-01
 
 ## OpenAI
 
+- **OpenAI supports California’s bill to advance youth AI safety**
+  - https://openai.com/index/supporting-california-bill-advance-ai-youth-safety
+- **Polimill builds Japan's next-generation public AI infrastructure**
+  - https://openai.com/index/polimill
+- **A milestone in expanding access to AI**
+  - https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads
 - **Our decision on Cursor following its acquisition by SpaceX**
   - https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
 - **Supporting Thailand’s next generation of AI startups**
   - https://openai.com/index/supporting-next-generation-ai-startups-thailand
-- **Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training**
-  - https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training
-- **Expanding OpenAI’s presence in Brazil**
-  - https://openai.com/index/expanding-our-presence-in-brazil
-- **Learning never stops: How AI makes learning continuous**
-  - https://openai.com/index/learning-never-stops
 
 ## Hugging Face
 
@@ -28,16 +28,26 @@
 
 ## arXiv AI
 
+- **DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation**
+  - https://arxiv.org/abs/2608.28590
+- **Expert-validated STEM QA**
+  - https://arxiv.org/abs/2608.28591
+- **A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making**
+  - https://arxiv.org/abs/2608.28592
+- **Statutory AI: Aligning Large Language Models With Legal Norms**
+  - https://arxiv.org/abs/2608.28593
+- **From Question-First to Analyst-First: Domain-Expert Skills and Verified Knowledge Compilation for Proactive Enterprise Analytics**
+  - https://arxiv.org/abs/2608.28594
 
 ## arXiv CL
 
-- **Accelerating LLM Inference via Vector Index Based Output Embeddings**
-  - https://arxiv.org/abs/2608.27460
-- **SciReC: Diagnostic Evaluation of Multimodal, Multi-Turn Relational Reasoning with Adaptive Interaction**
-  - https://arxiv.org/abs/2608.27461
-- **Sledgehammer or Scalpel? A Fine-grained Adaptive Framework for Implicit Hate Speech**
-  - https://arxiv.org/abs/2608.27462
-- **The Effect of Emotional Context on Large Language Models' Endorsement of Premature Decisions: Comparing Emotional Vulnerability Across Six Commercial Models**
-  - https://arxiv.org/abs/2608.27465
-- **PACE: Publisher-Adaptive Content Extraction via Agentic Automation**
-  - https://arxiv.org/abs/2608.27466
+- **NLP-Driven Knowledge Extraction and Thematic Classification of Translated Ancient Indian Medical Texts**
+  - https://arxiv.org/abs/2608.28608
+- **Parametric Multimodal User Memory: Storing What Captions Cannot Carry**
+  - https://arxiv.org/abs/2608.28609
+- **Gurukul AI: An Interactive AI-Driven Educational Platform for Indian Education System**
+  - https://arxiv.org/abs/2608.28611
+- **STAGEET: Stage-wise Typed Edit Tagging for Grammatical Error Correction with Arabic as a Case Study**
+  - https://arxiv.org/abs/2608.28614
+- **From GenAI Virtual Patient Dialogue Logs to Teacher-Interpretable Process Evidence: A Learning Analytics Study in Higher Education**
+  - https://arxiv.org/abs/2608.28619
