@@ -1,53 +1,53 @@
-# 🤖 AI Digest — 2026-09-01
+# 🤖 AI Digest — 2026-09-02
 
 ## OpenAI
 
+- **How AI-native companies turn workflows into operating capability**
+  - https://openai.com/index/ai-native-company-workflows
+- **Path to Astra: critical capabilities and frontier safeguards**
+  - https://openai.com/index/path-to-astra
+- **Healthcare organizations can now connect EHR and additional industry data to ChatGPT**
+  - https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources
+- **How law firm Gilbert + Tobin governs and scales AI with OpenAI**
+  - https://openai.com/index/gilbert-tobin
 - **OpenAI supports California’s bill to advance youth AI safety**
   - https://openai.com/index/supporting-california-bill-advance-ai-youth-safety
-- **Polimill builds Japan's next-generation public AI infrastructure**
-  - https://openai.com/index/polimill
-- **A milestone in expanding access to AI**
-  - https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads
-- **Our decision on Cursor following its acquisition by SpaceX**
-  - https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
-- **Supporting Thailand’s next generation of AI startups**
-  - https://openai.com/index/supporting-next-generation-ai-startups-thailand
 
 ## Hugging Face
 
+- **BenchMIRT: What are LLM benchmarks actually measuring?**
+  - https://huggingface.co/blog/allenai/benchmirt
+- **Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI**
+  - https://huggingface.co/blog/webgpu-kernels
 - **The Open ASR Leaderboard Adds Its First Global South Language**
   - https://huggingface.co/blog/open-asr-leaderboard-global-south
 - **Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers**
   - https://huggingface.co/blog/train-multi-vector-encoder
 - **Granite 4.2 LLMs: How They're Built**
   - https://huggingface.co/blog/ibm-granite/granite-4-2
-- **Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original**
-  - https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing
-- **Wire It, Run It, Deploy It: AI Workflows in Gradio**
-  - https://huggingface.co/blog/gradio-workflow-guide
 
 ## arXiv AI
 
-- **DS-Lighting: Making Agent Harnesses Explicit for Data-Science Automation**
-  - https://arxiv.org/abs/2608.28590
-- **Expert-validated STEM QA**
-  - https://arxiv.org/abs/2608.28591
-- **A collective capability boundary in frontier large language models on guideline-conformant and case-specific oncology decision-making**
-  - https://arxiv.org/abs/2608.28592
-- **Statutory AI: Aligning Large Language Models With Legal Norms**
-  - https://arxiv.org/abs/2608.28593
-- **From Question-First to Analyst-First: Domain-Expert Skills and Verified Knowledge Compilation for Proactive Enterprise Analytics**
-  - https://arxiv.org/abs/2608.28594
+- **HyperWorld: Hypergraph-Structured State Serialization Improves Learned Textual World Models**
+  - https://arxiv.org/abs/2609.00002
+- **I-CARE: Analysis of interference-related phenomena in a controllable, diverse and representative unlearning setting for text-to-image models**
+  - https://arxiv.org/abs/2609.00003
+- **Discrete-Time MDP Modeling for Multi-Item Capacitated Lot Sizing with Stochastic Demand Timing**
+  - https://arxiv.org/abs/2609.00004
+- **Incremental Risk Assessment of Progressive Elder Financial Scams via Instruction-Tuned Small Language Models**
+  - https://arxiv.org/abs/2609.00005
+- **Long-Horizon State Tracking in LLMs: Executing MD5 through a Deep Sequence of Dependent Tool Calls**
+  - https://arxiv.org/abs/2609.00012
 
 ## arXiv CL
 
-- **NLP-Driven Knowledge Extraction and Thematic Classification of Translated Ancient Indian Medical Texts**
-  - https://arxiv.org/abs/2608.28608
-- **Parametric Multimodal User Memory: Storing What Captions Cannot Carry**
-  - https://arxiv.org/abs/2608.28609
-- **Gurukul AI: An Interactive AI-Driven Educational Platform for Indian Education System**
-  - https://arxiv.org/abs/2608.28611
-- **STAGEET: Stage-wise Typed Edit Tagging for Grammatical Error Correction with Arabic as a Case Study**
-  - https://arxiv.org/abs/2608.28614
-- **From GenAI Virtual Patient Dialogue Logs to Teacher-Interpretable Process Evidence: A Learning Analytics Study in Higher Education**
-  - https://arxiv.org/abs/2608.28619
+- **Behaviorally Grounded User Profiles from the Wild for Personalized Alignment and Multi-Perspective Reasoning**
+  - https://arxiv.org/abs/2609.00014
+- **trajectory-judge: What Outcome-Only LLM Judges Miss on Agent Trajectories**
+  - https://arxiv.org/abs/2609.00038
+- **GUI-CC: Benchmarking Contextual Consistency of GUI World Models as Agent Environments**
+  - https://arxiv.org/abs/2609.00048
+- **From Detection to Refusal: Safer LLMs via Circuit-Guided Weight Scaling**
+  - https://arxiv.org/abs/2609.00051
+- **Zero-Shot Respiratory Sound Classification through LLM-Augmented Audio-Text Alignment**
+  - https://arxiv.org/abs/2609.00055
