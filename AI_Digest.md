@@ -1,53 +1,53 @@
-# 🤖 AI Digest — 2026-09-03
+# 🤖 AI Digest — 2026-09-04
 
 ## OpenAI
 
+- **Daybreak for Frontline Defenders: $1B to protect essential services**
+  - https://openai.com/index/daybreak-for-frontline-defenders
+- **Legora reviewed 41 documents in minutes with GPT-6 Astra**
+  - https://openai.com/index/legora-financial-statement-review-with-astra
+- **Playco cut manual fixes 50% prototyping games with GPT-6 Astra**
+  - https://openai.com/index/playco-game-prototyping-with-astra
+- **Safety overview: GPT-6 Astra**
+  - https://openai.com/index/safety-overview-gpt-6-astra
 - **ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT**
   - https://openai.com/index/atv-big-air-tour
-- **How AI-native companies turn workflows into operating capability**
-  - https://openai.com/index/ai-native-company-workflows
-- **Path to Astra: critical capabilities and frontier safeguards**
-  - https://openai.com/index/path-to-astra
-- **Healthcare organizations can now connect EHR and additional industry data to ChatGPT**
-  - https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources
-- **How law firm Gilbert + Tobin governs and scales AI with OpenAI**
-  - https://openai.com/index/gilbert-tobin
 
 ## Hugging Face
 
+- **NeoMME: an efficient Multimodal-native and Multilingual Encoder**
+  - https://huggingface.co/blog/Hcompany/neomme
+- **Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps**
+  - https://huggingface.co/blog/grpo-with-trl-ifstruct
+- **Give Your Coding Agents a Memory You Own**
+  - https://huggingface.co/blog/funes
+- **Training a coding model to paint watercolours with TRL and OpenEnv**
+  - https://huggingface.co/blog/train-to-paint-with-code
 - **Real-Time Intelligence with IBM Time Series Models on Confluent**
   - https://huggingface.co/blog/ibm-research/real-time-intelligence
-- **BenchMIRT: What are LLM benchmarks actually measuring?**
-  - https://huggingface.co/blog/allenai/benchmirt
-- **Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI**
-  - https://huggingface.co/blog/webgpu-kernels
-- **The Open ASR Leaderboard Adds Its First Global South Language**
-  - https://huggingface.co/blog/open-asr-leaderboard-global-south
-- **Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers**
-  - https://huggingface.co/blog/train-multi-vector-encoder
 
 ## arXiv AI
 
-- **EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models**
-  - https://arxiv.org/abs/2609.01611
-- **Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI**
-  - https://arxiv.org/abs/2609.01685
-- **When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic**
-  - https://arxiv.org/abs/2609.01741
-- **When Does Information Sharing Improve Decentralized Discovery? Aggregation, Independent Rescue, and Equilibrium Selection**
-  - https://arxiv.org/abs/2609.01814
-- **Induction and Inquiry via Probabilistic Reasoning over Language and Code**
-  - https://arxiv.org/abs/2609.01815
+- **Structure and Implementation of New Practical English Textbooks Driven by Artificial Intelligence**
+  - https://arxiv.org/abs/2609.02981
+- **MasterControl Seventeen Every Time**
+  - https://arxiv.org/abs/2609.03209
+- **Speculative Macro Commit for Faster Tool-Using Agents**
+  - https://arxiv.org/abs/2609.03236
+- **Fresh Memory, Stale Plans: Dependency-Scoped Validation for Distributed LLM-Agent Memory**
+  - https://arxiv.org/abs/2609.03340
+- **A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant**
+  - https://arxiv.org/abs/2609.03402
 
 ## arXiv CL
 
-- **PRO-Step: Step-level Process Reward Optimization for Retrieval-Augmented Generation**
-  - https://arxiv.org/abs/2609.01658
-- **Learning Evidence Sufficiency Boundaries for Selective Answering in Grounded Multi-Hop QA**
-  - https://arxiv.org/abs/2609.01687
-- **SpeakPay: Domain-Adaptive LoRA Fine-Tuning of Whisper for Low-Resource Nepali Financial Speech Recognition**
-  - https://arxiv.org/abs/2609.01737
-- **MemeCULT-1K: Benchmarking South Asian Cultural Context and Humor Understanding of Multimodal Models**
-  - https://arxiv.org/abs/2609.01772
-- **VakyArth: Evaluating Pragmatic Competence in LLMs across Indic Languages**
-  - https://arxiv.org/abs/2609.01788
+- **Where Does Harness-Optimization Value Live? Localized Gains and the Budget-Splitting Trap in Self-Evolving LLM Agents**
+  - https://arxiv.org/abs/2609.02889
+- **Bounded Personas Match Retrieval on Classification but Not Regression for a Frozen Agent**
+  - https://arxiv.org/abs/2609.02890
+- **Counterexamples as Feedback for Agent Self-Correction**
+  - https://arxiv.org/abs/2609.02892
+- **Probe Generalization as Subspace Selection for OOD Deception Detection**
+  - https://arxiv.org/abs/2609.02893
+- **R$^{2}$Adapter: A Routing and Rewriting Adapter for Efficient Hybrid RAG**
+  - https://arxiv.org/abs/2609.02894
