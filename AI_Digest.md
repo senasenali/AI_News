@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-09-11
+# 🤖 AI Digest — 2026-09-12
 
 ## OpenAI
 
+- **Perplexity trusts GPT-6 Astra with end-to-end systems**
+  - https://openai.com/index/perplexity-improving-accuracy-with-astra
+- **Rapidly scaling online storage to serve over 1 billion ChatGPT users**
+  - https://openai.com/index/scaling-storage-one-billion-users-part-one
+- **Cognition helps Devin test its own work with GPT‑6 Astra**
+  - https://openai.com/index/cognition-devin-testing-with-astra
 - **How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules**
   - https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials
 - **Now everyone can put data to work**
   - https://openai.com/index/put-data-to-work
-- **Introducing ChatGPT for Financial Services**
-  - https://openai.com/index/introducing-chatgpt-financial-services
-- **Expanding AI access and cyber defense for federal, state, local, and tribal governments**
-  - https://openai.com/index/expanding-ai-access-us-government
-- **Introducing the Agents API**
-  - https://openai.com/index/introducing-the-agents-api
 
 ## Hugging Face
 
@@ -28,26 +28,16 @@
 
 ## arXiv AI
 
-- **OpenDiscoveryTrace: Process Traces for Evaluating AI Scientist Workflows**
-  - https://arxiv.org/abs/2609.09203
-- **Adaptive Entangled Game Modules in Artificial General Intelligence**
-  - https://arxiv.org/abs/2609.09226
-- **Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks**
-  - https://arxiv.org/abs/2609.09233
-- **Gradland: On Phenomenal Experience, Differentiated Across Many Dimensions**
-  - https://arxiv.org/abs/2609.09306
-- **An Autonomous GeoAI Agent for Arctic Eco-Navigation**
-  - https://arxiv.org/abs/2609.09374
+- **Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement**
+  - https://arxiv.org/abs/2609.10584
+- **Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language**
+  - https://arxiv.org/abs/2609.10629
+- **A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning**
+  - https://arxiv.org/abs/2609.10654
+- **Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning**
+  - https://arxiv.org/abs/2609.10656
+- **Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking**
+  - https://arxiv.org/abs/2609.10657
 
 ## arXiv CL
 
-- **Data-Efficient Language Modeling: From Frontier Advancement to Principle-Guided Model Improvement**
-  - https://arxiv.org/abs/2609.10702
-- **NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction**
-  - https://arxiv.org/abs/2609.10715
-- **CMNIE: An Information Extraction Benchmark for Chinese Military News**
-  - https://arxiv.org/abs/2609.10722
-- **Think Before You Link: Rarity, Reasoning, and Retrieval in Multilingual Entity Linking**
-  - https://arxiv.org/abs/2609.10745
-- **Multilingual in Name Only? Cultural and Linguistic Weaknesses of LLMs in Urdu**
-  - https://arxiv.org/abs/2609.10758
