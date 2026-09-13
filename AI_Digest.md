@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-09-12
+# 🤖 AI Digest — 2026-09-13
 
 ## OpenAI
 
@@ -28,16 +28,6 @@
 
 ## arXiv AI
 
-- **Probabilistic Focal Search: Accelerating Bounded-Suboptimal Search via Lower-Bound Advancement**
-  - https://arxiv.org/abs/2609.10584
-- **Automating Quadratic Unconstrained Binary Optimization (QUBO) Formulation Generation from Natural Language**
-  - https://arxiv.org/abs/2609.10629
-- **A Multi-Stage Rule-Chaining Framework for Compositional and Interpretable Cognitive Reasoning**
-  - https://arxiv.org/abs/2609.10654
-- **Understanding LoRA Rank Trade-offs in Diffusion Model Fine-Tuning**
-  - https://arxiv.org/abs/2609.10656
-- **Quantifying the Memorization-to-Generalization Transition: Scaling Laws and Phase Structure in Grokking**
-  - https://arxiv.org/abs/2609.10657
 
 ## arXiv CL
 
