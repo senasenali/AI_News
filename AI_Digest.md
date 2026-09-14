@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-09-13
+# 🤖 AI Digest — 2026-09-14
 
 ## OpenAI
 
@@ -31,3 +31,13 @@
 
 ## arXiv CL
 
+- **R2VC: Modular Fact-Checking with Retrieval, Verification, and Confidence Calibration**
+  - https://arxiv.org/abs/2609.11955
+- **What Counts as a Mistake? Annotating Recitation Events in Quran Memorization Transcripts**
+  - https://arxiv.org/abs/2609.12085
+- **Extracting Dataset Mentions in Forced Displacement and FCV Documents: A Weakly Supervised Framework with LLM-Based Label Refinement**
+  - https://arxiv.org/abs/2609.12107
+- **The Cost of Compression: A Rate-Distortion Limit on Factual Hallucination**
+  - https://arxiv.org/abs/2609.12111
+- **Quantifying Consonant Contributions to Word Intelligibility via Acoustic Masking**
+  - https://arxiv.org/abs/2609.12122
