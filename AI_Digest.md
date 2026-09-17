@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-09-16
+# 🤖 AI Digest — 2026-09-17
 
 ## OpenAI
 
-- **How Fyxer built an AI executive assistant people trust**
-  - https://openai.com/index/fyxer
-- **Perplexity trusts GPT-6 Astra with end-to-end systems**
-  - https://openai.com/index/perplexity-improving-accuracy-with-astra
-- **Rapidly scaling online storage to serve over 1 billion ChatGPT users**
-  - https://openai.com/index/scaling-storage-one-billion-users-part-one
-- **Cognition helps Devin test its own work with GPT‑6 Astra**
-  - https://openai.com/index/cognition-devin-testing-with-astra
-- **How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules**
-  - https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials
+- **Helping older adults use AI in everyday life**
+  - https://openai.com/index/helping-older-adults-use-ai-in-everyday-life
+- **Reimagining advertising with AI**
+  - https://openai.com/index/reimagining-advertising-with-ai
+- **How to connect AI usage to business value**
+  - https://openai.com/index/how-to-connect-ai-usage-to-business-value
+- **Our framework for reporting model misalignment**
+  - https://openai.com/index/model-misalignment-reporting-framework
+- **How workers are unlocking new ways of working**
+  - https://openai.com/index/unlocking-new-ways-of-working
 
 ## Hugging Face
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **Optimal Pruning for Neural Architectures using Fisher Information Distances**
-  - https://arxiv.org/abs/2609.16129
-- **Safe Error Correction for Language Models: Frozen-Base Adjustment with Capability Preservation**
-  - https://arxiv.org/abs/2609.16145
-- **GPEvac: GNN-Based PPO for Adaptive Evacuation Routing During Shooting Events**
-  - https://arxiv.org/abs/2609.16163
-- **Position: AI Is Not Ready for Strategic Conflicts**
-  - https://arxiv.org/abs/2609.16189
-- **Calibrate, Then Route: A Measured Study of Learned Request Routing for Disaggregated LLM Serving**
-  - https://arxiv.org/abs/2609.16206
+- **Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records**
+  - https://arxiv.org/abs/2609.17631
+- **EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents**
+  - https://arxiv.org/abs/2609.17632
+- **One Color Preprocessing Improves DSATUR**
+  - https://arxiv.org/abs/2609.17633
+- **Physics-Constrained Digital Twins for Sensor Integrity in Urban Pedestrian Flow: Detecting Stealthy False Data Injection with Conformal Guarantees**
+  - https://arxiv.org/abs/2609.17635
+- **What You Can't See Is Still What You Learn: A Preregistered Sixty-Society Confirmation That Evidence Masking Drives Compositional Generalization**
+  - https://arxiv.org/abs/2609.17637
 
 ## arXiv CL
 
-- **Few-Shot Degradation Is Not What It Seems: Behavioral Evidence, Representation Analysis, and a Random-Text Control Across 12 Models, 2 Tasks, and 2 Architectures**
-  - https://arxiv.org/abs/2609.15990
-- **The Functionalizer: Lossless Functional Decomposition for Subword Tokenization**
-  - https://arxiv.org/abs/2609.15991
-- **Optimal Model Activation Policies for Inference Networks of Large Language Models**
-  - https://arxiv.org/abs/2609.15992
-- **Single Document Extractive Summarization using Domination in Hypergraph**
-  - https://arxiv.org/abs/2609.15993
-- **Latent Undertow: How Ordinary Typos Break Probes**
-  - https://arxiv.org/abs/2609.15994
+- **Enhancing Extubation Failure Prediction with LLM-Derived Features from Respiratory Therapy Clinical Notes**
+  - https://arxiv.org/abs/2609.17532
+- **Faking Good and Faking Bad in LLMs: Response Distortion Across Dark Triad Personality Traits**
+  - https://arxiv.org/abs/2609.17534
+- **DANTINOX: A Unified Framework for Multi-Paradigm Language Modeling**
+  - https://arxiv.org/abs/2609.17535
+- **Think Before You Comfort: Reflective Cognitive Alignment for Protocol-Grounded Elderly Stimulation Agents**
+  - https://arxiv.org/abs/2609.17536
+- **Relation Before Entity: Deferred Commitment in Language Model Factual Recall**
+  - https://arxiv.org/abs/2609.17537
