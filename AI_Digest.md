@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-09-17
+# 🤖 AI Digest — 2026-09-18
 
 ## OpenAI
 
+- **How Cooley is accelerating IPO work with ChatGPT**
+  - https://openai.com/index/cooley-gopublic
+- **Introducing Astra for Law**
+  - https://openai.com/index/astra-for-law
 - **Helping older adults use AI in everyday life**
   - https://openai.com/index/helping-older-adults-use-ai-in-everyday-life
 - **Reimagining advertising with AI**
   - https://openai.com/index/reimagining-advertising-with-ai
 - **How to connect AI usage to business value**
   - https://openai.com/index/how-to-connect-ai-usage-to-business-value
-- **Our framework for reporting model misalignment**
-  - https://openai.com/index/model-misalignment-reporting-framework
-- **How workers are unlocking new ways of working**
-  - https://openai.com/index/unlocking-new-ways-of-working
 
 ## Hugging Face
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **Making AI-Assisted Claims Independently Challengeable: Publication Authority and a Protocol for Falsifiable Publication Records**
-  - https://arxiv.org/abs/2609.17631
-- **EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents**
-  - https://arxiv.org/abs/2609.17632
-- **One Color Preprocessing Improves DSATUR**
-  - https://arxiv.org/abs/2609.17633
-- **Physics-Constrained Digital Twins for Sensor Integrity in Urban Pedestrian Flow: Detecting Stealthy False Data Injection with Conformal Guarantees**
-  - https://arxiv.org/abs/2609.17635
-- **What You Can't See Is Still What You Learn: A Preregistered Sixty-Society Confirmation That Evidence Masking Drives Compositional Generalization**
-  - https://arxiv.org/abs/2609.17637
+- **Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes**
+  - https://arxiv.org/abs/2609.19170
+- **BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research**
+  - https://arxiv.org/abs/2609.19180
+- **What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks**
+  - https://arxiv.org/abs/2609.19182
+- **Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer**
+  - https://arxiv.org/abs/2609.19203
+- **What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis**
+  - https://arxiv.org/abs/2609.19212
 
 ## arXiv CL
 
-- **Enhancing Extubation Failure Prediction with LLM-Derived Features from Respiratory Therapy Clinical Notes**
-  - https://arxiv.org/abs/2609.17532
-- **Faking Good and Faking Bad in LLMs: Response Distortion Across Dark Triad Personality Traits**
-  - https://arxiv.org/abs/2609.17534
-- **DANTINOX: A Unified Framework for Multi-Paradigm Language Modeling**
-  - https://arxiv.org/abs/2609.17535
-- **Think Before You Comfort: Reflective Cognitive Alignment for Protocol-Grounded Elderly Stimulation Agents**
-  - https://arxiv.org/abs/2609.17536
-- **Relation Before Entity: Deferred Commitment in Language Model Factual Recall**
-  - https://arxiv.org/abs/2609.17537
+- **Modality Discrepancy Transformer for Ambivalence and Hesitancy Recognition**
+  - https://arxiv.org/abs/2609.19148
+- **Subliminal Prompting Beyond Static Geometry: Causal Depth and Multi-Token Confounds**
+  - https://arxiv.org/abs/2609.19149
+- **Sampling Reveals Style: Unsupervised, Training-Free Discovery of Prompt-Conditional Stylistic Axes in LLM Activations**
+  - https://arxiv.org/abs/2609.19150
+- **What Users Think of Generative AI: A Cross-Platform NLP Analysis of Trust and Friction in App Store Reviews**
+  - https://arxiv.org/abs/2609.19151
+- **FakeSpotter: A content and strategy agnostic Viral Misinformation Detection Tool**
+  - https://arxiv.org/abs/2609.19152
