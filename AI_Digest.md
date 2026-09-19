@@ -1,7 +1,9 @@
-# 🤖 AI Digest — 2026-09-18
+# 🤖 AI Digest — 2026-09-19
 
 ## OpenAI
 
+- **Introducing the Australian Youth Safety Blueprint**
+  - https://openai.com/index/australian-youth-safety-blueprint
 - **How Cooley is accelerating IPO work with ChatGPT**
   - https://openai.com/index/cooley-gopublic
 - **Introducing Astra for Law**
@@ -10,8 +12,6 @@
   - https://openai.com/index/helping-older-adults-use-ai-in-everyday-life
 - **Reimagining advertising with AI**
   - https://openai.com/index/reimagining-advertising-with-ai
-- **How to connect AI usage to business value**
-  - https://openai.com/index/how-to-connect-ai-usage-to-business-value
 
 ## Hugging Face
 
@@ -28,26 +28,6 @@
 
 ## arXiv AI
 
-- **Regularized Emphatic Temporal-Difference Learning: Stability under Constant Stepsizes**
-  - https://arxiv.org/abs/2609.19170
-- **BioPhys-Bridge: A Benchmark for Interdisciplinary Scientific Reasoning in Physics-Grounded Biological Research**
-  - https://arxiv.org/abs/2609.19180
-- **What Do We Expect from LLMs? Mapping the Design of LLM Benchmarks**
-  - https://arxiv.org/abs/2609.19182
-- **Position: It is Time to Virtualize Foundation Models with a Self-evolving Operating System Layer**
-  - https://arxiv.org/abs/2609.19203
-- **What Do Current Systematic Generalization Tasks Miss? A Reasoning-Centered Analysis**
-  - https://arxiv.org/abs/2609.19212
 
 ## arXiv CL
 
-- **Modality Discrepancy Transformer for Ambivalence and Hesitancy Recognition**
-  - https://arxiv.org/abs/2609.19148
-- **Subliminal Prompting Beyond Static Geometry: Causal Depth and Multi-Token Confounds**
-  - https://arxiv.org/abs/2609.19149
-- **Sampling Reveals Style: Unsupervised, Training-Free Discovery of Prompt-Conditional Stylistic Axes in LLM Activations**
-  - https://arxiv.org/abs/2609.19150
-- **What Users Think of Generative AI: A Cross-Platform NLP Analysis of Trust and Friction in App Store Reviews**
-  - https://arxiv.org/abs/2609.19151
-- **FakeSpotter: A content and strategy agnostic Viral Misinformation Detection Tool**
-  - https://arxiv.org/abs/2609.19152
