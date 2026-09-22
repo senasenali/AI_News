@@ -1,30 +1,30 @@
-# 🤖 AI Digest — 2026-09-21
+# 🤖 AI Digest — 2026-09-22
 
 ## OpenAI
 
-- **Introducing the Australian Youth Safety Blueprint**
-  - https://openai.com/index/australian-youth-safety-blueprint
-- **How Cooley is accelerating IPO work with ChatGPT**
-  - https://openai.com/index/cooley-gopublic
-- **Introducing Astra for Law**
-  - https://openai.com/index/astra-for-law
-- **Helping older adults use AI in everyday life**
-  - https://openai.com/index/helping-older-adults-use-ai-in-everyday-life
-- **Reimagining advertising with AI**
-  - https://openai.com/index/reimagining-advertising-with-ai
+- **Advisory Group on Mathematics and Artificial Intelligence**
+  - https://openai.com/index/advisory-group-on-mathematics-and-ai
+- **Higgsfield AI ships new video features in a day with GPT-6 Astra**
+  - https://openai.com/index/higgsfield-from-prompt-to-production-with-astra
+- **Building standards for the next phase of AI**
+  - https://openai.com/index/building-standards-next-phase-ai
+- **Expanding OpenAI Academy with new learning paths**
+  - https://openai.com/index/expanding-openai-academy-with-new-learning-paths
+- **How V7 gives AI agents institutional memory**
+  - https://openai.com/index/v7
 
 ## Hugging Face
 
+- **Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem**
+  - https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an
+- **tokenizers v1: encode, decode and scaling, measured**
+  - https://huggingface.co/blog/tokenizers-v1
 - **Your Agent Aced the Task. Will It Do It Again?**
   - https://huggingface.co/blog/ibm-research/altk-evolve-consistency
 - **Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL**
   - https://huggingface.co/blog/asyncgrpo-lora-hfjobs
 - **Rebuilding AUTOMATIC1111 with Gradio Workflow**
   - https://huggingface.co/blog/gradio-workflow-1111
-- **Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic**
-  - https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom
-- **NeoMME: an efficient Multimodal-native and Multilingual Encoder**
-  - https://huggingface.co/blog/Hcompany/neomme
 
 ## arXiv AI
 
@@ -41,13 +41,13 @@
 
 ## arXiv CL
 
-- **Do small language models know what they don't know?**
-  - https://arxiv.org/abs/2609.20824
-- **HERMES: Contrast-Aware Knowledge Graph Reasoning from Clinical Notes for Patient Outcome Prediction**
-  - https://arxiv.org/abs/2609.20825
-- **TALON: A Temporally Aware Longitudinal Framework for Radiology Report Generation**
-  - https://arxiv.org/abs/2609.20826
-- **From Discharge Notes to Patient Understanding: Persona-Grounded, Open-Ended Simulation of LLMs as Discharge Educators**
-  - https://arxiv.org/abs/2609.20827
-- **Beyond WER: Entity and Disfluency Recall in Accented Conversational ASR**
-  - https://arxiv.org/abs/2609.20828
+- **Recognition, Simulation, and Refusal: A Contamination-Aware Study of Classic Psychological Effects in LLM Agents**
+  - https://arxiv.org/abs/2609.22090
+- **Memory That Looks Forward: A Zero-Inference Prospective Term for Personal Memory Retrieval**
+  - https://arxiv.org/abs/2609.22091
+- **Summarize, Judge, Refine: Decoupled Content Understanding and Policy Learning for Multimodal Content Moderation**
+  - https://arxiv.org/abs/2609.22094
+- **AI-inferred expressed well-being and collective-action discourse in climate-change campaigns on X**
+  - https://arxiv.org/abs/2609.22096
+- **Token Signatures of Code: Comparing Coding Behaviors Across Large Language Models**
+  - https://arxiv.org/abs/2609.22097
