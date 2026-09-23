@@ -1,53 +1,53 @@
-# 🤖 AI Digest — 2026-09-22
+# 🤖 AI Digest — 2026-09-23
 
 ## OpenAI
 
-- **Advisory Group on Mathematics and Artificial Intelligence**
-  - https://openai.com/index/advisory-group-on-mathematics-and-ai
+- **Better prompt caching for GPT-6**
+  - https://openai.com/index/better-prompt-caching-for-gpt-6
+- **Introducing GPT-6 Sol and Luna**
+  - https://openai.com/index/introducing-gpt-6-sol-and-luna
+- **Parallel cut research time and cost in half with GPT‑6 Astra**
+  - https://openai.com/index/parallel-cuts-time-and-cost-with-astra
+- **Priorities and principles for effective third party assessments**
+  - https://openai.com/index/priorities-principles-third-party-assessments
 - **Higgsfield AI ships new video features in a day with GPT-6 Astra**
   - https://openai.com/index/higgsfield-from-prompt-to-production-with-astra
-- **Building standards for the next phase of AI**
-  - https://openai.com/index/building-standards-next-phase-ai
-- **Expanding OpenAI Academy with new learning paths**
-  - https://openai.com/index/expanding-openai-academy-with-new-learning-paths
-- **How V7 gives AI agents institutional memory**
-  - https://openai.com/index/v7
 
 ## Hugging Face
 
+- **How UK AISI and EvalEval Are Making Benchmark Results Reproducible**
+  - https://huggingface.co/blog/evaleval-aisi
+- **Transformers now runs llama.cpp quants**
+  - https://huggingface.co/blog/transformers-llama-cpp-quants
+- **Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community**
+  - https://huggingface.co/blog/omlx
 - **Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem**
   - https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an
 - **tokenizers v1: encode, decode and scaling, measured**
   - https://huggingface.co/blog/tokenizers-v1
-- **Your Agent Aced the Task. Will It Do It Again?**
-  - https://huggingface.co/blog/ibm-research/altk-evolve-consistency
-- **Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL**
-  - https://huggingface.co/blog/asyncgrpo-lora-hfjobs
-- **Rebuilding AUTOMATIC1111 with Gradio Workflow**
-  - https://huggingface.co/blog/gradio-workflow-1111
 
 ## arXiv AI
 
-- **RBS-Attention: Radius-Bounded Sparse Prefill for Long-Context Large Language Models**
-  - https://arxiv.org/abs/2609.20971
-- **Attention-Aware Routing: Coupling Routing and Attention in MoEs**
-  - https://arxiv.org/abs/2609.20974
-- **CaLR: Causal Latent Revision for Robust Diffusion Reasoning**
-  - https://arxiv.org/abs/2609.20981
-- **LoRA Enhanced Contrastive Learning with SAS Vision Transformers**
-  - https://arxiv.org/abs/2609.21061
-- **Detecting Hallucination in LLMs: Tracing the Topological Signatures of Impaired Context Sharing**
-  - https://arxiv.org/abs/2609.21096
+- **Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models**
+  - https://arxiv.org/abs/2609.22161
+- **An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users**
+  - https://arxiv.org/abs/2609.22277
+- **PAANI : On Device Visual Evidence Fusion and Explainable Guidance for River Robot Simulation**
+  - https://arxiv.org/abs/2609.22353
+- **Social Influence and the Allocation of Scientific Attention in AI Populations**
+  - https://arxiv.org/abs/2609.22408
+- **Learning 3D biophysical cell properties from 2D images and cell-population statistics**
+  - https://arxiv.org/abs/2609.22410
 
 ## arXiv CL
 
-- **Recognition, Simulation, and Refusal: A Contamination-Aware Study of Classic Psychological Effects in LLM Agents**
-  - https://arxiv.org/abs/2609.22090
-- **Memory That Looks Forward: A Zero-Inference Prospective Term for Personal Memory Retrieval**
-  - https://arxiv.org/abs/2609.22091
-- **Summarize, Judge, Refine: Decoupled Content Understanding and Policy Learning for Multimodal Content Moderation**
-  - https://arxiv.org/abs/2609.22094
-- **AI-inferred expressed well-being and collective-action discourse in climate-change campaigns on X**
-  - https://arxiv.org/abs/2609.22096
-- **Token Signatures of Code: Comparing Coding Behaviors Across Large Language Models**
-  - https://arxiv.org/abs/2609.22097
+- **What Does 99% Accuracy Measure? A Reproducible Audit of Shortcut Learning in a Widely Used Fake News Corpus**
+  - https://arxiv.org/abs/2609.25006
+- **Training a Language Model End-to-End in Rust: An Experience Report**
+  - https://arxiv.org/abs/2609.25008
+- **Same Quantity, Different Answer: Numerical Representation Invariance in Language Models**
+  - https://arxiv.org/abs/2609.25009
+- **A Computational Approach to Measuring Semantic Change in Sanskrit Literature**
+  - https://arxiv.org/abs/2609.25012
+- **Retrieved-Span Training for Efficient Query-Focused Meeting Summarization on QMSum**
+  - https://arxiv.org/abs/2609.25028
