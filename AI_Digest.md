@@ -1,7 +1,9 @@
-# 🤖 AI Digest — 2026-09-25
+# 🤖 AI Digest — 2026-09-26
 
 ## OpenAI
 
+- **Proaction boosts sales 60% and saves 75+ hours with Codex**
+  - https://openai.com/index/proaction
 - **Two years of OpenAI Academy**
   - https://openai.com/index/two-years-of-openai-academy
 - **OpenAI extends cyber access to Ukraine for civilian defense**
@@ -10,8 +12,6 @@
   - https://openai.com/index/sam-altman-un-security-council-remarks
 - **Harvey turns legal context into stronger drafts with GPT-6 Astra**
   - https://openai.com/index/harvey-from-context-to-confidence-with-astra
-- **How invideo improves color grading 3x with GPT‑6 Astra**
-  - https://openai.com/index/invideo-builds-with-gpt-6-astra
 
 ## Hugging Face
 
@@ -28,26 +28,6 @@
 
 ## arXiv AI
 
-- **When Should Forecasting Agents Reason? Behavioral Stress Tests for Reliability Routing**
-  - https://arxiv.org/abs/2609.28475
-- **TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split**
-  - https://arxiv.org/abs/2609.28506
-- **PAWS: Policy-driven Agentic World Simulation**
-  - https://arxiv.org/abs/2609.28547
-- **Pistis Technical Report**
-  - https://arxiv.org/abs/2609.28554
-- **BaseCamp --- An Agentic AI Framework for Automating DNA Sequencing Data Pipelines**
-  - https://arxiv.org/abs/2609.28557
 
 ## arXiv CL
 
-- **Framing by Wording, Framing by Selection: A Large-Scale Two-Dimensional Audit of French News Headlines, 2022-2025**
-  - https://arxiv.org/abs/2609.28487
-- **Reward Hacking Challenges Oversight of Autonomous Research Agents**
-  - https://arxiv.org/abs/2609.28614
-- **Benchmarking Argumentative Behaviour of LLMs: A Study of Defences Against Character Attacks**
-  - https://arxiv.org/abs/2609.28673
-- **An Explainable DistilBERT-BiLSTM-Attention Framework for Binary and Multi-Class Hate Speech Detection**
-  - https://arxiv.org/abs/2609.28703
-- **PTC-Bias: Phoneme-Level Temporal Competition for Bias Retrieval and Post-Decoding Correction in Speech LLMs**
-  - https://arxiv.org/abs/2609.28727
