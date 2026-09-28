@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-09-27
+# 🤖 AI Digest — 2026-09-28
 
 ## OpenAI
 
@@ -28,6 +28,26 @@
 
 ## arXiv AI
 
+- **Bringing AI to Autonomous Systems -- From Cognition to Collective Intelligence**
+  - https://arxiv.org/abs/2609.30291
+- **ScopeBench: Do Agents Preserve Engagement Boundaries Under Goal Pressure?**
+  - https://arxiv.org/abs/2609.30325
+- **When Is a Multi-Agent Code Judge Actually Grounded? Two Label-Free Measurements, and a Judge That Declines to Guess**
+  - https://arxiv.org/abs/2609.30328
+- **Bridging LLM Agents and Data Spaces: An Architectural Mediation Approach using the Model Context Protocol**
+  - https://arxiv.org/abs/2609.30341
+- **Stealth Apart, Harm Together: Skill Cascading Attacks on Skill-Based Agent Systems**
+  - https://arxiv.org/abs/2609.30383
 
 ## arXiv CL
 
+- **A Mechanistic Study of AI-Text Detection Neurons in Frozen BERT: Sparse Probing and Activation Patching on RAID**
+  - https://arxiv.org/abs/2609.30287
+- **Manifold Projection and Iterative Autoencoder Refinement for Masked Language Modeling**
+  - https://arxiv.org/abs/2609.30288
+- **Not All Memories Are Equal: Hierarchical Collaborative Memory for Validity-Aware Retrieval in LLM Agents**
+  - https://arxiv.org/abs/2609.30289
+- **Auditing and Repairing LLM-as-Judge Failures in a Production Text-to-SQL Pipeline**
+  - https://arxiv.org/abs/2609.30290
+- **A Survey on Fake Review Detection: From Pre-trained Language Models to Large Language Models**
+  - https://arxiv.org/abs/2609.30292
