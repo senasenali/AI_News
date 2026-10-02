@@ -1,43 +1,43 @@
-# 🤖 AI Digest — 2026-10-01
+# 🤖 AI Digest — 2026-10-02
 
 ## OpenAI
 
+- **The eternal complement**
+  - https://openai.com/index/the-eternal-complement
+- **How Albertsons Companies is reimagining retail from the inside out**
+  - https://openai.com/index/albertsons-reimagining-retail
+- **The Den frees up 10-15 hours a week to grow with ChatGPT Work**
+  - https://openai.com/index/the-den-family-social
 - **Disrupting a coordinated model-distillation campaign**
   - https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign
 - **Helping small businesses put AI to work**
   - https://openai.com/index/helping-small-businesses-put-ai-to-work
-- **Introducing GPT-6.1 Sol**
-  - https://openai.com/index/introducing-gpt-6-1-sol
-- **DevDay 2026 Recap**
-  - https://openai.com/index/devday-2026-recap
-- **Introducing dots**
-  - https://openai.com/index/introducing-dots
 
 ## Hugging Face
 
+- **AutoSynthData: Generating Training Data for Enterprise Agents**
+  - https://huggingface.co/blog/ServiceNow-AI/autosynthdata
+- **Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs**
+  - https://huggingface.co/blog/allenai/olmocore3
 - **Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning**
   - https://huggingface.co/blog/open-tts-leaderboard
 - **NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction**
   - https://huggingface.co/blog/nvidia/kumo-tabular
 - **Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents**
   - https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source
-- **Holo4: powering generalist computer-use agents**
-  - https://huggingface.co/blog/Hcompany/holo4
-- **Accelerating vision-language models with LFM2.5-VL-DSpark**
-  - https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark
 
 ## arXiv AI
 
-- **Improving OCR Faithfulness via Gated and Attenuated On-Policy Distillation**
-  - https://arxiv.org/abs/2609.38282
-- **AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks**
-  - https://arxiv.org/abs/2609.38288
-- **MoFlow: Multi-Objective Agentic Workflow Generation**
-  - https://arxiv.org/abs/2609.38294
-- **AI Agents are Vulnerable to Radicalization**
-  - https://arxiv.org/abs/2609.38296
-- **CARAT: Do Materials LLMs Reason or Recite?**
-  - https://arxiv.org/abs/2609.38340
+- **Heavy-Tailed Memory Traces in Long-Horizon Language Agents**
+  - https://arxiv.org/abs/2610.00010
+- **When Do Causal World Models Help Modular LLM Agents**
+  - https://arxiv.org/abs/2610.00012
+- **From Proposal to Verified Effect: Praxa, an Evidence-Bound Harness for Governed AI Agent Execution**
+  - https://arxiv.org/abs/2610.00015
+- **What Do Rationales Communicate? A Message-Intervention Study in Role-Specialized QA**
+  - https://arxiv.org/abs/2610.00018
+- **Measuring the Microtask Eligibility Gap: When Is an Off-the-Shelf SLM Enough for an Agent Harness?**
+  - https://arxiv.org/abs/2610.00025
 
 ## arXiv CL
 
