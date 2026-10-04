@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-10-03
+# 🤖 AI Digest — 2026-10-04
 
 ## OpenAI
 
@@ -15,6 +15,8 @@
 
 ## Hugging Face
 
+- **The Agent Said It Was Done. The Database Disagreed.**
+  - https://huggingface.co/blog/microsoft/thinkingbox
 - **Open-sourcing AstaBrief, the fast report-generation model in Asta**
   - https://huggingface.co/blog/allenai/astabrief
 - **AutoSynthData: Generating Training Data for Enterprise Agents**
@@ -23,8 +25,6 @@
   - https://huggingface.co/blog/open-tts-leaderboard
 - **NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction**
   - https://huggingface.co/blog/nvidia/kumo-tabular
-- **Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents**
-  - https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source
 
 ## arXiv AI
 
