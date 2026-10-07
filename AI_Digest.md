@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-10-06
+# 🤖 AI Digest — 2026-10-07
 
 ## OpenAI
 
+- **How Jump Trading is scaling quant research with ChatGPT**
+  - https://openai.com/index/jump-trading
+- **Sharing AI progress in mathematics**
+  - https://openai.com/index/sharing-ai-progress-in-mathematics
+- **Advancing computer use with Ironclad**
+  - https://openai.com/index/advancing-computer-use-with-ironclad
+- **Atlassian and OpenAI expand partnership to turn enterprise knowledge into action**
+  - https://openai.com/index/atlassian-partnership
 - **Our approach to EU text provenance rules**
   - https://openai.com/index/eu-text-provenance
-- **Building advertising for the way people use AI**
-  - https://openai.com/index/new-chatgpt-ads-format-and-measurement
-- **A model guide for the GPT-6 family**
-  - https://openai.com/index/practical-guide-building-gpt-6
-- **Chatham scales its capital markets expertise with OpenAI**
-  - https://openai.com/index/chatham-financial
-- **The eternal complement**
-  - https://openai.com/index/the-eternal-complement
 
 ## Hugging Face
 
@@ -28,6 +28,26 @@
 
 ## arXiv AI
 
+- **GAMEGO: Training Game-Dev Agents with Synthetic Trajectories Anchored in Real-World Assets**
+  - https://arxiv.org/abs/2610.06910
+- **Text2Dashboard: A Governed Agent Architecture for Natural-Language Dashboard Generation over Enterprise DataBrain**
+  - https://arxiv.org/abs/2610.06914
+- **FluidPD: In-Place Elasticity for SLO-Aware Prefill-Decode Disaggregated LLM Serving**
+  - https://arxiv.org/abs/2610.06917
+- **Anchor Divergence for Semantic Geometry in Contrastive Learning**
+  - https://arxiv.org/abs/2610.06919
+- **RadOnc-Agent: An LLM-Orchestrated Framework for AI Workflows Across the Radiotherapy Care Pathway**
+  - https://arxiv.org/abs/2610.06923
 
 ## arXiv CL
 
+- **Zero-Shot Visualization: Exploring Text Corpora with User-Prompted Axes**
+  - https://arxiv.org/abs/2610.06889
+- **Capacity, Responsiveness and Alignment: What Makes a Latent Structure Actionable**
+  - https://arxiv.org/abs/2610.06897
+- **Tree Navigation Without LLM Summaries: A Matched-Cost Study of Hierarchical Retrieval for Long-Document QA**
+  - https://arxiv.org/abs/2610.06902
+- **Component and Dimension Sparsity in Transformer Refusal Mechanisms**
+  - https://arxiv.org/abs/2610.06903
+- **Stabilizing language models under continual learning via condition-anchored distillation**
+  - https://arxiv.org/abs/2610.06940
