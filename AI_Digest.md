@@ -1,53 +1,53 @@
-# 🤖 AI Digest — 2026-10-15
+# 🤖 AI Digest — 2026-10-16
 
 ## OpenAI
 
+- **Bringing GPT-Rosalind to academic research labs**
+  - https://openai.com/index/introducing-the-rosalind-academic-plan
+- **Teaching students to think and learn through questions**
+  - https://openai.com/index/teaching-students-to-think-and-learn-through-questions
+- **Sullivan & Cromwell brings legal expertise into agreement review**
+  - https://openai.com/index/sullivan-cromwell
 - **Amp puts AI agents to work beyond code with OpenAI models**
   - https://openai.com/index/amp-beyond-coding
 - **SentinelOne cuts malware analysis from weeks to hours**
   - https://openai.com/index/sentinelone
-- **How Third Moment Research runs 10,000 agents for 36+ hours**
-  - https://openai.com/index/third-moment-research
-- **How Block is building AI-powered security with OpenAI technology**
-  - https://openai.com/index/block-ai-powered-security
-- **The EU’s next chapter in AI is agentic**
-  - https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic
 
 ## Hugging Face
 
+- **Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline**
+  - https://huggingface.co/blog/nvidia/scaling-indic-pretraining
+- **Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint**
+  - https://huggingface.co/blog/ibm-granite/granite-switch-4-1
+- **Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta**
+  - https://huggingface.co/blog/meta-muse-spark-open
+- **Welcome FLUX.3 Image Klein in Diffusers**
+  - https://huggingface.co/blog/flux-3
 - **HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost**
   - https://huggingface.co/blog/allenai/hiro-acev2
-- **Run fast, private agents on-device with LFM2.5-24B-A2B**
-  - https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b
-- **The model that didn't exist, so you made it yourself**
-  - https://huggingface.co/blog/building-with-ml-intern
-- **Introducing Falcon ASR**
-  - https://huggingface.co/blog/tiiuae/falcon-asr
-- **One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO**
-  - https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026
 
 ## arXiv AI
 
-- **Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence**
-  - https://arxiv.org/abs/2610.14005
-- **The Silent Failures in Agentic Data Science**
-  - https://arxiv.org/abs/2610.14115
-- **ClawLoop: Self-Improving Agents via Harness-Native Training Loop**
-  - https://arxiv.org/abs/2610.14118
-- **Correction Training for Diffusion Models**
-  - https://arxiv.org/abs/2610.14136
-- **Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress**
-  - https://arxiv.org/abs/2610.14146
+- **The World Won't Wait: Evaluating and Teaching Agents Under a Live Clock**
+  - https://arxiv.org/abs/2610.20665
+- **Evaluating Model Capabilities After Benchmark Saturation**
+  - https://arxiv.org/abs/2610.20667
+- **Value-Informed Schedule Trimming for Accelerated Sequential Monte Carlo Guidance in Discrete Diffusion**
+  - https://arxiv.org/abs/2610.20669
+- **AlphaDiana: A Measurement System for Agents in Verifiable Reasoning Tasks**
+  - https://arxiv.org/abs/2610.20675
+- **When Correctness Feedback Erases Evidence: Phase-Separated Completeness Auditing in Verus**
+  - https://arxiv.org/abs/2610.20676
 
 ## arXiv CL
 
-- **Following the Flow the Law Requires: Training Voice Agents to Transfer to Unseen Regulated Procedures in Debt Collection**
-  - https://arxiv.org/abs/2610.18881
-- **Evaluating Large Language Models for Multilingual Abstractive Summarization: A Comprehensive Study of English and Bengali**
-  - https://arxiv.org/abs/2610.19003
-- **Can LLMs Access their World Knowledge for Event Prediction?**
-  - https://arxiv.org/abs/2610.19021
-- **Joint Subspace Sparse Attention for Efficient Long-Context Decoding**
-  - https://arxiv.org/abs/2610.19026
-- **Crossing the Gender Binary: Modelling Gendered Reference in Science Fiction and General Fiction**
-  - https://arxiv.org/abs/2610.19028
+- **DeepUnfolding_Agent: A Classical_Quantum Adaptive Control API**
+  - https://arxiv.org/abs/2610.20615
+- **PRISM: PRIvileged Sibling-guided Multi-Agent Topology Design**
+  - https://arxiv.org/abs/2610.20628
+- **A Large-Scale Dataset for Multi-Class Financial News Classification in Brazilian Portuguese**
+  - https://arxiv.org/abs/2610.20630
+- **Real-time Chatbot Romance Scam Detection in Stage Classification**
+  - https://arxiv.org/abs/2610.20631
+- **MeddeX: A Retrieval-Augmented LLaMA-3 System with Gemini Vision for Evidence-Backed Medical Report Analysis**
+  - https://arxiv.org/abs/2610.20632
