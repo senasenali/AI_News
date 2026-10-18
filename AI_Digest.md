@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-10-17
+# 🤖 AI Digest — 2026-10-18
 
 ## OpenAI
 
 - **How Itaú is building generative AI for its entire customer base**
   - https://openai.com/index/itau-generative-ai
+- **Benefit Street Partners answers questions faster with Codex**
+  - https://openai.com/index/benefit-street-partners
 - **Stack Overflow for Agents triples signups with ChatGPT plugin**
   - https://openai.com/index/stack-overflow-chatgpt-plugin
 - **Bringing GPT-Rosalind to academic research labs**
   - https://openai.com/index/introducing-the-rosalind-academic-plan
 - **Teaching students to think and learn through questions**
   - https://openai.com/index/teaching-students-to-think-and-learn-through-questions
-- **Sullivan & Cromwell brings legal expertise into agreement review**
-  - https://openai.com/index/sullivan-cromwell
 
 ## Hugging Face
 
