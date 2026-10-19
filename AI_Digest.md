@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-10-18
+# 🤖 AI Digest — 2026-10-19
 
 ## OpenAI
 
@@ -28,6 +28,26 @@
 
 ## arXiv AI
 
+- **Structured Authority Injection: Persistent Human Control for LLM Agents via Typed MCP Overrides**
+  - https://arxiv.org/abs/2610.22373
+- **Rethinking User Encoders: Routing Diffusion States for Scenario-Adaptive User Representation**
+  - https://arxiv.org/abs/2610.22400
+- **From Events to Reasoning: Hierarchical Rule Composition over Explicit States**
+  - https://arxiv.org/abs/2610.22403
+- **ECHOES: Seeing Beyond the Current Image via Recursive History Compression and Privileged On-Policy Distillation**
+  - https://arxiv.org/abs/2610.22408
+- **Sensitivity Analysis of Decision Rules in an Agent-Based Agro-Ecological Model**
+  - https://arxiv.org/abs/2610.22420
 
 ## arXiv CL
 
+- **Embeddings Are Overpriced? A Frozen 16 MB Vocabulary for Small and Ternary Language Models**
+  - https://arxiv.org/abs/2610.22428
+- **Where Prefill Expert Reduction Hurts MoE Models: A Few Prompt Tokens Carry Most of the Short-Answer F1 Loss**
+  - https://arxiv.org/abs/2610.22454
+- **From Parallels to Divergence: Language Models' Learning of Action Nominal Constructions**
+  - https://arxiv.org/abs/2610.22468
+- **RealCLI: Toward a Unified Evaluation of Human-Agent Collaboration for CLI Agents**
+  - https://arxiv.org/abs/2610.22507
+- **AuditKIT: A Unified Evaluation Spine for Benchmarking, Judging, and Comparing Large Language Models and Agentic Systems**
+  - https://arxiv.org/abs/2610.22511
