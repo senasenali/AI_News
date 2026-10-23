@@ -1,53 +1,53 @@
-# 🤖 AI Digest — 2026-10-22
+# 🤖 AI Digest — 2026-10-23
 
 ## OpenAI
 
+- **Build more responsive apps with the Decisions API**
+  - https://openai.com/index/decisions-api
+- **What FDE means at OpenAI**
+  - https://openai.com/index/forward-deployed-engineering-means
+- **Uber brings ChatGPT Work to all employees with OpenAI**
+  - https://openai.com/index/uber-chatgpt-work-rollout
 - **How AT&T is rethinking in-house legal work with OpenAI**
   - https://openai.com/index/att-legal
 - **Broad access through consistent standards**
   - https://openai.com/index/broad-access-through-consistent-standards
-- **OpenAI models are coming to Google Cloud**
-  - https://openai.com/index/openai-models-google-cloud
-- **Patch the Planet: global response coordination as agents uncover critical vulnerabilities**
-  - https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities
-- **ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform**
-  - https://openai.com/index/chatgpt-ads-expands-26-new-countries
 
 ## Hugging Face
 
+- **Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox**
+  - https://huggingface.co/blog/microsoft/thinkingbox-training
+- **OlmoEarth v1.3: State-of-the-art embeddings for the whole planet**
+  - https://huggingface.co/blog/allenai/olmoearth-v1-3
+- **Ensemble forecasting with IBM Granite time-series models**
+  - https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1
 - **NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required**
   - https://huggingface.co/blog/nvidia/kumo-relational
 - **How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications**
   - https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization
-- **Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.**
-  - https://huggingface.co/blog/amazon/profiling-torchneuron-part-1
-- **Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster**
-  - https://huggingface.co/blog/ibm-granite/granite-speech-5
-- **FairStress: A deeper evaluation of fairness in LLM decision-making**
-  - https://huggingface.co/blog/allenai/fairstress
 
 ## arXiv AI
 
-- **Navalia: Advancing Cowork Agents through Verifiable Task Synthesis and Long-Horizon Post-Training**
-  - https://arxiv.org/abs/2610.26887
-- **Large language model and reinforcement learning based autonomous construction and progress updates**
-  - https://arxiv.org/abs/2610.26899
-- **Pareto-Optimal RTL Code Generation via Multi-Objective Reinforcement Learning with Large Language Models**
-  - https://arxiv.org/abs/2610.26904
-- **MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring**
-  - https://arxiv.org/abs/2610.26913
-- **DataPraxis: Scaling Analytics Tasks via Verified Workspace Evolution**
-  - https://arxiv.org/abs/2610.26924
+- **A Small Model Asks Better: Fine-Tuning Query Clarification for Retrieval-Augmented Generation**
+  - https://arxiv.org/abs/2610.28686
+- **Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds**
+  - https://arxiv.org/abs/2610.28698
+- **SpecEvo: Speculative Evolution with Large Language Models for Cost-Efficient Scientific Discovery**
+  - https://arxiv.org/abs/2610.28706
+- **Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?**
+  - https://arxiv.org/abs/2610.28763
+- **Forging More Tasks into Better Harnesses: Agentic Harness Evolution via Successive Scale Racing**
+  - https://arxiv.org/abs/2610.28815
 
 ## arXiv CL
 
-- **How Far Can the Gemma 4 Speech Encoder Go Without Changing Its Weights? Saudi and Gulf Arabic Speech Recognition with a Frozen and an Adapter-Augmented Encoder**
-  - https://arxiv.org/abs/2610.28673
-- **Translation and data ethics**
-  - https://arxiv.org/abs/2610.28710
-- **SkillEval: Learning Interpretable Ability Profiles of LLMs via Cognitive Diagnosis Models**
-  - https://arxiv.org/abs/2610.28767
-- **Scaling Therapy Supervision: Assessing Psychotherapy Fidelity Using Large Language Models**
-  - https://arxiv.org/abs/2610.28772
-- **Is Anyone Enforcing the Cartel? What Reinforcement Learning Teaches LLM Agents in Markets**
-  - https://arxiv.org/abs/2610.28787
+- **baseVultra: Compact Nonlinear Recurrence with Reallocated Capacity**
+  - https://arxiv.org/abs/2610.30154
+- **Lighthouse: On Building a Trustworthy Digital Assistant for Exploring History with Civil Rights Archives**
+  - https://arxiv.org/abs/2610.30158
+- **TauIndianBankBench: Procedure-Aware, Action-Oriented Evaluation of Tool-Using Conversational Agents**
+  - https://arxiv.org/abs/2610.30161
+- **FusionEval: Benchmarking Model Fusion for Large Language Models**
+  - https://arxiv.org/abs/2610.30162
+- **Measuring Research Progress and Linguistic Inclusion in Low-Resource Languages**
+  - https://arxiv.org/abs/2610.30296
