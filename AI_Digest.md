@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-10-25
+# 🤖 AI Digest — 2026-10-26
 
 ## OpenAI
 
@@ -28,6 +28,26 @@
 
 ## arXiv AI
 
+- **Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation**
+  - https://arxiv.org/abs/2610.31701
+- **Phronix: The Capability-Centric Learning Paradigm for Agents**
+  - https://arxiv.org/abs/2610.31789
+- **Patronizing and Condescending Language Detection in English and Mandarin**
+  - https://arxiv.org/abs/2610.31808
+- **PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean**
+  - https://arxiv.org/abs/2610.31810
+- **Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons**
+  - https://arxiv.org/abs/2610.31846
 
 ## arXiv CL
 
+- **Validating the Comparison, Not Just the Scorer: Why Overall Accuracy Can Mislead in Interactive LLM Evaluation**
+  - https://arxiv.org/abs/2610.31678
+- **MisconceptDialogue: Evaluation Criteria Shape Measured Success in LLM Math Tutoring**
+  - https://arxiv.org/abs/2610.31679
+- **Rethinking Structured Generation: Can Graph-Based Reasoning Resolve Ambiguity?**
+  - https://arxiv.org/abs/2610.31681
+- **Multi modal perceived conversation success prediction for spontaneous autistic and non-autistic dyadic interactions**
+  - https://arxiv.org/abs/2610.31682
+- **The Schema Coherence Inventory: Measuring Whether an Assigned Belief Organizes a Language Model's Cognition**
+  - https://arxiv.org/abs/2610.31683
