@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-10-26
+# 🤖 AI Digest — 2026-10-27
 
 ## OpenAI
 
-- **Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)**
-  - https://openai.com/index/scaling-storage-one-billion-users-part-two
-- **Securing our frontier model training environment**
-  - https://openai.com/index/securing-our-frontier-model-training-environment
-- **OpenAI and Poland’s NASK partner to advance AI safety and security**
-  - https://openai.com/index/openai-nask-ai-safety-security-partnership
-- **Build more responsive apps with the Decisions API**
-  - https://openai.com/index/decisions-api
-- **What FDE means at OpenAI**
-  - https://openai.com/index/forward-deployed-engineering-means
+- **Greptile takes bug detection beyond code review with GPT-6 Astra**
+  - https://openai.com/index/greptile-code-review-codex-astra
+- **Working with academic communities to build scientific understanding**
+  - https://openai.com/index/building-scientific-understanding-with-academic-communities
+- **GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases**
+  - https://openai.com/index/gpt-6-1-sol-coderabbit-code-security
+- **ChatGPT’s expanding world of work**
+  - https://openai.com/index/chatgpt-expanding-world-of-work
+- **How Fanatics and OpenAI streamline the fan experience**
+  - https://openai.com/index/fanatics-streamline-fan-experience
 
 ## Hugging Face
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation**
-  - https://arxiv.org/abs/2610.31701
-- **Phronix: The Capability-Centric Learning Paradigm for Agents**
-  - https://arxiv.org/abs/2610.31789
-- **Patronizing and Condescending Language Detection in English and Mandarin**
-  - https://arxiv.org/abs/2610.31808
-- **PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean**
-  - https://arxiv.org/abs/2610.31810
-- **Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons**
-  - https://arxiv.org/abs/2610.31846
+- **Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion**
+  - https://arxiv.org/abs/2610.33096
+- **IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives**
+  - https://arxiv.org/abs/2610.33097
+- **Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting**
+  - https://arxiv.org/abs/2610.33103
+- **Artificial Intelligence in Mechanical Engineering: Foundations, Opportunities, Challenges, and Responsibilities**
+  - https://arxiv.org/abs/2610.33105
+- **Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation**
+  - https://arxiv.org/abs/2610.33112
 
 ## arXiv CL
 
-- **Validating the Comparison, Not Just the Scorer: Why Overall Accuracy Can Mislead in Interactive LLM Evaluation**
-  - https://arxiv.org/abs/2610.31678
-- **MisconceptDialogue: Evaluation Criteria Shape Measured Success in LLM Math Tutoring**
-  - https://arxiv.org/abs/2610.31679
-- **Rethinking Structured Generation: Can Graph-Based Reasoning Resolve Ambiguity?**
-  - https://arxiv.org/abs/2610.31681
-- **Multi modal perceived conversation success prediction for spontaneous autistic and non-autistic dyadic interactions**
-  - https://arxiv.org/abs/2610.31682
-- **The Schema Coherence Inventory: Measuring Whether an Assigned Belief Organizes a Language Model's Cognition**
-  - https://arxiv.org/abs/2610.31683
+- **Whispering Wisely: Smart Subset Selection for ASR Fine-Tuning**
+  - https://arxiv.org/abs/2610.32997
+- **From Writing Advice to Manuscript Governance: A Constrained-Transformation Framework for Academic Revision**
+  - https://arxiv.org/abs/2610.33001
+- **Entity-Aware Evaluation of OCR Systems for Historical Document Transcription**
+  - https://arxiv.org/abs/2610.33004
+- **OpenESM: Energy-Steered Models Are Scalable Foundation Learners**
+  - https://arxiv.org/abs/2610.33005
+- **Linear-Time Context Compression with State-Space Encoding**
+  - https://arxiv.org/abs/2610.33006
