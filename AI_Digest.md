@@ -1,53 +1,53 @@
-# 🤖 AI Digest — 2026-10-27
+# 🤖 AI Digest — 2026-10-28
 
 ## OpenAI
 
+- **Retell uses OpenAI models to help power 100M monthly calls**
+  - https://openai.com/index/retell-ai
+- **OpenAI expands partnership with Oracle to bring its apps to ChatGPT**
+  - https://openai.com/index/oracle-apps-in-chatgpt
+- **How Check Point accelerates vulnerability research with Daybreak**
+  - https://openai.com/index/check-point-daybreak
 - **Greptile takes bug detection beyond code review with GPT-6 Astra**
   - https://openai.com/index/greptile-code-review-codex-astra
 - **Working with academic communities to build scientific understanding**
   - https://openai.com/index/building-scientific-understanding-with-academic-communities
-- **GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases**
-  - https://openai.com/index/gpt-6-1-sol-coderabbit-code-security
-- **ChatGPT’s expanding world of work**
-  - https://openai.com/index/chatgpt-expanding-world-of-work
-- **How Fanatics and OpenAI streamline the fan experience**
-  - https://openai.com/index/fanatics-streamline-fan-experience
 
 ## Hugging Face
 
-- **LitPivot: Developing research ideas through dynamic contextualization within the literature landscape**
-  - https://huggingface.co/blog/allenai/litpivot
+- **Build specialized multimodal models with LFM3**
+  - https://huggingface.co/blog/LiquidAI/lfm3
+- **Can we trust LLMs to judge whether a research idea is novel?**
+  - https://huggingface.co/blog/allenai/novelty-bench
 - **Does Your Model Run on AWS Trainium? Look It Up**
   - https://huggingface.co/blog/torch-neuronx-model-support
 - **Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox**
   - https://huggingface.co/blog/microsoft/thinkingbox-training
 - **Ensemble forecasting with IBM Granite time-series models**
   - https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1
-- **NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required**
-  - https://huggingface.co/blog/nvidia/kumo-relational
 
 ## arXiv AI
 
-- **Inverse Modeling for Laser Pulse Shape Design in Inertial Confinement Fusion**
-  - https://arxiv.org/abs/2610.33096
-- **IRON-Meme: A Benchmark for Structured Understanding of Identities and Roles in Online Meme Narratives**
-  - https://arxiv.org/abs/2610.33097
-- **Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting**
-  - https://arxiv.org/abs/2610.33103
-- **Artificial Intelligence in Mechanical Engineering: Foundations, Opportunities, Challenges, and Responsibilities**
-  - https://arxiv.org/abs/2610.33105
-- **Conformance as a Distribution: Delegation Contracts, Error Budgets, and the Allocation of Evaluation Authority in Use-Based AI Regulation**
-  - https://arxiv.org/abs/2610.33112
+- **Counting the Bandages: On measuring the time that AI saves**
+  - https://arxiv.org/abs/2610.35942
+- **Enhancing Deep Learning Model Performance through Data Generation Strategies: Classification of Olive Tree Diseases**
+  - https://arxiv.org/abs/2610.35984
+- **The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents**
+  - https://arxiv.org/abs/2610.36077
+- **CohortFlow: A Steerable Clinical Cohort Curation Agent with Localized Semantic Correction**
+  - https://arxiv.org/abs/2610.36100
+- **Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction**
+  - https://arxiv.org/abs/2610.36116
 
 ## arXiv CL
 
-- **Whispering Wisely: Smart Subset Selection for ASR Fine-Tuning**
-  - https://arxiv.org/abs/2610.32997
-- **From Writing Advice to Manuscript Governance: A Constrained-Transformation Framework for Academic Revision**
-  - https://arxiv.org/abs/2610.33001
-- **Entity-Aware Evaluation of OCR Systems for Historical Document Transcription**
-  - https://arxiv.org/abs/2610.33004
-- **OpenESM: Energy-Steered Models Are Scalable Foundation Learners**
-  - https://arxiv.org/abs/2610.33005
-- **Linear-Time Context Compression with State-Space Encoding**
-  - https://arxiv.org/abs/2610.33006
+- **ReCoPII: A Relation-Grounded Framework for Building Contextual PII Masking Datasets**
+  - https://arxiv.org/abs/2610.35925
+- **MedJev: Evaluating Zero-Shot System-One Decision Making in Medicine**
+  - https://arxiv.org/abs/2610.36006
+- **OmniBrain-0: A Unified Agentic Model for Embodied Intelligence**
+  - https://arxiv.org/abs/2610.36013
+- **FinLLM-KG: Knowledge Graph-Enhanced LLMs for Financial Sentiment Analysis in Algorithmic Trading**
+  - https://arxiv.org/abs/2610.36083
+- **3, 7, 14, 17, 42: Instruction Tuning Installs and Sharpens Number-Choice Heuristics in Language Models**
+  - https://arxiv.org/abs/2610.36178
