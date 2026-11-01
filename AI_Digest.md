@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-10-31
+# 🤖 AI Digest — 2026-11-01
 
 ## OpenAI
 
@@ -28,16 +28,6 @@
 
 ## arXiv AI
 
-- **LRMoE: Demand-Side Load Re-Calibration for Efficient MoE Training on Memory-Constrained Nodes**
-  - https://arxiv.org/abs/2610.37720
-- **Amortized Localized Posterior Inference for Model Calibration with Application to an Ocean Turbulence Closure**
-  - https://arxiv.org/abs/2610.37731
-- **ThinkJev: One Thought, Every Budget for Calibrated Typed Decisions**
-  - https://arxiv.org/abs/2610.37732
-- **OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery**
-  - https://arxiv.org/abs/2610.37739
-- **WebAnything: From the Wild Web to Scalable Agent Environments**
-  - https://arxiv.org/abs/2610.37786
 
 ## arXiv CL
 
