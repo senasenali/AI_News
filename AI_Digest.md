@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-11-01
+# 🤖 AI Digest — 2026-11-02
 
 ## OpenAI
 
@@ -31,3 +31,13 @@
 
 ## arXiv CL
 
+- **Li$^{2}$SAO: Lifting Light Singl-Rollout Asynchronous RL Optimization via Group-Relative Actor-Critic Bootstrapping**
+  - https://arxiv.org/abs/2610.40726
+- **Mage-VL-Cowork: A Full Training Recipe to Learn Hybrid Computer Use From Evolved Harnesses**
+  - https://arxiv.org/abs/2610.40747
+- **The Generative Gap Between Speculative Drafter and Continuous Diffusion Language Model**
+  - https://arxiv.org/abs/2610.40847
+- **Qistas: A Pre-Registered, Portable Protocol for Fairness Evaluation of Large Language Models**
+  - https://arxiv.org/abs/2610.40893
+- **CoFiBreak: A Coarse-to-Fine Diversity Reward for Effective Multi-Turn Jailbreak**
+  - https://arxiv.org/abs/2610.40926
