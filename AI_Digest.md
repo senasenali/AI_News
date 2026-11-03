@@ -1,20 +1,22 @@
-# 🤖 AI Digest — 2026-11-02
+# 🤖 AI Digest — 2026-11-03
 
 ## OpenAI
 
-- **Making it easier for websites to express AI training preferences**
-  - https://openai.com/index/helping-websites-express-ai-training-preferences
-- **Community safety report and new protections for teens**
-  - https://openai.com/index/community-safety-report-and-new-protections-for-teens
-- **Fair use benefits everyone**
-  - https://openai.com/index/fair-use-benefits-everyone
-- **An updated Model Spec for more capable and beneficial AI**
-  - https://openai.com/index/updated-model-spec
-- **How we detect frontier model misalignment**
-  - https://openai.com/index/how-we-detect-frontier-model-misalignment
+- **Scaling Git at OpenAI**
+  - https://openai.com/index/scaling-git-at-openai
+- **Introducing the Grid Protectors Program**
+  - https://openai.com/index/grid-protectors-program
+- **Rewarding defenders with bigger bug bounties**
+  - https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties
+- **Preparing our next security sprint to harden OpenAI**
+  - https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai
+- **LifeVal**
+  - https://openai.com/index/lifeval
 
 ## Hugging Face
 
+- **Transformers Model Integration Contracts**
+  - https://huggingface.co/blog/transformers-mic
 - **nemotron-halloween**
   - https://huggingface.co/blog/nvidia/nemotron-halloween
 - **Granite Switch 4.1.1 — Update models like you update software**
@@ -23,21 +25,19 @@
   - https://huggingface.co/blog/announcing-project-protostar
 - **Welcome Le Chonk: Mistral Large 4 on Hugging Face**
   - https://huggingface.co/blog/mistral-large4
-- **Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms**
-  - https://huggingface.co/blog/anydecisionmodel
 
 ## arXiv AI
 
+- **More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum**
+  - https://arxiv.org/abs/2610.40758
+- **Beyond Plausible Prediction: Safety Sufficiency in Web World Models**
+  - https://arxiv.org/abs/2610.40798
+- **Circumventing the Computational Hardness of Computational Arbitrage**
+  - https://arxiv.org/abs/2610.40831
+- **Incongruence-Aware Evaluation of Multimodal Speech Emotion Recognition in Audio Large Language Models**
+  - https://arxiv.org/abs/2610.40883
+- **ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks**
+  - https://arxiv.org/abs/2610.40890
 
 ## arXiv CL
 
-- **Li$^{2}$SAO: Lifting Light Singl-Rollout Asynchronous RL Optimization via Group-Relative Actor-Critic Bootstrapping**
-  - https://arxiv.org/abs/2610.40726
-- **Mage-VL-Cowork: A Full Training Recipe to Learn Hybrid Computer Use From Evolved Harnesses**
-  - https://arxiv.org/abs/2610.40747
-- **The Generative Gap Between Speculative Drafter and Continuous Diffusion Language Model**
-  - https://arxiv.org/abs/2610.40847
-- **Qistas: A Pre-Registered, Portable Protocol for Fairness Evaluation of Large Language Models**
-  - https://arxiv.org/abs/2610.40893
-- **CoFiBreak: A Coarse-to-Fine Diversity Reward for Effective Multi-Turn Jailbreak**
-  - https://arxiv.org/abs/2610.40926
