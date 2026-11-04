@@ -1,43 +1,43 @@
-# 🤖 AI Digest — 2026-11-03
+# 🤖 AI Digest — 2026-11-04
 
 ## OpenAI
 
+- **Accelerating engineering for the physical world**
+  - https://openai.com/index/accelerating-engineering-for-the-physical-world
+- **How Cisco defends at machine speed with OpenAI**
+  - https://openai.com/index/cisco-cyber
+- **Heimstaden is changing residential real estate management with AI**
+  - https://openai.com/index/heimstaden
+- **OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer**
+  - https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer
 - **Scaling Git at OpenAI**
   - https://openai.com/index/scaling-git-at-openai
-- **Introducing the Grid Protectors Program**
-  - https://openai.com/index/grid-protectors-program
-- **Rewarding defenders with bigger bug bounties**
-  - https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties
-- **Preparing our next security sprint to harden OpenAI**
-  - https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai
-- **LifeVal**
-  - https://openai.com/index/lifeval
 
 ## Hugging Face
 
+- **StateBench: Testing how language models track state changes over long documents**
+  - https://huggingface.co/blog/allenai/statebench
+- **Palette: teaching a small model to build decks in your design language**
+  - https://huggingface.co/blog/ibm-research/palette-deck-building
+- **CWE-bench v2: More coverage, quality, and transparency**
+  - https://huggingface.co/blog/cwe-bench
 - **Transformers Model Integration Contracts**
   - https://huggingface.co/blog/transformers-mic
 - **nemotron-halloween**
   - https://huggingface.co/blog/nvidia/nemotron-halloween
-- **Granite Switch 4.1.1 — Update models like you update software**
-  - https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1
-- **Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready**
-  - https://huggingface.co/blog/announcing-project-protostar
-- **Welcome Le Chonk: Mistral Large 4 on Hugging Face**
-  - https://huggingface.co/blog/mistral-large4
 
 ## arXiv AI
 
-- **More Rules, Longer Lists? Benchmarking Self-Evolving Agents on a Hidden-Rule Curriculum**
-  - https://arxiv.org/abs/2610.40758
-- **Beyond Plausible Prediction: Safety Sufficiency in Web World Models**
-  - https://arxiv.org/abs/2610.40798
-- **Circumventing the Computational Hardness of Computational Arbitrage**
-  - https://arxiv.org/abs/2610.40831
-- **Incongruence-Aware Evaluation of Multimodal Speech Emotion Recognition in Audio Large Language Models**
-  - https://arxiv.org/abs/2610.40883
-- **ChatGPT as a Surveillance Assistant? An Exploratory Case Study of AI-Assisted Surveillance Risks**
-  - https://arxiv.org/abs/2610.40890
 
 ## arXiv CL
 
+- **From Fragmentation to Fusion: A Survey and Roadmap for Omnimodal Embeddings**
+  - https://arxiv.org/abs/2611.00172
+- **MEMENTO: Learning Context Management for Long Context Processing Agents**
+  - https://arxiv.org/abs/2611.00244
+- **Cross-Lingual Persona Effects in LLM Negotiation**
+  - https://arxiv.org/abs/2611.00300
+- **GAVAGAI: Referential Alignment for Infant-Scale Vision-Language Models via Balanced Optimal Transport**
+  - https://arxiv.org/abs/2611.00319
+- **Queering the Audits: Community-Based Auditing of AI Harms to Queer Communities**
+  - https://arxiv.org/abs/2611.00345
