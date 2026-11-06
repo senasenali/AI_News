@@ -1,53 +1,53 @@
-# 🤖 AI Digest — 2026-11-05
+# 🤖 AI Digest — 2026-11-06
 
 ## OpenAI
 
-- **OpenAI to acquire Pierre Computer Company, Inc.**
-  - https://openai.com/index/openai-to-acquire-pierre
-- **Daybreak Red is now available in AWS GovCloud (US-East)**
-  - https://openai.com/index/daybreak-red-aws-govcloud
-- **A thousand fewer paths to root**
-  - https://openai.com/index/a-thousand-fewer-paths-to-root
-- **Introducing Images 2.6**
-  - https://openai.com/index/introducing-images-2-6
-- **DevRev delivers autonomous self-service with GPT-6.1 Sol**
-  - https://openai.com/index/devrev-enterprise-self-service
+- **Australian universities are creating AI-native graduates**
+  - https://openai.com/index/australian-universities-ai-native-graduates
+- **Cult.fit builds operational muscle with Codex**
+  - https://openai.com/index/cultfit-builds-with-codex
+- **GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents**
+  - https://openai.com/index/introducing-gpt-6-cyber
+- **Merge builds product and business tools with OpenAI technology**
+  - https://openai.com/index/merge-builds-with-openai
+- **Setting a new standard for responsible AI infrastructure**
+  - https://openai.com/index/setting-new-standard-responsible-ai-infrastructure
 
 ## Hugging Face
 
+- **New NVIDIA Cosmos 3 Open Models for Interactive World Simulation**
+  - https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation
+- **A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.**
+  - https://huggingface.co/blog/phonon-tts
 - **Dharma Field Extractor: Any Document In, Structured Fields in JSON Out**
   - https://huggingface.co/blog/Dharma-AI/dharma-field-extractor
 - **StateBench: Testing how language models track state changes over long documents**
   - https://huggingface.co/blog/allenai/statebench
 - **Palette: teaching a small model to build decks in your design language**
   - https://huggingface.co/blog/ibm-research/palette-deck-building
-- **CWE-bench v2: More coverage, quality, and transparency**
-  - https://huggingface.co/blog/cwe-bench
-- **Transformers Model Integration Contracts**
-  - https://huggingface.co/blog/transformers-mic
 
 ## arXiv AI
 
-- **Who May Overrule the Agent? Evidence-Gated Authority in LLM Review Institutions**
-  - https://arxiv.org/abs/2611.05390
-- **Agent Harness Awareness: Turning Verified Telemetry into Operational Control for Tool-Using Agents**
-  - https://arxiv.org/abs/2611.05391
-- **Uncertainty-Aware Resource Orchestration for Agentic AI Systems**
-  - https://arxiv.org/abs/2611.05392
-- **Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning**
-  - https://arxiv.org/abs/2611.05393
-- **A Feasibility Condition for Confidence-Gated Tiered LLM Inference**
-  - https://arxiv.org/abs/2611.05394
+- **Formalizing inverse problems in the age of AI: possibilities, pitfalls, and an invitation**
+  - https://arxiv.org/abs/2611.06962
+- **KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Tasks**
+  - https://arxiv.org/abs/2611.06972
+- **BlockLock: Reproducible LLM Inference with Fixed Batch Geometry**
+  - https://arxiv.org/abs/2611.06977
+- **Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism**
+  - https://arxiv.org/abs/2611.06984
+- **The Two-Ledger Model: Transaction-Grain Cost Accounting for Multi-Agent AI Systems Across Clouds, Models, and Systems of Record**
+  - https://arxiv.org/abs/2611.06989
 
 ## arXiv CL
 
-- **Discourse Analysis of Legislative Bill Discussions**
-  - https://arxiv.org/abs/2611.05381
-- **DS@GT ARC at CheckThat! 2026: A Verdict-Anchored Pipeline for Generating Fact-Checking Articles**
-  - https://arxiv.org/abs/2611.05382
-- **CCDWIKI: Decoupling Case Formulation from Response Generation in Longitudinal CBT Dialogue**
-  - https://arxiv.org/abs/2611.05383
-- **Human-like cross-language generalisation in deep neural speaker embeddings and its acoustic foundations**
-  - https://arxiv.org/abs/2611.05384
-- **Same Origin, Different Verdicts: Text Production Conditions Confound Machine-Generated Text Detection in Russian**
-  - https://arxiv.org/abs/2611.05385
+- **Interactive Backdoor Attacks in LLM-Based Proactive Dialogue Systems**
+  - https://arxiv.org/abs/2611.06969
+- **On the Opportunities and Challenges of Prefill-to-Autoregressive Cross-Model Transfer**
+  - https://arxiv.org/abs/2611.06976
+- **Follow the Policy, Fail the Benchmark: Auditing and Revising Policy-Based Decision Benchmarks**
+  - https://arxiv.org/abs/2611.07042
+- **Reclassification Is All You Missed: Surfacing Variant Reinterpretation Need in Online Health Communities at Population Scale**
+  - https://arxiv.org/abs/2611.07054
+- **Automated Feedback to Peer Tutors Increases Their Talk Moves and Learner Reasoning but Not the Balance of Talk**
+  - https://arxiv.org/abs/2611.07072
