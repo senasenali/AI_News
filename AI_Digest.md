@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-11-08
+# 🤖 AI Digest — 2026-11-09
 
 ## OpenAI
 
@@ -31,3 +31,13 @@
 
 ## arXiv CL
 
+- **Forcing a Letter Suppresses Refusal: Mechanistic Evidence from WMDP**
+  - https://arxiv.org/abs/2611.08639
+- **FinEvolveKG: Controlled and Attributable Prompt Evolution for Financial Knowledge Graph Construction**
+  - https://arxiv.org/abs/2611.08643
+- **Compression of Emotion in Language Model Representations**
+  - https://arxiv.org/abs/2611.08683
+- **Contextuality and Contradictions: Exploring Real-World Identifications of AI-Generated Writing**
+  - https://arxiv.org/abs/2611.08704
+- **RL-ATTACK: A Generalized Black-Box Adversarial Attack on Language Models via Reinforcement Learning**
+  - https://arxiv.org/abs/2611.08711
