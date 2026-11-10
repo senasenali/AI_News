@@ -1,30 +1,30 @@
-# 🤖 AI Digest — 2026-11-09
+# 🤖 AI Digest — 2026-11-10
 
 ## OpenAI
 
+- **ChatGPT Enterprise now available in AWS Marketplace**
+  - https://openai.com/index/chatgpt-enterprise-aws-marketplace
+- **Control Room: A central system to track and stop model workloads across our research infrastructure**
+  - https://openai.com/index/control-room
+- **CodeRabbit scales agentic software development and ships 20x more**
+  - https://openai.com/index/coderabbit-codex-daybreak
+- **Kuken Industries searches 70 years of drawings in minutes**
+  - https://openai.com/index/kuken
 - **Partnering with Hacktron to find vulnerabilities in OpenAI’s systems**
   - https://openai.com/index/partnering-with-hacktron
-- **Measuring how AI agents handle everyday wet-lab science**
-  - https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science
-- **Australian universities are creating AI-native graduates**
-  - https://openai.com/index/australian-universities-ai-native-graduates
-- **Cult.fit builds operational muscle with Codex**
-  - https://openai.com/index/cultfit-builds-with-codex
-- **GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents**
-  - https://openai.com/index/introducing-gpt-6-cyber
 
 ## Hugging Face
 
+- **Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context**
+  - https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan
+- **Your Experts Have Partners. There's HOPE for Keeping Them Together**
+  - https://huggingface.co/blog/amazon/higher-order-pruning-experts
 - **ToyBlocks: A controlled world for robot learning and evaluation**
   - https://huggingface.co/blog/allenai/toyblocks
 - **Egyptian and Nigerian English join the Open ASR Leaderboard**
   - https://huggingface.co/blog/open-asr-leaderboard-liva
-- **New NVIDIA Cosmos 3 Open Models for Interactive World Simulation**
-  - https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation
 - **A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.**
   - https://huggingface.co/blog/phonon-tts
-- **Dharma Field Extractor: Any Document In, Structured Fields in JSON Out**
-  - https://huggingface.co/blog/Dharma-AI/dharma-field-extractor
 
 ## arXiv AI
 
