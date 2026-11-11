@@ -1,43 +1,53 @@
-# 🤖 AI Digest — 2026-11-10
+# 🤖 AI Digest — 2026-11-11
 
 ## OpenAI
 
-- **ChatGPT Enterprise now available in AWS Marketplace**
-  - https://openai.com/index/chatgpt-enterprise-aws-marketplace
-- **Control Room: A central system to track and stop model workloads across our research infrastructure**
-  - https://openai.com/index/control-room
-- **CodeRabbit scales agentic software development and ships 20x more**
-  - https://openai.com/index/coderabbit-codex-daybreak
-- **Kuken Industries searches 70 years of drawings in minutes**
-  - https://openai.com/index/kuken
-- **Partnering with Hacktron to find vulnerabilities in OpenAI’s systems**
-  - https://openai.com/index/partnering-with-hacktron
+- **Gilbert + Tobin rethinks the business of law with AI**
+  - https://openai.com/index/gilbert-tobin-sam-nickless
+- **ChatGPT Plus for veterans and servicemembers**
+  - https://openai.com/index/chatgpt-plus-for-veterans
+- **Helping caregivers use AI in everyday life**
+  - https://openai.com/index/helping-caregivers-use-ai-in-everyday-life
+- **Introducing Businesses in ChatGPT**
+  - https://openai.com/index/introducing-businesses-chatgpt
+- **Closing the AI guidance gap in education**
+  - https://openai.com/index/closing-ai-guidance-gap-education
 
 ## Hugging Face
 
+- **BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model**
+  - https://huggingface.co/blog/qvac/botpsy
+- **Pay for Hugging Face Hub with your Google Cloud Account**
+  - https://huggingface.co/blog/hub-gcp-marketplace
+- **Decision Models in Hugging Face**
+  - https://huggingface.co/blog/decision
 - **Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context**
   - https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan
 - **Your Experts Have Partners. There's HOPE for Keeping Them Together**
   - https://huggingface.co/blog/amazon/higher-order-pruning-experts
-- **ToyBlocks: A controlled world for robot learning and evaluation**
-  - https://huggingface.co/blog/allenai/toyblocks
-- **Egyptian and Nigerian English join the Open ASR Leaderboard**
-  - https://huggingface.co/blog/open-asr-leaderboard-liva
-- **A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.**
-  - https://huggingface.co/blog/phonon-tts
 
 ## arXiv AI
 
+- **Auditable Human-Agent Teams for Autonomous X-ray Experimentation**
+  - https://arxiv.org/abs/2611.12933
+- **EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery**
+  - https://arxiv.org/abs/2611.12934
+- **Train on prefill, monitor at decode: Using sparse autoencoders for topic monitoring**
+  - https://arxiv.org/abs/2611.12935
+- **LandslideFM: A Foundation Model Towards Unified Landslide Perception and Understanding**
+  - https://arxiv.org/abs/2611.12936
+- **Tracing Psychometric Inference in Large Language Models**
+  - https://arxiv.org/abs/2611.12937
 
 ## arXiv CL
 
-- **Forcing a Letter Suppresses Refusal: Mechanistic Evidence from WMDP**
-  - https://arxiv.org/abs/2611.08639
-- **FinEvolveKG: Controlled and Attributable Prompt Evolution for Financial Knowledge Graph Construction**
-  - https://arxiv.org/abs/2611.08643
-- **Compression of Emotion in Language Model Representations**
-  - https://arxiv.org/abs/2611.08683
-- **Contextuality and Contradictions: Exploring Real-World Identifications of AI-Generated Writing**
-  - https://arxiv.org/abs/2611.08704
-- **RL-ATTACK: A Generalized Black-Box Adversarial Attack on Language Models via Reinforcement Learning**
-  - https://arxiv.org/abs/2611.08711
+- **From Relevant Posts to Attributable Spans: Explicit Symptom Evidence for Depression Questionnaire Inference**
+  - https://arxiv.org/abs/2611.12900
+- **Rethinking in Spikes: Mitigating Hallucinations in MDLMs with Step-Aware Decoding**
+  - https://arxiv.org/abs/2611.12901
+- **TimeOmni-o1: Bidirectionally Coupling Time Series Foundation Models and LLMs for Multimodal Reasoning and Forecasting**
+  - https://arxiv.org/abs/2611.12902
+- **SELD: Detecting Silent Evidence Loss in Context Compression beyond the Answer**
+  - https://arxiv.org/abs/2611.12903
+- **Actionable Feedback: Improving Model Capabilities from User Edit Data on Clinical Documentation**
+  - https://arxiv.org/abs/2611.12904
