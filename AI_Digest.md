@@ -1,30 +1,30 @@
-# 🤖 AI Digest — 2026-11-12
+# 🤖 AI Digest — 2026-11-13
 
 ## OpenAI
 
+- **How Amplitude ships product improvements in 1–2 days with OpenAI**
+  - https://openai.com/business/customer-stories/amplitude
+- **Gondola doubles revenue as its team builds more with Codex**
+  - https://openai.com/business/customer-stories/gondola
+- **Holiday Extras is rethinking what it can build with Codex**
+  - https://openai.com/business/customer-stories/holidays-extras-codex
+- **Supporting research on AI and children’s safety**
+  - https://openai.com/index/children-first-declaration
 - **Gilbert + Tobin rethinks the business of law with AI**
   - https://openai.com/index/gilbert-tobin-sam-nickless
-- **ChatGPT Plus for veterans and servicemembers**
-  - https://openai.com/index/chatgpt-plus-for-veterans
-- **JioStar’s chief architect on AI discovery at 500M-user scale**
-  - https://openai.com/index/jiostar-vijay-seshadri
-- **Helping caregivers use AI in everyday life**
-  - https://openai.com/index/helping-caregivers-use-ai-in-everyday-life
-- **Introducing Businesses in ChatGPT**
-  - https://openai.com/index/introducing-businesses-chatgpt
 
 ## Hugging Face
 
+- **LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B**
+  - https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite
+- **The Definitive Fine-Tuning Guide for 3D Generation Models**
+  - https://huggingface.co/blog/3d-lora-finetuning
 - **BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model**
   - https://huggingface.co/blog/qvac/botpsy
 - **Token Pooling-Aware Training for Multi-Vector Embedding Models**
   - https://huggingface.co/blog/token-pooling
 - **Pay for Hugging Face Hub with your Google Cloud Account**
   - https://huggingface.co/blog/hub-gcp-marketplace
-- **Decision Models in Hugging Face**
-  - https://huggingface.co/blog/decision
-- **Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context**
-  - https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan
 
 ## arXiv AI
 
