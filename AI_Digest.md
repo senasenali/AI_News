@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-11-14
+# 🤖 AI Digest — 2026-11-15
 
 ## OpenAI
 
@@ -28,16 +28,6 @@
 
 ## arXiv AI
 
-- **Zugwise: Domain-Aware Game Reconstruction for Digitizing Handwritten Chess Scoresheets**
-  - https://arxiv.org/abs/2611.14544
-- **Cleaning an Agent's History Hurts When the World Still Holds the Error**
-  - https://arxiv.org/abs/2611.14654
-- **Together Compiler: Continual Compilation for AI Inference**
-  - https://arxiv.org/abs/2611.14681
-- **When Should Semantic Priors Enter Partially-Identified Causal Discovery?**
-  - https://arxiv.org/abs/2611.14736
-- **SynthCorp: A Platform for Creating Benchmarks for Data Agents**
-  - https://arxiv.org/abs/2611.14765
 
 ## arXiv CL
 
