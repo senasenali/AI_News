@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-11-15
+# 🤖 AI Digest — 2026-11-16
 
 ## OpenAI
 
+- **A step toward defining the Standard Model on a lattice**
+  - https://openai.com/index/step-toward-defining-the-standard-model
+- **Our new blog for science**
+  - https://openai.com/index/our-new-blog-for-science
 - **Introducing ChatGPT Wallet**
   - https://openai.com/index/introducing-chatgpt-wallet
 - **Shield helps technicians hand off legacy portal work with OpenAI**
   - https://openai.com/business/customer-stories/shield
 - **How Amplitude ships product improvements in 1–2 days with OpenAI**
   - https://openai.com/business/customer-stories/amplitude
-- **Gondola doubles revenue as its team builds more with Codex**
-  - https://openai.com/business/customer-stories/gondola
-- **Holiday Extras is rethinking what it can build with Codex**
-  - https://openai.com/business/customer-stories/holidays-extras-codex
 
 ## Hugging Face
 
@@ -28,6 +28,26 @@
 
 ## arXiv AI
 
+- **When Should LLM Agents Forget? Memory Filtering Under Query-Critical Resolver Errors**
+  - https://arxiv.org/abs/2611.17338
+- **Does the Ranking Hold? A Practitioner-Facing Audit of Hallucination Detectors on Small, Quantized, On-Device LLMs**
+  - https://arxiv.org/abs/2611.17339
+- **LoRAWeaver: Directional Adapter Routing in LoRA Representation Space**
+  - https://arxiv.org/abs/2611.17340
+- **Tabular Population Priors as Structured Retrieval for EHR Medication Set Prediction**
+  - https://arxiv.org/abs/2611.17341
+- **An Operationalization of Opaque Serial Depth**
+  - https://arxiv.org/abs/2611.17495
 
 ## arXiv CL
 
+- **Tracing Knowledge and Reasoning in LLM**
+  - https://arxiv.org/abs/2611.17461
+- **Poetry 'resurrection' from LLMs**
+  - https://arxiv.org/abs/2611.17464
+- **Creating Steering Vectors via Input Optimisation**
+  - https://arxiv.org/abs/2611.17481
+- **Benchmarks Don't Talk Back: Learning Through Self-Disagreement**
+  - https://arxiv.org/abs/2611.17563
+- **CamSpokenNLI: A Pilot Resource for Cross-Variety Transfer Evaluation in Cameroon Pidgin English and Camfranglais**
+  - https://arxiv.org/abs/2611.17573
