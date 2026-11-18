@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-11-17
+# 🤖 AI Digest — 2026-11-18
 
 ## OpenAI
 
+- **Introducing GPT-6.2 Astra and Sol**
+  - https://openai.com/index/introducing-gpt-6-2-astra-sol
 - **Strengthening NATO and allied cyber defenses with AI**
   - https://openai.com/index/strengthening-nato-allied-cyber-defences-ai
-- **Broadening access to AI for scientists**
-  - https://openai.com/index/expanding-chatgpt-for-academic-researchers
-- **Strengthening the fight against online child sexual abuse with new tools and support**
-  - https://openai.com/index/strengthening-online-child-safety
-- **Science at the Frontier: How scientists use ChatGPT**
-  - https://openai.com/index/science-at-the-frontier
-- **How Revolut raises ambition without lowering the bar**
-  - https://openai.com/business/customer-stories/revolut
+- **Introducing ChatGPT for Sales**
+  - https://openai.com/index/introducing-chatgpt-for-sales
+- **Astra for Law leads in legal intelligence**
+  - https://openai.com/index/astra-law-6-2
+- **Introducing OpenAI for Chile**
+  - https://openai.com/index/introducing-openai-for-chile
 
 ## Hugging Face
 
@@ -28,6 +28,26 @@
 
 ## arXiv AI
 
+- **NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models**
+  - https://arxiv.org/abs/2611.21682
+- **Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability**
+  - https://arxiv.org/abs/2611.21799
+- **How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR**
+  - https://arxiv.org/abs/2611.21827
+- **Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research**
+  - https://arxiv.org/abs/2611.21832
+- **Language Models Can Rewrite Their Own Weights**
+  - https://arxiv.org/abs/2611.21885
 
 ## arXiv CL
 
+- **CrisisBench: an evaluation suite for crisis counseling AI**
+  - https://arxiv.org/abs/2611.21622
+- **RAW: Refusal Aversion in the Wild, A Causal Measurement Method for Deployed LLMs**
+  - https://arxiv.org/abs/2611.21641
+- **Sleep2Word: Peripheral-to-EEG Translation via Duration-Aware Wordization**
+  - https://arxiv.org/abs/2611.21643
+- **MInfoVisQA: A Multilingual Benchmark for Information-Rich Visual Question Answering**
+  - https://arxiv.org/abs/2611.21644
+- **Limite 1B - Violetto: Technical Report**
+  - https://arxiv.org/abs/2611.21646
