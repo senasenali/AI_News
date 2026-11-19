@@ -1,30 +1,30 @@
-# 🤖 AI Digest — 2026-11-18
+# 🤖 AI Digest — 2026-11-19
 
 ## OpenAI
 
-- **Introducing GPT-6.2 Astra and Sol**
-  - https://openai.com/index/introducing-gpt-6-2-astra-sol
-- **Strengthening NATO and allied cyber defenses with AI**
-  - https://openai.com/index/strengthening-nato-allied-cyber-defences-ai
-- **Introducing ChatGPT for Sales**
-  - https://openai.com/index/introducing-chatgpt-for-sales
-- **Astra for Law leads in legal intelligence**
-  - https://openai.com/index/astra-law-6-2
-- **Introducing OpenAI for Chile**
-  - https://openai.com/index/introducing-openai-for-chile
+- **The Silent Consensus**
+  - https://openai.com/index/the-silent-consensus
+- **Research acceleration: The jagged frontier**
+  - https://openai.com/index/research-acceleration-jagged-frontier
+- **How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise**
+  - https://openai.com/business/customer-stories/sumitomo-life
+- **Inside the Codex sandbox**
+  - https://openai.com/index/inside-the-codex-sandbox
+- **Managing frontier AI risk: From training to deployment**
+  - https://openai.com/index/managing-frontier-ai-risk
 
 ## Hugging Face
 
-- **Hugging Face and OpenRouter join forces to make open-weight models easy to run**
-  - https://huggingface.co/blog/openrouter
-- **Build a Robot Pick-and-Place Simulation with SimReady Assets**
-  - https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place
-- **XYBench: Helping with the problem behind the question**
-  - https://huggingface.co/blog/allenai/xybench
-- **llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem**
-  - https://huggingface.co/blog/ggml-org/llama-cpp-v1
-- **LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B**
-  - https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite
+- **DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency**
+  - https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin
+- **Why your fine-tuning job takes longer than the FLOPs say**
+  - https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time
+- **Time-Series Models in the Streamhouse: A New Frontier and Use Cases**
+  - https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse
+- **180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers**
+  - https://huggingface.co/blog/moe-expert-streaming
+- **Rumble-2-Flash: an open 0.5B speech model for 40+ languages**
+  - https://huggingface.co/blog/rumble-2-flash
 
 ## arXiv AI
 
