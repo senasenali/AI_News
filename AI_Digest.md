@@ -1,17 +1,17 @@
-# 🤖 AI Digest — 2026-11-19
+# 🤖 AI Digest — 2026-11-20
 
 ## OpenAI
 
-- **The Silent Consensus**
-  - https://openai.com/index/the-silent-consensus
-- **Research acceleration: The jagged frontier**
-  - https://openai.com/index/research-acceleration-jagged-frontier
-- **How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise**
-  - https://openai.com/business/customer-stories/sumitomo-life
-- **Inside the Codex sandbox**
-  - https://openai.com/index/inside-the-codex-sandbox
-- **Managing frontier AI risk: From training to deployment**
-  - https://openai.com/index/managing-frontier-ai-risk
+- **How OpenAI’s Performance Factory keeps ChatGPT fast**
+  - https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast
+- **Deploying Daybreak Red**
+  - https://openai.com/business/learn/deploying-daybreak-red
+- **See PR scans in action**
+  - https://openai.com/business/learn/pr-scans-demo
+- **Explore the Codex Security Plugin**
+  - https://openai.com/business/learn/codex-security-plugin-demo
+- **Get started with Daybreak Blue**
+  - https://openai.com/business/learn/daybreak-blue-onboarding-demo
 
 ## Hugging Face
 
@@ -28,26 +28,26 @@
 
 ## arXiv AI
 
-- **NEBench R1: a Reasoning Benchmark for Evaluating Nuclear Domain Competence in Large Language Models**
-  - https://arxiv.org/abs/2611.21682
-- **Chain-of-Thought Controllability Can Reduce Chain-of-Thought Monitorability**
-  - https://arxiv.org/abs/2611.21799
-- **How Much of SAR Vehicle Recognition Is the Vehicle? Background Shortcuts, Angle Gaps and Partial Libraries on MSTAR and ATRNet-STAR**
-  - https://arxiv.org/abs/2611.21827
-- **Auditors Struggle to Catch Sabotage In End-to-End Transcripts of AI Safety Research**
-  - https://arxiv.org/abs/2611.21832
-- **Language Models Can Rewrite Their Own Weights**
-  - https://arxiv.org/abs/2611.21885
+- **Human-AI Mutualism Is Unstable under Capability Asymmetry**
+  - https://arxiv.org/abs/2611.23322
+- **Training Language Models for Introspective Oversight**
+  - https://arxiv.org/abs/2611.23365
+- **Where the Tokens Go: Heat, Entropy and Error in Agentic Coding**
+  - https://arxiv.org/abs/2611.23375
+- **HardwareDx: A Foundational Graph Model System for Datacenter Machine Repairs**
+  - https://arxiv.org/abs/2611.23398
+- **RFBench: A Simulator-Grounded Multimodal Benchmark for Passive RF Layout Design and Understanding**
+  - https://arxiv.org/abs/2611.23410
 
 ## arXiv CL
 
-- **CrisisBench: an evaluation suite for crisis counseling AI**
-  - https://arxiv.org/abs/2611.21622
-- **RAW: Refusal Aversion in the Wild, A Causal Measurement Method for Deployed LLMs**
-  - https://arxiv.org/abs/2611.21641
-- **Sleep2Word: Peripheral-to-EEG Translation via Duration-Aware Wordization**
-  - https://arxiv.org/abs/2611.21643
-- **MInfoVisQA: A Multilingual Benchmark for Information-Rich Visual Question Answering**
-  - https://arxiv.org/abs/2611.21644
-- **Limite 1B - Violetto: Technical Report**
-  - https://arxiv.org/abs/2611.21646
+- **LLM Complexity: Towards a Computational Complexity View of Large Language Model Inference**
+  - https://arxiv.org/abs/2611.24943
+- **ICARE: cross-domain text classification with incremental class-aware representation and distillation learning**
+  - https://arxiv.org/abs/2611.24959
+- **TETHER: Training-Free, Elastic, ToC-Anchored Hierarchy Extraction and Recovery in Design-Driven Long Documents**
+  - https://arxiv.org/abs/2611.24960
+- **Physics of Language Models: Part 4.2, Canon Layers at Scale where Synthetic Pretraining Resonates in Reality**
+  - https://arxiv.org/abs/2611.24963
+- **Global Importance Estimation for KV Cache Eviction**
+  - https://arxiv.org/abs/2611.24969
