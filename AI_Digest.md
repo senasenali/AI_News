@@ -1,43 +1,33 @@
-# 🤖 AI Digest — 2026-11-23
+# 🤖 AI Digest — 2026-11-24
 
 ## OpenAI
 
+- **OpenAI and Cisco introduce Shirudo**
+  - https://openai.com/index/introducing-shirudo
+- **Connected intelligence for in-house legal**
+  - https://openai.com/business/learn/connected-intelligence-for-in-house-legal
+- **Richpanel helps companies automate 50% of support in 30 days**
+  - https://openai.com/business/customer-stories/richpanel-ai-customer-support
 - **Perplexity and Intelligence**
   - https://openai.com/index/perplexity-and-intelligence
 - **Combatting adversarial distillation**
   - https://openai.com/index/combatting-adversarial-distillation
-- **Hebbia sees improvements in financial research with GPT-6 Astra**
-  - https://openai.com/business/customer-stories/hebbia
-- **Can AI help scientists identify promising drug candidates?**
-  - https://openai.com/index/introducing-medchembench
-- **How OpenAI’s Performance Factory keeps ChatGPT fast**
-  - https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast
 
 ## Hugging Face
 
+- **RoboTrack: Point tracking for real-world robotic manipulation**
+  - https://huggingface.co/blog/allenai/robotrack
+- **How to build and maintain an agentic evaluation**
+  - https://huggingface.co/blog/agentic-evals
 - **Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup**
   - https://huggingface.co/blog/inkling2mini
 - **Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost**
   - https://huggingface.co/blog/harness-adapters-at-scale
 - **DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency**
   - https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin
-- **Why your fine-tuning job takes longer than the FLOPs say**
-  - https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time
-- **Time-Series Models in the Streamhouse: A New Frontier and Use Cases**
-  - https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse
 
 ## arXiv AI
 
-- **Adding One More Agent: How AI Team Size and Formation Shape Productivity and Diversity in Human-AI Brainstorming Teams**
-  - https://arxiv.org/abs/2611.26663
-- **Coherence by Construction: Synthesizing CTI Knowledge Graphs and the Formal Limits of Coherence Validation**
-  - https://arxiv.org/abs/2611.26717
-- **TOUMAII: A 4.5M-Pair Tool-Calling Preference Dataset and Its Source-Agnostic Generator**
-  - https://arxiv.org/abs/2611.26722
-- **ChatAtom: A Multi-Agent LLM System for Molecular Dynamics Simulation and Visualization**
-  - https://arxiv.org/abs/2611.26782
-- **Beyond Final Answers: Interpretable Tumor Immune Microenvironment Reasoning from H&E and mIF**
-  - https://arxiv.org/abs/2611.26794
 
 ## arXiv CL
 
