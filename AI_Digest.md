@@ -1,4 +1,4 @@
-# 🤖 AI Digest — 2026-11-26
+# 🤖 AI Digest — 2026-11-27
 
 ## OpenAI
 
@@ -15,29 +15,29 @@
 
 ## Hugging Face
 
+- **Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon**
+  - https://huggingface.co/blog/ggml-org/llamacpp-amd-bench
 - **Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference**
   - https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin
+- **Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems**
+  - https://huggingface.co/blog/training-swarms
 - **Where scientists draw the line on AI agents**
   - https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents
 - **An Indic Voice Agent with CUGA**
   - https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga
-- **Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000**
-  - https://huggingface.co/blog/inkling-2-mini-inference-hillclimb
-- **How to build and maintain an agentic evaluation**
-  - https://huggingface.co/blog/agentic-evals
 
 ## arXiv AI
 
-- **Irreducible Governance Structure for Autonomous Agent Systems: Fair Allocation, Strategy-Proofness, and Multi-Scale Composition**
-  - https://arxiv.org/abs/2611.31284
-- **MOZAIC: An Audio-Video Deepfake Benchmark for Telling What Is Fake**
-  - https://arxiv.org/abs/2611.31301
-- **Conservative Overlap Fuzzy Rough Sets for Incomplete Data**
-  - https://arxiv.org/abs/2611.31329
-- **Beyond Static Charts: Benchmarking Interactive Chart-to-Code Generation for MLLMs**
-  - https://arxiv.org/abs/2611.31345
-- **What People Choose Not to Say: A Multimodal Benchmark for Fine-Grained Information Manipulation in Conversations**
-  - https://arxiv.org/abs/2611.31346
+- **Context Scaling: A New Frontier of AI Scaling**
+  - https://arxiv.org/abs/2611.33160
+- **Constraint-Aware Test-Time Scoring for LLM and VLM Candidate Selection**
+  - https://arxiv.org/abs/2611.33161
+- **AutoformBench: A Lean Formalization Benchmark for Advanced Mathematics**
+  - https://arxiv.org/abs/2611.33165
+- **General-Purpose Decision Models for AI Configuration Tuning**
+  - https://arxiv.org/abs/2611.33190
+- **What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning**
+  - https://arxiv.org/abs/2611.33263
 
 ## arXiv CL
 
